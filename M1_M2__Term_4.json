@@ -1,0 +1,2496 @@
+{
+    "__type__": "Deck",
+    "children": [
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "adc0e9c2-c098-11e9-97dc-acde48001122",
+            "deck_config_uuid": "34c8a38c-b152-11e9-84d7-dca9046e43a6",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [
+                "3449a0edfeece0e0a73fad927640b2d4.jpg",
+                "CellulitisJmh649.JPG",
+                "Jmhc-17-1120-Fig1.png",
+                "Screen Shot 2017-03-05 at 8.52.46 PM.png",
+                "Screen Shot 2019-08-14 at 8.43.06 AM.png",
+                "Screen Shot 2019-08-15 at 10.47.22 AM.png",
+                "Screen Shot 2019-08-15 at 11.00.58 AM.png",
+                "Screen Shot 2019-08-15 at 11.24.59 AM.png",
+                "Screen Shot 2019-08-16 at 9.34.55 AM.png",
+                "Screen Shot 2019-08-16 at 9.47.28 AM.png",
+                "Screen Shot 2019-08-21 at 8.47.36 AM.png",
+                "Screen Shot 2019-08-22 at 9.15.50 AM.png",
+                "Screen Shot 2019-08-25 at 4.50.12 PM.png",
+                "Screen Shot 2019-08-26 at 9.20.59 AM.png",
+                "Screen Shot 2019-08-26 at 9.21.16 AM.png",
+                "Screen Shot 2019-08-26 at 9.49.56 AM.png",
+                "The-principle-of-immunocytochemistry-for-Ki-67-proliferation-marker-adapted-from.png",
+                "a-Showing-exophytic-ulcerative-tumor-14-9-cm-2-in-the-back-of-the-hand-arm-b.png",
+                "paste-101271033872385.jpg",
+                "paste-104170136797185.jpg",
+                "paste-105097849733121_1544830391401.jpg",
+                "paste-108658377621505_1544830391401.jpg",
+                "paste-109787954020353.jpg",
+                "paste-110908940484609.jpg",
+                "paste-111265422770177.jpg",
+                "paste-11465ad51271178cd9885046cd6be45178d2bfb7.jpg",
+                "paste-120821725003777.jpg",
+                "paste-123089467736065.jpg",
+                "paste-12313671237633.jpg",
+                "paste-12455405158401_1544830391401.jpg",
+                "paste-12d14b20bd82b82ac03ee2a7eee080c7550649d6.jpg",
+                "paste-16080357556725.jpg",
+                "paste-1de8354a89b636e756678cd5a0caf6595059f296.jpg",
+                "paste-211007448285185.jpg",
+                "paste-30061e4cf53683d7b0b26ef871b2fedbc81dd3dc.jpg",
+                "paste-30803505446913.jpg",
+                "paste-397821345792562.jpg",
+                "paste-3fa10c8c312b4ce1dd13bd95301482f91377d8e1.jpg",
+                "paste-4915ac751b67078512b83209918932fadc297b73.jpg",
+                "paste-4e313587154a4b8af63bada6ebf4d565da744eaf.jpg",
+                "paste-58feb3a41b5e8a73a8bb3e3fd7ad0d2543ff98c5.jpg",
+                "paste-708875762271688.jpg",
+                "paste-90a7b2a801b2724d3a5ba27fa10ba8da6648cd4b.jpg",
+                "paste-9a6c75b711b18740e4fe5106cdd188668b308998.jpg",
+                "paste-9ac24769598c17aed1e17b81f4e69b80b08c240d.jpg",
+                "paste-a6659a76b1e09eb11bb3a8032b0e3f2f1e2e1503.jpg",
+                "paste-a6b8f4283aabd88ed65821928a6bcc2387d702df.jpg",
+                "paste-ace08d10909ac56e01de4549ddcac0942c523d8e.jpg",
+                "paste-ad736b12bcb586bc6f6f0051d0c4c969b3501ca5.jpg",
+                "paste-b37400d93d2b3a0d305401c17795791bfeb199de.jpg",
+                "paste-cfd39f272c62e1a564de3ffbc6684736e7f2bcc9.jpg",
+                "paste-d7fa3327f20becf43311f239c9b0878356210c6f.jpg",
+                "paste-e06ac10296a89dfda746399022ab95c9456652a9.jpg",
+                "paste-ebb175c1281f7fcb696ed1d8115afe3f7731d8e8.jpg",
+                "paste-ebc0ed032b16289a9249fe0a5b8f76426f34bfd0.jpg",
+                "paste-ede13ae8d33d2ab5c59e3a3a3db124349e0a163a.jpg",
+                "paste-f0edab44f99a40de443b908194d90e7cba5b97a2.jpg",
+                "paste-fffd50cb4cce5b66b05c7ce0b25945f7dc7a9cd6.jpg"
+            ],
+            "mid": "1566767077263",
+            "name": "(1)-Foundations to Clinical Medicine ",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::Protonated::protonated/unprotonated}} form of a weak <b>acid</b> is the <b><u>more liposoluble</u></b> form",
+                        "<div><img src=\"paste-12313671237633.jpg\"></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "vdBTd;$(+S",
+                    "note_model_uuid": "b008aac6-c098-11e9-a788-acde48001122",
+                    "tags": [
+                        "Term4::Term4Exam1(Tin_Chu)",
+                        "Term4::week2::pharmacology::lecture10"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::Unprotonated::protonated/unprotonated}} form of a weak <b>base</b> is the more liposoluble form",
+                        "<div><img src=\"paste-12455405158401_1544830391401.jpg\" /></div>Week 2 Lecture 10 Pharmacokinetics 1"
+                    ],
+                    "flags": 0,
+                    "guid": "rSpID*)k#s",
+                    "note_model_uuid": "b008aac6-c098-11e9-a788-acde48001122",
+                    "tags": [
+                        "Term4::Term4Exam1(Tin_Chu)",
+                        "Term4::week2::pharmacology::lecture10"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::P-glycoprotein (MDR1)::What cellular organelle}} <u>reduces drug absorption</u> by pumping absorbed drug back out into the lumen",
+                        "<div><b>Primary active transport</b>; line the gut</div><div><img src=\"paste-30803505446913.jpg\"></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "ua_Z|JW?xH",
+                    "note_model_uuid": "b008aac6-c098-11e9-a788-acde48001122",
+                    "tags": [
+                        "Term4::Term4Exam1(Tin_Chu)",
+                        "Term4::week2::pharmacology::lecture10"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<u>Acidic drugs</u> bind to {{c1::plasma albumin::which plasma proteins}} which can affect drug <b>distribution</b>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "A7#]*b<!vt",
+                    "note_model_uuid": "b008aac6-c098-11e9-a788-acde48001122",
+                    "tags": [
+                        "Term4::Term4Exam1(Tin_Chu)",
+                        "Term4::week2::pharmacology::lecture10"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<u>Basic (pH) drugs</u> bind to {{c1::α1-acid glycoprotein::which plasma proteins}} and can affect drug distribution",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "C0=O/##aD&",
+                    "note_model_uuid": "b008aac6-c098-11e9-a788-acde48001122",
+                    "tags": [
+                        "Term4::Term4Exam1(Tin_Chu)",
+                        "Term4::week2::pharmacology::lecture10"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Drugs can <u>accumulate in tissues</u> and serve as a {{c1::reservoir}} that prolongs drug action",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "n4IZyn_M~V",
+                    "note_model_uuid": "b008aac6-c098-11e9-a788-acde48001122",
+                    "tags": [
+                        "Term4::Term4Exam1(Tin_Chu)",
+                        "Term4::week2::pharmacology::lecture10"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Drugs that can enter the <b>blood-brain barrier</b> must be highly {{c1::<b>liposoluble</b>}} or {{c2::have an <b>active transporter</b>}}",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "P.opzNhiC>",
+                    "note_model_uuid": "b008aac6-c098-11e9-a788-acde48001122",
+                    "tags": [
+                        "Term4::Term4Exam1(Tin_Chu)",
+                        "Term4::week2::pharmacology::lecture10"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What <u>effect</u>&nbsp;describes when a <b>fraction</b> of a drug is <b>metabolized</b> in the gut wall and liver <u>before</u> reaching the blood?<div><br><div> <div> <div> <div>{{c1::First-pass effect}}</div> </div> </div></div></div>",
+                        "<div><img src=\"paste-1de8354a89b636e756678cd5a0caf6595059f296.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "wRvftld4hm",
+                    "note_model_uuid": "b008aac6-c098-11e9-a788-acde48001122",
+                    "tags": [
+                        "Term4::week2::pharmacology::lecture10",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<u>Adverse Drug Reaction</u><div>Type {{c1::D}} are delayed ADR's that are very rare and most commonly associated with cancer chemotherapeutic agents</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "Kg-6Y3c.JY",
+                    "note_model_uuid": "b008aac6-c098-11e9-a788-acde48001122",
+                    "tags": [
+                        "Term4::Term4Exam1(Tin_Chu)",
+                        "Term4::week2::DLA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Exaggeration of desired pharmacologic action of a drug are examples of {{c1::On-target}} adverse effects",
+                        "<div>i.e. Hypoglycemia caused by insulin, bleeding caused by anticoagulants</div><div><img src=\"paste-108658377621505_1544830391401.jpg\"></div><div><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "QP;h#si]aa",
+                    "note_model_uuid": "b008aac6-c098-11e9-a788-acde48001122",
+                    "tags": [
+                        "Term4::Term4Exam1(Tin_Chu)",
+                        "Term4::week2::DLA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Activation of an incorrect receptor are examples of {{c1::off-target}} adverse effects",
+                        "<div>i.e. Enatiomers of a drug, or drug targeting histamine receptors but also have a high affinity for a potassium channels</div><div><img src=\"paste-109787954020353.jpg\"></div><div><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "OIR5!edfsx",
+                    "note_model_uuid": "b008aac6-c098-11e9-a788-acde48001122",
+                    "tags": [
+                        "Term4::Term4Exam1(Tin_Chu)",
+                        "Term4::week2::DLA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<b>Quinidine</b> is a CYP450 {{c1::inhibitor}}",
+                        "<div><br /></div><div>Week 2 DLA 3 - Adverse Drug Reactions</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "J*UB1[c5]8",
+                    "note_model_uuid": "b008aac6-c098-11e9-a788-acde48001122",
+                    "tags": [
+                        "Term4::Term4Exam1(Tin_Chu)",
+                        "Term4::week2::DLA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "If <b>{{c2::Gingko biloba}}</b> (herb) is used with NSAID there is an increased risk of {{c1::bleeding}} ",
+                        "<div>because it also inhibits platelet aggregation </div><div><img src=\"paste-110908940484609.jpg\" /></div><div>Week 2 DLA 3 - Adverse Drug Reactions</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "yjJp-Z-~mM",
+                    "note_model_uuid": "b008aac6-c098-11e9-a788-acde48001122",
+                    "tags": [
+                        "Term4::Term4Exam1(Tin_Chu)",
+                        "Term4::week2::DLA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<b>Gingko biloba</b> inhibits {{c1::platelet aggregation}}",
+                        "<div>increased risk of bleeding if used simultaneously with NSAIDs </div><div><img src=\"paste-110908940484609.jpg\" /></div><div>Week 2 DLA 3 - Adverse Drug Reactions</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "O)*[}w(O.k",
+                    "note_model_uuid": "b008aac6-c098-11e9-a788-acde48001122",
+                    "tags": [
+                        "Term4::Term4Exam1(Tin_Chu)",
+                        "Term4::week2::DLA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<b>St. John's Wort</b> has {{c1::antidepressant}} effects and can inrease risk of serotonergic syndrome",
+                        "<div>if taken with SSRIs simultaneously</div><div><img src=\"paste-111265422770177.jpg\"></div><div>Week 2 DLA 3 - Adverse Drug Reactions</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "nFz+|ASih*",
+                    "note_model_uuid": "b008aac6-c098-11e9-a788-acde48001122",
+                    "tags": [
+                        "Term4::Term4Exam1(Tin_Chu)",
+                        "Term4::week2::DLA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<u>Phase 1</u> reactions of drug metabolism usually occur in the {{c1::ER}} of the cell",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "jRjLR|IqjQ",
+                    "note_model_uuid": "b008aac6-c098-11e9-a788-acde48001122",
+                    "tags": [
+                        "Term4::Term4Exam1(Tin_Chu)",
+                        "Term4::week2::pharmacology::lecture12"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<u>Phase 2</u> reactions of drug metabolism are usually in the {{c1::cytosol}}",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "cG0!a=w~9x",
+                    "note_model_uuid": "b008aac6-c098-11e9-a788-acde48001122",
+                    "tags": [
+                        "Term4::Term4Exam1(Tin_Chu)",
+                        "Term4::week2::pharmacology::lecture12"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::CYP3A4}} isoform of CYP450 metabolizes ~50% of all drugs",
+                        "<div>accounts for 30% of CYP450 in liver</div><div><img src=\"paste-120821725003777.jpg\"></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "nc36GUN18&",
+                    "note_model_uuid": "b008aac6-c098-11e9-a788-acde48001122",
+                    "tags": [
+                        "Term4::Term4Exam1(Tin_Chu)",
+                        "Term4::week2::pharmacology::lecture12"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::Grapefruit juice::What fruit?}} can <b>inhibit</b>&nbsp;both CYP3A4 and P-glycoprotein in the <u>small intestine</u>",
+                        "<div><img src=\"paste-123089467736065.jpg\"></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "svZ)W6&pM!",
+                    "note_model_uuid": "b008aac6-c098-11e9-a788-acde48001122",
+                    "tags": [
+                        "Term4::Term4Exam1(Tin_Chu)",
+                        "Term4::week2::pharmacology::lecture12"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Which drug undergos <b>Phase II</b> reactions before <b>Phase I?</b><div><br></div><div>{{c1::Isoniazid}}</div>",
+                        "<div>acetylated by N-acetyltransferase</div><div><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "hK.h^Q*{;A",
+                    "note_model_uuid": "b008aac6-c098-11e9-a788-acde48001122",
+                    "tags": [
+                        "Term4::Term4Exam1(Tin_Chu)",
+                        "Term4::week2",
+                        "^Pimp"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<b>Adhesive molecules</b> connect cells together in the ECM (i.e. {{c1::laminin}} and {{c1::fibronectin}})",
+                        "<div>Component of ECM</div><div><img src=\"Screen Shot 2019-08-21 at 8.47.36 AM.png\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "tlKgC{&:F*",
+                    "note_model_uuid": "b008aac6-c098-11e9-a788-acde48001122",
+                    "tags": [
+                        "Term4::Term4Exam1(Tin_Chu)",
+                        "Term4::week2::pathology::lecture12",
+                        "Term4::week2::pharmacology::lecture12"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "To find <b>Loading Dose (LD) </b>when <u>intermittent doses</u> are given, the <b>target concentration</b> should be the {{c1::peak concentration at steady state (PC<sub>ss</sub>)}}<div><img src=\"paste-101271033872385.jpg\" /></div>",
+                        "<img src=\"Screen Shot 2019-08-22 at 9.15.50 AM.png\"><br>"
+                    ],
+                    "flags": 0,
+                    "guid": "LG4wuXOg^p",
+                    "note_model_uuid": "b008aac6-c098-11e9-a788-acde48001122",
+                    "tags": [
+                        "Term4::Term4Exam1(Tin_Chu)",
+                        "Term4::week2::pharmacology::lecture15"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What is an alternative formula to find the<b> loading dose (LD)</b> with <u>intermittent dosing</u> using <u>accumulation factor (AF)</u>?<div><br></div><div>{{c1::<img src=\"paste-104170136797185.jpg\">}}</div>",
+                        "<div>i.e. a drug is given once every half-life: AF = 2 -&gt; loading dose is 2x the maintenance dose</div><div><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "d#CWg9%ZO)",
+                    "note_model_uuid": "b008aac6-c098-11e9-a788-acde48001122",
+                    "tags": [
+                        "Term4::Term4Exam1(Tin_Chu)",
+                        "Term4::week2::pharmacology::lecture15",
+                        "^Pimp"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What happens to the drug's half-life if the dose is doubled?<div><br></div><div>{{c1::Prolong drug effect by one half-life}}</div>",
+                        "<div>Double drug dose -&gt; double drug plasma concentration</div><div><img src=\"paste-105097849733121_1544830391401.jpg\"></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "GBia/KG_nd",
+                    "note_model_uuid": "b008aac6-c098-11e9-a788-acde48001122",
+                    "tags": [
+                        "Term4::Term4Exam1(Tin_Chu)",
+                        "Term4::week2::pharmacology::lecture10",
+                        "^Pimp"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Which <b>stain</b> is used to identify special <u>iron</u> deposits (hemosiderin)?<div><br></div><div>{{c1::Prussian blue}}</div>",
+                        "<div>since it produce a golden-brown on H&amp;E stain which can be mistaken for lipofucsin</div><div><img src=\"paste-211007448285185.jpg\"></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "w6&0/e%kZ:",
+                    "note_model_uuid": "b008aac6-c098-11e9-a788-acde48001122",
+                    "tags": [
+                        "Term4::Term4Exam1(Tin_Chu)",
+                        "Term4::week2::pathology::lecture16",
+                        "^Pimp"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Can tophi (urate crystals) accumulation from gout be identified with XR's?<div><br /></div><div>{{c1::No}}</div>",
+                        "<img src=\"paste-e06ac10296a89dfda746399022ab95c9456652a9.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "kzMcS}ebOH",
+                    "note_model_uuid": "b008aac6-c098-11e9-a788-acde48001122",
+                    "tags": [
+                        "Term4::Term4Exam1(Tin_Chu)",
+                        "Term4::week2::pathology::lecture16",
+                        "^Pimp"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Patients who have physicians who are <b>good communicators</b>&nbsp;are {{c1::more}} satisfied, and {{c1::less}} likely to file a malpractice suit&nbsp;{{c1::::More or Less}}",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "z:^>v7pzfX",
+                    "note_model_uuid": "acb98e58-c098-11e9-81dc-acde48001122",
+                    "tags": [
+                        "Term4",
+                        "Term4::week1::lecture1",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Are <b>sympathy</b> and <b>empathy</b> the same?<div><br></div><div>{{c1::No}}<br></div>",
+                        "<u>Saying sorry</u> is <b>not</b> a demonstration of empathy&nbsp;",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"paste-3fa10c8c312b4ce1dd13bd95301482f91377d8e1.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "O&2YkTRIhz",
+                    "note_model_uuid": "acb98e58-c098-11e9-81dc-acde48001122",
+                    "tags": [
+                        "Term4",
+                        "Term4::week1::lecture1",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<b>Demonstration</b> of <u>Empathy</u> can be aided by the <b><font color=\"#993333\">NURS</font></b> mneumonic:<div><br><div><b><font color=\"#993333\">N</font></b>{{c1::ame}}</div><div><b><font color=\"#993333\">U</font></b>{{c2::nderstand}}</div><div><b><font color=\"#993333\">R</font></b>{{c3::espect}}</div><div><b><font color=\"#993333\">S</font></b>{{c4::upport}}</div></div>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"paste-cfd39f272c62e1a564de3ffbc6684736e7f2bcc9.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "e,i_=;A@SA",
+                    "note_model_uuid": "acb98e58-c098-11e9-81dc-acde48001122",
+                    "tags": [
+                        "Term4",
+                        "Term4::week1::lecture1",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Do drugs have an ability to add functions?<div><br></div><div>{{c1::No}}<br></div>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "k24EgTJQX.",
+                    "note_model_uuid": "acb98e58-c098-11e9-81dc-acde48001122",
+                    "tags": [
+                        "Term4::week1::pharmacology::lecture5",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div> <div> <div> <div> <div>{{c1::Pharmacodynamics::Term}}: the study of <b>effects</b> of drugs and their mechanisms of action.&nbsp;</div> </div> </div> </div></div>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"paste-12d14b20bd82b82ac03ee2a7eee080c7550649d6.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "Qj0H.tiq].",
+                    "note_model_uuid": "acb98e58-c098-11e9-81dc-acde48001122",
+                    "tags": [
+                        "Term4::week1::pharmacology::lecture5",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div> <div> <div> <div> <div>{{c1::Pharmacokinetics::Term}}: the study of <b>absorption</b>, <b>distribution</b>, <b>metabolism</b> and excretion of drugs.&nbsp;</div> </div> </div> </div></div>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"paste-12d14b20bd82b82ac03ee2a7eee080c7550649d6.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "yS9-Mf*Ls^",
+                    "note_model_uuid": "acb98e58-c098-11e9-81dc-acde48001122",
+                    "tags": [
+                        "Term4::week1::pharmacology::lecture5",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Does <b>dimercaprol</b> bind to a receptor?<div><br></div><div>{{c1::No}}<br></div>",
+                        "<div> <div> <div> <div> <div><b>Dimercaprol</b> chelates heavy metals&nbsp;</div> </div> </div> </div></div>",
+                        "<img src=\"paste-397821345792562.jpg\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "P#EAF)t;t[",
+                    "note_model_uuid": "acb98e58-c098-11e9-81dc-acde48001122",
+                    "tags": [
+                        "Term4::week1::pharmacology::lecture5",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div>Which drug below has the greatest <b>potency?</b></div><div>{{c1::Drug E}}<b><br></b></div><img src=\"Screen Shot 2019-08-15 at 11.24.59 AM.png\"><br>",
+                        "<img src=\"Screen Shot 2019-08-15 at 10.47.22 AM.png\"><br>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "F2p7_@8#d2",
+                    "note_model_uuid": "acb98e58-c098-11e9-81dc-acde48001122",
+                    "tags": [
+                        "Term4::week1::pharmacology::lecture5",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div>Which drug below has the greatest <b>efficacy?</b></div><div>{{c1::Drug D}}<b><br></b></div><img src=\"Screen Shot 2019-08-15 at 11.24.59 AM.png\"><br>",
+                        "<img src=\"Screen Shot 2019-08-15 at 10.47.22 AM.png\"><br>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "t;1vpo@lA@",
+                    "note_model_uuid": "acb98e58-c098-11e9-81dc-acde48001122",
+                    "tags": [
+                        "Term4::week1::pharmacology::lecture5",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div> <div> <div> <div>Ketamine, a dissociative anesthetic, is a {{c1::noncompetitive}} antagonist at the NMDA receptor.&nbsp;</div> </div> </div></div>",
+                        "",
+                        "<img src=\"Screen Shot 2019-08-15 at 11.00.58 AM.png\"><br>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "d[@Y(H-$Zj",
+                    "note_model_uuid": "acb98e58-c098-11e9-81dc-acde48001122",
+                    "tags": [
+                        "Term4::week1::pharmacology::lecture7",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Drugs are <u>not</u> {{c1::specific}}, however, they <b>are</b> {{c2::selective}}",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"paste-ebb175c1281f7fcb696ed1d8115afe3f7731d8e8.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "tMH#Z1U`]D",
+                    "note_model_uuid": "acb98e58-c098-11e9-81dc-acde48001122",
+                    "tags": [
+                        "Term4::week1::pharmacology::lecture7",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "A drug is considered to be <b>selective</b> when a {{c1::10}} fold difference between its first target and its second target",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"Screen Shot 2019-08-16 at 9.34.55 AM.png\"><br>"
+                    ],
+                    "flags": 0,
+                    "guid": "rq~&qpwGsl",
+                    "note_model_uuid": "acb98e58-c098-11e9-81dc-acde48001122",
+                    "tags": [
+                        "Term4::week1::pharmacology::lecture7",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "In order for a drug to be useful as a <b>therapeutic tool</b> it must act {{c1::selectively}} on particular types of receptors.&nbsp;",
+                        "ie, it must show a <u>high degree of binding selectivity.&nbsp;</u>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"Screen Shot 2019-08-16 at 9.34.55 AM.png\"><br>"
+                    ],
+                    "flags": 0,
+                    "guid": "eL,5%J2?Mw",
+                    "note_model_uuid": "acb98e58-c098-11e9-81dc-acde48001122",
+                    "tags": [
+                        "Term4::week1::pharmacology::lecture7",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div> <div> <div> <div>The term {{c1::refractoriness}} is also sometimes used to describe tolerance, mainly in relation to a <b>loss of therapeutic efficacy.</b>&nbsp;</div> </div> </div></div>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"Screen Shot 2019-08-16 at 9.47.28 AM.png\"><br>"
+                    ],
+                    "flags": 0,
+                    "guid": "D{o3.H]d46",
+                    "note_model_uuid": "acb98e58-c098-11e9-81dc-acde48001122",
+                    "tags": [
+                        "Term4::week1::pharmacology::lecture7",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div> <div> <div> <div> <div>Enlarged lymph nodes due to an infection is term what?</div><div><br></div><div>{{c1::Lymphadenitis}}</div> </div> </div> </div></div>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"3449a0edfeece0e0a73fad927640b2d4.jpg\"><br>"
+                    ],
+                    "flags": 0,
+                    "guid": "L}{+cAOL}U",
+                    "note_model_uuid": "acb98e58-c098-11e9-81dc-acde48001122",
+                    "tags": [
+                        "Term4::week1::pathology::lecture6",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div> <div> <div> <div> <div>What <b><u>term</u></b> describes <b>inflammation</b> of the lymphatic <u>channels</u> that occurs as a result of infection at a site <i>distal</i> to the channel?</div><div><br></div><div>{{c1::Lymphangitis}}</div> </div> </div> </div></div>",
+                        " <div> <div> <div> <div>Really good example below&nbsp;</div><div><img src=\"CellulitisJmh649.JPG\"><br></div> </div> </div> </div>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "PJ:oe-cUA0",
+                    "note_model_uuid": "acb98e58-c098-11e9-81dc-acde48001122",
+                    "tags": [
+                        "GzE-Pathology::General_Pathology",
+                        "Term4::week1::pathology::lecture6",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Oxygen <i>independent</i>&nbsp;microbe killing results in a&nbsp;{{c1::<b>decrease</b>}} in pH due to build up of {{c2::<b>lactic</b>}} acid",
+                        "Recall that without oxygen, normally, lactic acid will increase ➞ ↓ pH.&nbsp;",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"paste-b37400d93d2b3a0d305401c17795791bfeb199de.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "qS6u+98N)Q",
+                    "note_model_uuid": "acb98e58-c098-11e9-81dc-acde48001122",
+                    "tags": [
+                        "GzE-Pathology::General_Pathology",
+                        "Term4::week1::pathology::lecture6",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Any factor that {{c1::accelerates}} <b>gastric emptying</b> will be likely to {{c2::<b>increase</b>}} the rate of <u>drug absorption</u>",
+                        "Any factor that delays gastric emptying is expected to have the opposite effect, regardless of the characteristics of the drug.",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "C3Gu)fM%J]",
+                    "note_model_uuid": "acb98e58-c098-11e9-81dc-acde48001122",
+                    "tags": [
+                        "Term4::week2::pharmacology::lecture10",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Which <b>organ</b> is better is favored to <u>absorb</u> an oral drug based on <b>blood flow?</b><div><br></div><div>{{c1::Intestines}}<br></div>",
+                        "Blood flow to the intestine is <b>much greater</b> than the flow to the stomach, thus absorption from the intestine is favored over that from the stomach.",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "uB0V:y}Ckw",
+                    "note_model_uuid": "acb98e58-c098-11e9-81dc-acde48001122",
+                    "tags": [
+                        "Term4::week2::pharmacology::lecture10",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "A drug that acts as a <b>substrate</b> for P-Glycoprotein will have a&nbsp;{{c1::reduced}} bioavailibility",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "t|cK>C$A;[",
+                    "note_model_uuid": "acb98e58-c098-11e9-81dc-acde48001122",
+                    "tags": [
+                        "Term4::week2::pharmacology::lecture10",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div>What type of <u>adverse drug reaction</u> includes&nbsp;<b>hypersensitivity?</b></div><div><b><br></b></div>{{c1::Type B}}&nbsp;",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"paste-ebc0ed032b16289a9249fe0a5b8f76426f34bfd0.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "s82J:0|%rP",
+                    "note_model_uuid": "acb98e58-c098-11e9-81dc-acde48001122",
+                    "tags": [
+                        "Term4::week2::DLA",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Are <b>Type B</b> adverse drug reactions <b><u>predictable</u></b>?<div><br></div><div>{{c1::No}}<br></div>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"paste-ebc0ed032b16289a9249fe0a5b8f76426f34bfd0.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "yPE92f4+/^",
+                    "note_model_uuid": "acb98e58-c098-11e9-81dc-acde48001122",
+                    "tags": [
+                        "Term4::week2::DLA",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Are <b>Type B</b> adverse drug reactions <b>dose&nbsp;dependent</b>?<div><br></div><div>{{c1::No}}<br></div>",
+                        "They are dose INdependent&nbsp;",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"paste-ebc0ed032b16289a9249fe0a5b8f76426f34bfd0.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "lK*)hCZ%m|",
+                    "note_model_uuid": "acb98e58-c098-11e9-81dc-acde48001122",
+                    "tags": [
+                        "Term4::week2::DLA",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "A {{c1::sinus}} is a <b>connection</b> between a cavity lined with <b>granulation</b> tissue",
+                        "<img src=\"paste-ace08d10909ac56e01de4549ddcac0942c523d8e.jpg\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "f+jI+nfHp%",
+                    "note_model_uuid": "acb98e58-c098-11e9-81dc-acde48001122",
+                    "tags": [
+                        "Term4::week2::pathology::lecture12",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "A&nbsp;{{c1::fistula}} is a <b>connection</b>&nbsp;between <u>two</u> epithelial line surfaces",
+                        "<img src=\"paste-ace08d10909ac56e01de4549ddcac0942c523d8e.jpg\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "q;|3f78Km;",
+                    "note_model_uuid": "acb98e58-c098-11e9-81dc-acde48001122",
+                    "tags": [
+                        "Term4::week2::pathology::lecture12",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<b>Fracture repair</b> can be <u>complicated</u> by infection and result in&nbsp;{{c1::mal}}-union which is characterized by <b>angulation</b> of healing",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"paste-58feb3a41b5e8a73a8bb3e3fd7ad0d2543ff98c5.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "FdVa(mC01m",
+                    "note_model_uuid": "acb98e58-c098-11e9-81dc-acde48001122",
+                    "tags": [
+                        "Term4::week2::pathology::lecture14",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "If <u>infusion rate</u> is {{c2::<b>doubled</b>}}, steady-state plasma concentration is&nbsp;{{c1::<b>doubled</b>}}",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "Fn~PM9]cLy",
+                    "note_model_uuid": "acb98e58-c098-11e9-81dc-acde48001122",
+                    "tags": [
+                        "Term4::week2::pathology::lecture14",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div> <div> <div> <div>The {{c1::Accumulation Factor (AF)}} predicts the <b>ratio</b> of the <u>peak concentration</u> at <b>steady state</b> to the <u>peak concentration</u> after the <b>first dose&nbsp;</b></div> </div> </div></div>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"paste-30061e4cf53683d7b0b26ef871b2fedbc81dd3dc.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "l>&%YA8@2)",
+                    "note_model_uuid": "acb98e58-c098-11e9-81dc-acde48001122",
+                    "tags": [
+                        "Term4::week2::pharmacology::lecture15",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Does the uterus undergo <b>hyperplasia</b> or <b>hypertrophy</b> during pregnancy?<div><br></div><div>{{c1::Both :)}}<br></div>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "O{%;i0c%|S",
+                    "note_model_uuid": "acb98e58-c098-11e9-81dc-acde48001122",
+                    "tags": [
+                        "Term4::week2::IMCQ",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "E= ({{c2::Emax}}*{{c2::C}}) /&nbsp;({{c1::C}}+{{c1::EC50}})",
+                        "Emax|C|C0|EC50|Kd|TD50|LD50|Vd|CL|Vmax|F|TC|Css|ED50",
+                        "Graded Dose-Response",
+                        "",
+                        "",
+                        "Select the correct items in the correct locations.&nbsp;",
+                        "<img src=\"paste-a6659a76b1e09eb11bb3a8032b0e3f2f1e2e1503.jpg\">",
+                        "https://drive.google.com/file/d/19oOqgcXTKTw1XvxLTe3rHePw0sdebAPW/view"
+                    ],
+                    "flags": 0,
+                    "guid": "K)_XM,V.w8",
+                    "note_model_uuid": "bf94c240-c098-11e9-8454-acde48001122",
+                    "tags": [
+                        "Pharmacokinetics_Equations",
+                        "Term1::FTM_Module::FTMweek4",
+                        "Term4::week2::pharmacology::lecture15",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "B = ({{c1::Bmax}} * C)/(C +{{c1::KD}})",
+                        "Bmax|C|C0|EC50|KD|TD50|LD50|Vd|CL|Vmax|F|TC|Css|ED50",
+                        "Receptor Binding of Drugs",
+                        "",
+                        "",
+                        "Select the correct items in the correct locations.&nbsp;",
+                        "<img src=\"paste-a6659a76b1e09eb11bb3a8032b0e3f2f1e2e1503.jpg\">",
+                        "https://drive.google.com/file/d/19oOqgcXTKTw1XvxLTe3rHePw0sdebAPW/view"
+                    ],
+                    "flags": 0,
+                    "guid": "xki+WA)eK$",
+                    "note_model_uuid": "bf94c240-c098-11e9-8454-acde48001122",
+                    "tags": [
+                        "Pharmacokinetics_Equations",
+                        "Term1::FTM_Module::FTMweek4",
+                        "Term4::week2::pharmacology::lecture15",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "TI= ({{c1::TD50}})/({{c1::ED50}})",
+                        "Emax|C|C0|EC50|KD|TD50|LD50|Vd|CL|Vmax|F|TC|Css|ED50",
+                        "Therapeutic Index (Primary)",
+                        "",
+                        "",
+                        "Select the correct items in the correct locations.&nbsp;",
+                        "<img src=\"paste-a6659a76b1e09eb11bb3a8032b0e3f2f1e2e1503.jpg\">",
+                        "https://drive.google.com/file/d/19oOqgcXTKTw1XvxLTe3rHePw0sdebAPW/view"
+                    ],
+                    "flags": 0,
+                    "guid": "yyRTo4)44-",
+                    "note_model_uuid": "bf94c240-c098-11e9-8454-acde48001122",
+                    "tags": [
+                        "Pharmacokinetics_Equations",
+                        "Term1::FTM_Module::FTMweek4",
+                        "Term4::week2::pharmacology::lecture15",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Loading Dose= ({{c2::Vd}} * {{c2::TC}})/{{c1::F}}",
+                        "Emax|C|C0|EC50|KD|TD50|LD50|Vd|CL|Vmax|F|TC|Css|ED50",
+                        "Loading Dose",
+                        "",
+                        "",
+                        "Select the correct items in the correct locations.&nbsp;",
+                        "<img src=\"paste-9ac24769598c17aed1e17b81f4e69b80b08c240d.jpg\">",
+                        "https://drive.google.com/file/d/19oOqgcXTKTw1XvxLTe3rHePw0sdebAPW/view"
+                    ],
+                    "flags": 0,
+                    "guid": "ByFC<*M2o2",
+                    "note_model_uuid": "bf94c240-c098-11e9-8454-acde48001122",
+                    "tags": [
+                        "Pharmacokinetics_Equations",
+                        "Term1::FTM_Module::FTMweek4",
+                        "Term4::week2::pharmacology::lecture15",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Loading Dose=&nbsp;{{c1::Vd}} *&nbsp;{{c1::Css}}",
+                        "Emax|C|C0|EC50|KD|TD50|LD50|Vd|CL|Vmax|F|TC|Css|ED50",
+                        "Loading Dose (Alternate)",
+                        "",
+                        "",
+                        "Select the correct items in the correct locations.&nbsp;",
+                        "<img src=\"paste-9ac24769598c17aed1e17b81f4e69b80b08c240d.jpg\">",
+                        "https://drive.google.com/file/d/19oOqgcXTKTw1XvxLTe3rHePw0sdebAPW/view"
+                    ],
+                    "flags": 0,
+                    "guid": "CE-8@!=wbn",
+                    "note_model_uuid": "bf94c240-c098-11e9-8454-acde48001122",
+                    "tags": [
+                        "Pharmacokinetics_Equations",
+                        "Term1::FTM_Module::FTMweek4",
+                        "Term4::week2::pharmacology::lecture15",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Maintenance dose= ({{c1::Dosing rate}} x {{c1::Dosing interval}})/{{c2::F}}",
+                        "Emax|F|TC|Css|ED50|Infusion rate|Dosing rate|Dosing interval|Vd|TI|CL",
+                        "Maintenance Dose",
+                        "",
+                        "",
+                        "Select the correct items in the correct locations.&nbsp;",
+                        "<img src=\"paste-9ac24769598c17aed1e17b81f4e69b80b08c240d.jpg\">",
+                        "https://drive.google.com/file/d/19oOqgcXTKTw1XvxLTe3rHePw0sdebAPW/view"
+                    ],
+                    "flags": 0,
+                    "guid": "pxM2Fg{uB5",
+                    "note_model_uuid": "bf94c240-c098-11e9-8454-acde48001122",
+                    "tags": [
+                        "Pharmacokinetics_Equations",
+                        "Term1::FTM_Module::FTMweek4",
+                        "Term4::week2::pharmacology::lecture15",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Css=&nbsp;{{c1::Infusion rate}} / {{c1::CL}}",
+                        "Emax|F|TC|Css|ED50|Infusion rate|Dosing rate|Dosing interval|Vd|TI|CL",
+                        "Continuous Infusion Css",
+                        "",
+                        "",
+                        "Select the correct items in the correct locations.&nbsp;",
+                        "<img src=\"paste-9ac24769598c17aed1e17b81f4e69b80b08c240d.jpg\">",
+                        "https://drive.google.com/file/d/19oOqgcXTKTw1XvxLTe3rHePw0sdebAPW/view"
+                    ],
+                    "flags": 0,
+                    "guid": "Hh-=}`^OLz",
+                    "note_model_uuid": "bf94c240-c098-11e9-8454-acde48001122",
+                    "tags": [
+                        "Pharmacokinetics_Equations",
+                        "Term1::FTM_Module::FTMweek4",
+                        "Term4::week2::pharmacology::lecture15",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "t0.5= (0.693 *&nbsp;{{c1::Vd}})/ {{c1::CL}}",
+                        "Emax|F|TC|Css|ED50|Infusion rate|Dosing rate|Dosing interval|Vd|TI|CL",
+                        "Half Life",
+                        "",
+                        "",
+                        "Select the correct items in the correct locations.&nbsp;",
+                        "<img src=\"paste-4915ac751b67078512b83209918932fadc297b73.jpg\">",
+                        "https://drive.google.com/file/d/19oOqgcXTKTw1XvxLTe3rHePw0sdebAPW/view"
+                    ],
+                    "flags": 0,
+                    "guid": "mWGg1.R$Ie",
+                    "note_model_uuid": "bf94c240-c098-11e9-8454-acde48001122",
+                    "tags": [
+                        "Pharmacokinetics_Equations",
+                        "Term1::FTM_Module::FTMweek4",
+                        "Term4::week2::pharmacology::lecture15",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Rate of Elimination=&nbsp;{{c1::CL}} x&nbsp;{{c1::C}}",
+                        "Emax|F|TC|Css|ED50|Infusion rate|Dosing rate|Dosing interval|Vd|TI|CL|C",
+                        "Rate of Elimination&nbsp;",
+                        "",
+                        "",
+                        "Select the correct items in the correct locations.&nbsp;",
+                        "<img src=\"paste-4915ac751b67078512b83209918932fadc297b73.jpg\">",
+                        "https://drive.google.com/file/d/19oOqgcXTKTw1XvxLTe3rHePw0sdebAPW/view"
+                    ],
+                    "flags": 0,
+                    "guid": "p^OQp8Uh+H",
+                    "note_model_uuid": "bf94c240-c098-11e9-8454-acde48001122",
+                    "tags": [
+                        "Pharmacokinetics_Equations",
+                        "Term1::FTM_Module::FTMweek4",
+                        "Term4::week2::pharmacology::lecture15",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Rate of Elimination= ({{c1::Vmax}} x {{c2::C}}) / ({{c1::Km}} + {{c2::C}})",
+                        "Vmax|F|TC|Css|Km|Infusion rate|Dosing rate|Dosing interval|Vd|TI|CL|C",
+                        "Rate of Elimination&nbsp;",
+                        "",
+                        "",
+                        "Select the correct items in the correct locations.&nbsp;",
+                        "<img src=\"paste-4915ac751b67078512b83209918932fadc297b73.jpg\">",
+                        "https://drive.google.com/file/d/19oOqgcXTKTw1XvxLTe3rHePw0sdebAPW/view"
+                    ],
+                    "flags": 0,
+                    "guid": "I*pz{F@NPj",
+                    "note_model_uuid": "bf94c240-c098-11e9-8454-acde48001122",
+                    "tags": [
+                        "Pharmacokinetics_Equations",
+                        "Term1::FTM_Module::FTMweek4",
+                        "Term4::week2::pharmacology::lecture15",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "CL=&nbsp;{{c1::Vmax}}/{{c2::Km}}+{{c2::C}}",
+                        "Vmax|F|TC|Css|Km|Infusion rate|Dosing rate|Dosing interval|Vd|TI|C",
+                        "Clearance",
+                        "",
+                        "",
+                        "Select the correct items in the correct locations.&nbsp;",
+                        "<img src=\"paste-4915ac751b67078512b83209918932fadc297b73.jpg\">",
+                        "https://drive.google.com/file/d/19oOqgcXTKTw1XvxLTe3rHePw0sdebAPW/view"
+                    ],
+                    "flags": 0,
+                    "guid": "x}vp]TFhj(",
+                    "note_model_uuid": "bf94c240-c098-11e9-8454-acde48001122",
+                    "tags": [
+                        "Pharmacokinetics_Equations",
+                        "Term1::FTM_Module::FTMweek4",
+                        "Term4::week2::pharmacology::lecture15",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Dosing rate (ss)= Rate of elimination (ss)= ({{c1::CL}} x {{c1::C}})/{{c1::F}}",
+                        "Vmax|F|TC|Css|Km|Infusion rate|Dosing rate|Dosing interval|Vd|TI|CL|C",
+                        "Steady State dosing rate",
+                        "",
+                        "",
+                        "Select the correct items in the correct locations.&nbsp;",
+                        "<img src=\"paste-4915ac751b67078512b83209918932fadc297b73.jpg\">",
+                        "https://drive.google.com/file/d/19oOqgcXTKTw1XvxLTe3rHePw0sdebAPW/view"
+                    ],
+                    "flags": 0,
+                    "guid": "f@73wQ`cK)",
+                    "note_model_uuid": "bf94c240-c098-11e9-8454-acde48001122",
+                    "tags": [
+                        "Pharmacokinetics_Equations",
+                        "Term1::FTM_Module::FTMweek4",
+                        "Term4::week2::pharmacology::lecture15",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Vd= {{c1::Dose}} / {{c1::C0}}",
+                        "Vmax|F|TC|C0|Km|Infusion rate|Dose|Dosing interval|Vd|TI|CL|Css|C",
+                        "Volume of Distribution",
+                        "",
+                        "",
+                        "Select the correct items in the correct locations.&nbsp;",
+                        "<img src=\"paste-a6b8f4283aabd88ed65821928a6bcc2387d702df.jpg\">",
+                        "https://drive.google.com/file/d/19oOqgcXTKTw1XvxLTe3rHePw0sdebAPW/view"
+                    ],
+                    "flags": 0,
+                    "guid": "kjvi|EGe{`",
+                    "note_model_uuid": "bf94c240-c098-11e9-8454-acde48001122",
+                    "tags": [
+                        "Pharmacokinetics_Equations",
+                        "Term1::FTM_Module::FTMweek4",
+                        "Term4::week2::pharmacology::lecture15",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "An enlarged <b>spleen</b> with white areas of <u>amyloid</u> deposits is termed a&nbsp;{{c1::sago}} spleen",
+                        "Often described as \"tapioca-like\" granules",
+                        "",
+                        "<img src=\"paste-ede13ae8d33d2ab5c59e3a3a3db124349e0a163a.jpg\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "Ec0vGxagR4",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "GzE-Pathology::General_Pathology::Module-2",
+                        "Term4::week2::pathology::lecture16",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<b>Pulmonary anthracosis</b> is intially caused by carbon accumulating within {{c1::macrophages::cell type}}",
+                        "",
+                        "",
+                        "<img src=\"paste-4e313587154a4b8af63bada6ebf4d565da744eaf.jpg\">",
+                        "<img src=\"paste-708875762271688.jpg\">",
+                        "",
+                        "<img src=\"paste-ad736b12bcb586bc6f6f0051d0c4c969b3501ca5.jpg\">",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "QPG%`/Ue1,",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "GzE-Pathology::General_Pathology::Module-2",
+                        "Term4::week2::pathology::lecture16",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What <u>substance</u>&nbsp;<b>accumulates</b> in alveolar macrophages to cause pulmonary anthracosis?<div><br></div><div>{{c1::Carbon}}<br></div>",
+                        "",
+                        "",
+                        "<img src=\"paste-4e313587154a4b8af63bada6ebf4d565da744eaf.jpg\">",
+                        "<img src=\"paste-708875762271688.jpg\">",
+                        "",
+                        "<img src=\"paste-ad736b12bcb586bc6f6f0051d0c4c969b3501ca5.jpg\">",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "PXbSUr}y&l",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "GzE-Pathology::General_Pathology::Module-2",
+                        "Term4::week2::pathology::lecture16",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "How does <b>pulmonary anthracosis</b> generally present?<div><br></div><div>{{c1::It doesn't :)}}<br></div>",
+                        "This is because its <u>asymptomatic.&nbsp;</u><div>It&nbsp;can however become symptomatic if the carbon dust inhaled is mixed with <b>silica (Then called silicosis)</b></div>",
+                        "",
+                        "<img src=\"paste-4e313587154a4b8af63bada6ebf4d565da744eaf.jpg\">",
+                        "<img src=\"paste-708875762271688.jpg\">",
+                        "",
+                        "<img src=\"paste-ad736b12bcb586bc6f6f0051d0c4c969b3501ca5.jpg\">",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "qrM=R!3-ac",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "GzE-Pathology::General_Pathology::Module-2",
+                        "Term4::week2::pathology::lecture16",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What population(s) is likely at <u>risk</u> for developing <b>pulmonary antharcosis</b>?<div><br><div>{{c1::Smokers, Coal miners, Urban Dwellers}}<br></div></div>",
+                        "",
+                        "",
+                        "<img src=\"paste-4e313587154a4b8af63bada6ebf4d565da744eaf.jpg\">",
+                        "<img src=\"paste-708875762271688.jpg\">",
+                        "",
+                        "<img src=\"paste-ad736b12bcb586bc6f6f0051d0c4c969b3501ca5.jpg\">",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "nr6vtSaDb{",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "GzE-Pathology::General_Pathology::Module-2",
+                        "Term4::week2::pathology::lecture16",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What is the <u>denatured</u> form of <b>ferritin</b>?<div><br></div><div>{{c1::Hemosiderin}}<br></div>",
+                        "",
+                        "",
+                        "<img src=\"paste-11465ad51271178cd9885046cd6be45178d2bfb7.jpg\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "MGWm+py<;)",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "GzE-Pathology::General_Pathology::Module-2",
+                        "Term4::week2::pathology::lecture16",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<b>Dystrophic calcification</b> during <u>fat necrosis of the pancreas</u><div> will present with {{c1::hypo}}-calcemia</div>",
+                        "",
+                        "",
+                        "<img src=\"paste-d7fa3327f20becf43311f239c9b0878356210c6f.jpg\">",
+                        "<img src=\"Screen Shot 2019-08-14 at 8.43.06 AM.png\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "spZ8hGVSF?",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "GzE-Pathology::General_Pathology::Module-2",
+                        "Term4::week2::pathology::lecture16",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What accounts for the <b>major</b> differences in drug metabolism from individual to individual?<div><br></div><div>{{c1::Single Nucleotide polymorphisms (SNPs)}}<br></div>",
+                        "",
+                        "<div> <div> <div> <div>Any two people differ on average at about one nucleotide in every 1,000 in their genome, totaling an average interindividual difference of 3 million base pairs throughout the genome.&nbsp;</div><div><br></div><div>The <b>majority</b> of these differences are so-called <b>single nucleotide polymorphisms or SNPs</b>, in which one nucleotide is exchanged for another at a given position.&nbsp;</div><div><br></div><div>SNPs and other differences in DNA sequence can occur anywhere in the genome, in both coding regions and noncoding regions.&nbsp;</div> </div> </div></div>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "i7l!m24[B(",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week3::pharmacogenetics::lecture18",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "One effect of genetic variation on pharmacotherapy is&nbsp;{{c1::metabolism/transport}} in which a drug has a different clearance&nbsp;",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "V@xOnaSyB",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week3::pharmacogenetics::lecture18",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What is the genetic composition of a <b>slow</b> acetylator for isoniazid?<div><br></div><div>{{c1::Homozygous recessive}}<br></div>",
+                        "Autosomal recessive condition&nbsp;",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "uL<BJl2?}{",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week3::pharmacogenetics::lecture18",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<u>Ultra</u>rapid <b>metabolizers</b> may have <u>multiple</u> copies of the&nbsp;{{c1::CYP2D6}} <u>gene</u>&nbsp;",
+                        "",
+                        "<div> <div> <div> <div>Some ultrarapid metabolizers can have up to <u>13</u> copies of the gene.&nbsp;</div> </div> </div></div>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "iWNKuK83.@",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week3::pharmacogenetics::lecture18",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Individuals with <u>multiple</u> copies of the&nbsp;<b>CYP2D6</b> gene will need a&nbsp;{{c1::lower}} dose if given <u>codeine</u>.&nbsp;",
+                        " <div> <div> <div><br></div> </div> </div>",
+                        "<div> <div> <div> <div>Codeine is ineffective in poor metabolizers because it requires <b>CYP2D6</b>-catalyzed conversion to morphine.&nbsp;<br></div><div><br></div><div>Ultrarapid metabolizers may require very high doses of drugs that are metabolized by <b>CYP2D6</b>. But they can overdose with codeine, suffering respiratory depression or even respiratory arrest in response to standard doses.&nbsp;</div> </div> </div></div>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"Jmhc-17-1120-Fig1.png\"><br>"
+                    ],
+                    "flags": 0,
+                    "guid": "K(BZYTB;oe",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week3::pharmacogenetics::lecture18",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Individuals with <b>thiopurine S-methyltransferase polymorphism</b> will require a&nbsp;{{c1::lower}} dose of 6-mercaptopurine",
+                        "Must be treated with approximately 1/10th of the standard dose",
+                        "<div> <div> <div> <div><b>TPMT</b> catalyzes the S-methylation of the anticancer thiopurines 6-mercaptopurine and azathioprine. Methylation of these drugs inactivates them.&nbsp;</div><div><br></div><div>Thiopurines have a <u>narrow</u> therapeutic window and some patients suffer from <u>life-threatening myelosuppression.</u>&nbsp;</div></div></div></div>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "pQ=g:UQdwr",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week3::pharmacogenetics::lecture18",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<b>Codeine</b> will be {{c1::inneffective}} in an individual who is a <u>poor</u> metabolizer",
+                        "",
+                        "<div> <div> <div> <div><b>Codeine</b> is ineffective in poor metabolizers because it requires <b>CYP2D6</b>-catalyzed conversion to morphine&nbsp;</div> </div> </div></div>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "gB<3V3&e6U",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week3::pharmacogenetics::lecture18",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<b>Gefitinib</b> is an inhibitor of {{c1::EGFR tyrosine kinase}}",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<div><b>erlotinib</b> is the same thing</div><img src=\"paste-16080357556725.jpg\">",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "fKKw|})*YB",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week3::pharmacogenetics::lecture18",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<b>Gefitinib</b> is used to treat&nbsp;{{c1::nonsmall cell}} lung cancer",
+                        "a.k.a <b>NSCLC. </b>Gefitinib is also known as&nbsp;Erlotinib",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "s:eD9T<rH>",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week3::pharmacogenetics::lecture18",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Which form of <b>warfarin</b> is more <u>potent</u>?<div><br></div><div>{{c1::S-Warfarin::S- or R-}}<br></div>",
+                        "<div> <div> <div> <div>S-warfarin is 3-5x more potent than R-warfarin.&nbsp;</div> </div> </div></div>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"Screen Shot 2017-03-05 at 8.52.46 PM.png\">",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "zXtuK>V<<q",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week3::pharmacogenetics::lecture18",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What <b>gene</b> is responsible for variation in <u>S-warfarin</u> metabolism?<div><br></div><div>{{c1::CYP2C9}}<br></div>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "JE-ytCvgEN",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week3::pharmacogenetics::lecture18",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What <b>general</b>&nbsp;tumor type describes a <u>mushroom-like</u> appearance?<div><br></div><div>{{c1::Exophytic tumor}}<br></div>",
+                        "",
+                        "<img src=\"paste-fffd50cb4cce5b66b05c7ce0b25945f7dc7a9cd6.jpg\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"a-Showing-exophytic-ulcerative-tumor-14-9-cm-2-in-the-back-of-the-hand-arm-b.png\"><br>"
+                    ],
+                    "flags": 0,
+                    "guid": "x@BQPy+6)q",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "GzE-Pathology::Neoplasia",
+                        "Term4::week3::pathology::lecture19",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What <b>general</b> tumor <u>type</u> describes growth that arises from embryonic tissue?<div><br><div>{{c1::Blastoma}}</div></div>",
+                        "",
+                        "<img src=\"paste-90a7b2a801b2724d3a5ba27fa10ba8da6648cd4b.jpg\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "u?jkb($Q7@",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "GzE-Pathology::Neoplasia",
+                        "Term4::week3::pathology::lecture19",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What <b>stain</b> can be used to <u>measure proliferation</u> (rate of growth) in neoplastic cells?<div><br></div><div>{{c1::Ki67}}<br></div>",
+                        "<img src=\"The-principle-of-immunocytochemistry-for-Ki-67-proliferation-marker-adapted-from.png\"><br>",
+                        "<img src=\"paste-f0edab44f99a40de443b908194d90e7cba5b97a2.jpg\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "k}RS%a1GVP",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "GzE-Pathology::Neoplasia",
+                        "Term4::week3::pathology::lecture19",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What is the <b>unequivocal</b> sign of malignancy?<div><br></div><div>{{c1::Metastasis}}<br></div>",
+                        "",
+                        " <div> <div> <div><div>• Metastasis is defined as a tumor implant <b>discontinuous</b> from the primary tumor. </div> <div>• Metastasis is an <b>unequivocal</b> sign of malignancy.&nbsp;</div> </div> </div> </div>",
+                        "",
+                        "",
+                        "<img src=\"Screen Shot 2019-08-26 at 9.21.16 AM.png\"><img src=\"Screen Shot 2019-08-26 at 9.20.59 AM.png\"><br>",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "o{3J5k:`R/",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "GzE-Pathology::Neoplasia",
+                        "Term4::week3::pathology::lecture19",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What is the likely method in which <b>sarcomas</b> are <u>spread</u>?<div><br></div><div>{{c1::Hematogenous Spread}}<br></div>",
+                        "",
+                        "<img src=\"paste-9a6c75b711b18740e4fe5106cdd188668b308998.jpg\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "k/vv&NDlU&",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "GzE-Pathology::Neoplasia",
+                        "Term4::week3::pathology::lecture19",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What location in the body is a <b>common</b> deposit for <u>hematogenous spread </u>of neoplasm?<div><br></div><div>{{c1::Liver}} and&nbsp;{{c1::Lungs}}<br></div>",
+                        "",
+                        "<img src=\"Screen Shot 2019-08-26 at 9.49.56 AM.png\"><br>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "of1ho<$rr8",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "GzE-Pathology::Neoplasia",
+                        "Term4::week3::pathology::lecture19",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "A malignant tumor is characterized by&nbsp;{{c1::poorly}} demarcated cells",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"Screen Shot 2019-08-25 at 4.50.12 PM.png\">",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "yQ~wC2H}&=",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "GzE-Pathology::Neoplasia",
+                        "Term4::week3::pathology::lecture19",
+                        "^Banki"
+                    ]
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "adfc68c6-c098-11e9-b538-acde48001122",
+            "deck_config_uuid": "34c8a38c-b152-11e9-84d7-dca9046e43a6",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [],
+            "name": "(2)-Renal And Cardiovascular",
+            "notes": []
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "ae237bf0-c098-11e9-a6e0-acde48001122",
+            "deck_config_uuid": "34c8a38c-b152-11e9-84d7-dca9046e43a6",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [],
+            "name": "(3)-Respiratory and Hematopoietic",
+            "notes": []
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "ae4ad3a8-c098-11e9-864c-acde48001122",
+            "deck_config_uuid": "34c8a38c-b152-11e9-84d7-dca9046e43a6",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [],
+            "name": "(4)-Digestive, Endocrine, and Reproductive ",
+            "notes": []
+        }
+    ],
+    "crowdanki_uuid": "f55ed964-c544-11e9-9dbf-acde48001122",
+    "deck_config_uuid": "34c8a38c-b152-11e9-84d7-dca9046e43a6",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "34c8a38c-b152-11e9-84d7-dca9046e43a6",
+            "currentValue": 250,
+            "damage": 5,
+            "dyn": false,
+            "enableDamage": true,
+            "lapse": {
+                "delays": [
+                    10
+                ],
+                "leechAction": 1,
+                "leechFails": 15,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxLife": 250,
+            "maxTaken": 30,
+            "name": "Default",
+            "new": {
+                "LBEIMinAfter": 5,
+                "LBEIMinBefore": 4,
+                "LBGIMinAfter": 3,
+                "LBGIMinBefore": 2,
+                "bury": false,
+                "delays": [
+                    20,
+                    40
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    7
+                ],
+                "order": 1,
+                "perDay": 150,
+                "retirementActions": {
+                    "delete": false,
+                    "move": false,
+                    "suspend": true,
+                    "tag": false
+                },
+                "retiringInterval": 0,
+                "separate": true
+            },
+            "recover": 3,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.4,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.01,
+                "maxIvl": 365,
+                "minSpace": 1,
+                "perDay": 9999
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 10,
+    "extendRev": 50,
+    "media_files": [],
+    "name": "M1/M2::Term 4",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "b008aac6-c098-11e9-a788-acde48001122",
+            "css": "/* Profile: First Aid Color Scheme || Satus: Saved */ \n\n\nhtml { overflow: scroll; overflow-x: hidden; }\n/* CONTAINER FOR YOUR CARDS */\n#kard {\n    padding: 0px 0px;\n    max-width: 950px; /* CHANGE CARD SIZE HERE */\n    margin: 0 auto; /* CENTERS THE CARD IN THE MIDDLE OF THE WINDOW */\n    word-wrap: break-word; /* BREAKS UP LONG WORKS */\n}\n\n\n/* APPLIES TO THE WHOLE CARD */\n.card {\n    font-family: Vernada;\n    font-size: 28px; /* FONT SIZE */\n    text-align: center; /* ALIGN TEXT */\n    color: black; /* FONT COLOR */\n    line-height: 1.2em;\n    background-color: #FEFCF9; /* BACKGROUND COLOR Orange FDFBF6 blue/white FAFAFA  */\n}\n/* STYLE FOR CLOZE DELETIONS */\n.cloze, .cloze b, .cloze u, .cloze i { font-weight: bold; color: #993330 !important;}\n\n.night_mode .cloze  { font-weight: bold; color: MediumSeaGreen !important;}\n.night_mode .cloze b { font-weight: bold; color: MediumSeaGreen !important;}\n.night_mode .cloze u { font-weight: bold; color: MediumSeaGreen !important;}\n.night_mode .cloze i { font-weight: bold; color: MediumSeaGreen !important;}\n\n\n/* STYLE FOR EXTRA PORTION ON BACK OF CARD */\n#extra { font-size: 26px; color: black; font-style: italic;  }\n#extra i { font-size: 26px; color: black; font-style: italic;  }\n\n.night_mode #extra { font-size: 26px; color: white !important; font-style: italic; }\n.night_mode #extra i { font-size: 26px; color: white !important; font-style: italic; }\n\n/* STYLE TAGS TO APPEAR WHEN HOVERING OVER TOP OF CARD */\n.tags { \n    color: #A6ABB9;\n    opacity: 0;\n    font-size: 10px; \n    width: 100%;\n    text-align: center;\n    text-transform: uppercase; \n    position: fixed; \n    padding: 0; \n    top:0;  \n    right: 0;}\n.tags:hover { opacity: 1; position: fixed;}\n\n\n/* IMAGE STYLE */\nimg { display: block; max-width: 100%; max-height: 650px; margin-center: auto; margin: 10px auto 0 auto;\nbox-shadow: 3px 6px 15px 1px rgba(0, 0, 0, 0.2), 3px 1px 20px 1px rgba(0, 0, 0, 0.19)\n\n}\n\nimg:active { width: 100%;}\ntr {font-size: 12px; }\n\n\n\n/* COLOR ACCENTS FOR BOLD-ITALICS-UNDERLINE */\nb {color: #306299; !important; } /* BOLD STYLE */\nu { text-decoration: none; color: #D18835 ;} /* UNDERLINE STYLE */\ni  { color: #309699; } /* ITALICS STYLE */\na { color: LightGray !important; text-decoration: none; font-size: 10px; font-style: normal; } /* LINK STYLE */\n\n.night_mode b { color: #C695C6; !important; } /* BOLD STYLE */\n.night_mode u { text-decoration: none !important; color: #5EB3B3; !important;} /* UNDERLINE STYLE */\n.night_mode i  { color: IndianRed !important; } /* ITALICS STYLE */\n.night_mode a { color: LightGray !important; text-decoration: none; font-size: 10px; font-style: normal; }\n\n/* ADJUSTMENT FOR MOBILE DEVICES */\n.mobile .card { color: black; background-color: #FDFBF6; } \n.mobile .tags:hover { opacity: 1; position: relative;}\n.mobile .card img:active { width: inherit; max-height: none;}\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze-763b9 Zanki expansion",
+            "sortf": 0,
+            "tags": [
+                "Term4Exam1::Week2"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "<div id=\"kard\">\n    <div class=\"tags\" id='tags'>{{Tags}}</div>\n    {{cloze:Text}}\n    <div>&nbsp;</div>\n    <div id='extra'>{{Extra}}</div>\n</div>\n\n\n",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "<div id=\"kard\">\n<div class=\"tags\">{{Tags}}</div>\n{{cloze:Text}}\n</div>"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "acb98e58-c098-11e9-81dc-acde48001122",
+            "css": "/* Profile: Ultrazanki FA || Satus: Saved */ \n\nhtml { overflow: scroll; overflow-x: hidden; }\n/* CONTAINER FOR YOUR CARDS */\n#kard {\n    padding: 0px 0px;\n    max-width: 950px; /* CHANGE CARD SIZE HERE */\n    margin: 0 auto; /* CENTERS THE CARD IN THE MIDDLE OF THE WINDOW */\n    word-wrap: break-word; /* BREAKS UP LONG WORKS */\n}\n\n\n/* APPLIES TO THE WHOLE CARD */\n.card {\n    font-family: Vernada;\n    font-size: 28px; /* FONT SIZE */\n    text-align: center; /* ALIGN TEXT */\n    color: black; /* FONT COLOR */\n    line-height: 1.2em;\n    background-color: #FEFCF9; /* BACKGROUND COLOR Orange FDFBF6 blue/white FAFAFA  */\n}\n/* STYLE FOR CLOZE DELETIONS */\n.cloze, .cloze b, .cloze u, .cloze i { font-weight: bold; color: #993330 !important;}\n\n.night_mode .cloze  { font-weight: bold; color: MediumSeaGreen !important;}\n.night_mode .cloze b { font-weight: bold; color: MediumSeaGreen !important;}\n.night_mode .cloze u { font-weight: bold; color: MediumSeaGreen !important;}\n.night_mode .cloze i { font-weight: bold; color: MediumSeaGreen !important;}\n\n\n/* STYLE FOR EXTRA PORTION ON BACK OF CARD */\n#extra { font-size: 26px; color: black; font-style: italic;  }\n#extra i { font-size: 26px; color: black; font-style: italic;  }\n\n.night_mode #extra { font-size: 26px; color: white !important; font-style: italic; }\n.night_mode #extra i { font-size: 26px; color: white !important; font-style: italic; }\n\n/* STYLE TAGS TO APPEAR WHEN HOVERING OVER TOP OF CARD */\n.tags { \n    color: #A6ABB9;\n    opacity: 0;\n    font-size: 10px; \n    width: 100%;\n    text-align: center;\n    text-transform: uppercase; \n    position: fixed; \n    padding: 0; \n    top:0;  \n    right: 0;}\n.tags:hover { opacity: 1; position: fixed;}\n\n\n/* IMAGE STYLE */\nimg { display: block; max-width: 100%; max-height: 650px; margin-center: auto; margin: 10px auto 0 auto;\nbox-shadow: 3px 6px 15px 1px rgba(0, 0, 0, 0.2), 3px 1px 20px 1px rgba(0, 0, 0, 0.19)\n}\nimg:active { width: 100%; }\ntr {font-size: 12px; }\n\n\n/* COLOR ACCENTS FOR BOLD-ITALICS-UNDERLINE */\nb {color: #306299; !important; } /* BOLD STYLE */\nu { text-decoration: none; color: #D18835 ;} /* UNDERLINE STYLE */\ni  { color: #309699; } /* ITALICS STYLE */\na { color: LightGray !important; text-decoration: none; font-size: 10px; font-style: normal; } /* LINK STYLE */\n\n.night_mode b { color: #C695C6; !important; } /* BOLD STYLE */\n.night_mode u { text-decoration: none !important; color: #5EB3B3; !important;} /* UNDERLINE STYLE */\n.night_mode i  { color: IndianRed !important; } /* ITALICS STYLE */\n.night_mode a { color: LightGray !important; text-decoration: none; font-size: 10px; font-style: normal; }\n\n\n\n.hint {  \nfont-family: Vernada;\n    font-size: 22px; /* FONT SIZE */\n    text-align: center; /* ALIGN TEXT */\n    color: black; /* FONT COLOR */\n}\n.night_mode .hint {  \nfont-family: Vernada;\n    font-size: 22px; /* FONT SIZE */\n    text-align: center; /* ALIGN TEXT */\n    color: black; /* FONT COLOR */\n}\n/* ADJUSTMENT FOR MOBILE DEVICES */\n.mobile .card { color: black; background-color: #FDFBF6; } \n.mobile .tags:hover { opacity: 1; position: relative;}\n.mobile .card img:active { width: inherit; max-height: none;}\n",
+            "flds": [
+                {
+                    "font": "Helvetica",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Helvetica",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "First Aid",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Netters",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Robbins",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Atlas",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Step Up to Medicine",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "UWorld",
+                    "ord": 7,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Other Reference",
+                    "ord": 8,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze-Zanki w/references(1)",
+            "sortf": 0,
+            "tags": [
+                "Term4::week2::IMCQ",
+                "^Banki"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "<div id=\"kard\">\n    <div class=\"tags\" id='tags'>{{Tags}}</div>\n    {{cloze:Text}}\n    <div>&nbsp;</div>\n    <div id='extra'>{{Extra}}</div>\n</div>\n  \n{{#First Aid}}\n <a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint1').style.display='inline-block';return false\";> <font color=\"#993330\">First Aid</a></font><div id=\"hint1\" class=hint style=\"display: none\">{{First Aid}}</div>\n{{/First Aid}}\n\n{{#Netters}}\n<a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint2').style.display='';return false\";> <font color=\"#306299\">Netters</a></font><div id=\"hint2\" class=hint style=\"display: none\">{{Netters}}</div>\n{{/Netters}}\n\n{{#Robbins}}\n<a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint3').style.display='';return false\";> <font color=\"#008800\">Robbins</a></font><div id=\"hint3\" class=hint style=\"display: none\">{{Robbins}}</div>\n{{/Robbins}}\n\n{{#Atlas}}\n<a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint4').style.display='';return false\";> <font color=\"#996600\">Atlas</a></font><div id=\"hint4\" class=hint style=\"display: none\">{{Atlas}}</div>\n{{/Atlas}}\n\n{{#Step Up to Medicine}}\n<a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint5').style.display='';return false\";> <font color=\"#660033\">SUTM</a></font><div id=\"hint5\" class=hint style=\"display: none\">{{Step Up to Medicine}}</div>\n{{/Step Up to Medicine}}\n\n{{#UWorld}}\n <a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint7').style.display='inline-block';return false\";> <font color=\"#1144ff\">UWorld</a></font><div id=\"hint7\" class=hint style=\"display: none\">{{UWorld}}</div>\n{{/UWorld}}\n\n{{#Other Reference}}\n<a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint6').style.display='';return false\";> <font color=\"#9900CC\">Other/Lecture</a></font><div id=\"hint6\" class=hint style=\"display: none\">{{Other Reference}}</div>\n{{/Other Reference}}\n\n\n",
+                    "bafmt": "",
+                    "bfont": "Arial",
+                    "bqfmt": "",
+                    "bsize": 12,
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "<div id=\"kard\">\n<div class=\"tags\">{{Tags}}</div>\n{{cloze:Text}}\n</div>"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "bf94c240-c098-11e9-8454-acde48001122",
+            "css": "html,body {\n  display: block;\n  height: 100%;\n}\n\nhtml, body, *, #content, #qa {\n    box-sizing: border-box;\n    margin: 0;\n    padding: 0;\n}\n\n/* webanki: body main.container > div#quiz > div#qa_box.card > div#qa */\n/* linux-edit: body.card > div#qa */\n/* linux-preview|review: body > div#qa || body.card > div#qa */\n/* android: body.card > div#content > div.question || body.card > div#content > div.answer */\n\nbody > div#qa .main,\nbody > div#content .main {\n position: absolute;\n top: 0; bottom: 0; left: 0; right: 0;\n overflow: auto;\n}\n\nul {\n    list-style: none;\n    margin: 0;\n    padding: 0;\n}\n\n*:focus {\n    outline: none;\n}\n\n.hidden {\n    display: none;\n}\n\n.flex {\n    flex: 1 1;\n}\n\n.main {\n    padding: 8px;\n    display: flex;\n    flex-flow: column nowrap;\n    align-items: center;\n    background-color: var(--theme-background0);\n}\n\nhr {\n    width: 100%;\n    height: 1px;\n    border: none;\n    background-color: var(--theme-divider);\n}\n\np {\n    margin: .5em 0;\n}\n\n.reference {\n    font-size: x-small;\n}\n\n.answer {\n    padding: .3ex;\n}\n\n\n.text .cloze.correct,\n.text .cloze.missed {\n    border-radius: 2px;\n    border-bottom: none;\n}\n\nli.ground {\n    border-bottom: none;\n}\n\n/* material design card */\n\n.md-card {\n    width: 800px; /* ~60 chars */\n    max-width: 100%;\n    min-width: 24em;\n    margin-bottom: 8px;\n    border-radius: 2px;\n    box-shadow: var(--md-shadow-z2);\n    background-color: var(--theme-background1);\n}\n\n.md-card .header {\n    margin: 24px 0 16px;\n    padding: 0 16px;\n}\n\n.md-card .cover {\n    position: relative;\n    padding-top: 56.25%; /* 16:9 aspect ratio */\n}\n\n.md-card .cover img {\n    display: block;\n    position: absolute;\n    z-index: 0;\n    top: 0; bottom:0; left:0; right: 0;\n    max-width: 100%;\n    max-height: 100%;\n    width: 100%;\n    height: 100%;\n    object-fit: cover;\n}\n\n.md-card .cover .header {\n    position: absolute;\n    z-index: 1;\n    bottom: 0; left:0; right: 0;\n    margin: 0;\n    padding: 24px 16px 16px;\n}\n\n.md-card .text,\n.md-card > my-input {\n    display: block;\n    margin: 16px 0;\n    padding: 0 16px;\n}\n\n.md-card .text img {\n    display: block;\n    margin: 8px auto;\n}\n\n/* my-cloze */\n\nmy-cloze {\n    display: inline;\n    padding: .15ex .5ex;\n    margin: 0 -.5ex; /* compensate */\n    border-bottom: 1px solid var(--theme-primary);\n    border-radius: 2px 2px 0 0 ;\n    color: var(--theme-primary-dark);\n}\n\nmy-cloze.contracted {\n    padding-left: 0;\n}\n\nmy-cloze:empty:after {\n    content:attr(placeholder);\n    color: var(--theme-placeholder);\n}\n\nmy-cloze:hover {\n    background-color: var(--theme-hover);\n}\n\nmy-cloze:focus, my-cloze.focus {\n    background-color: var(--theme-focus);\n}\n\nmy-cloze.ground {\n    color: var(--theme-foreground1);\n    background-color: transparent;\n    border-color: var(--theme-secondary);\n}\n\nmy-cloze.correct {\n    color: var(--theme-foreground1);\n    background-color: var(--theme-correct);\n    border-color: var(--theme-correct-dark);\n}\n\nmy-cloze.missed {\n    color: var(--theme-foreground1);\n    background-color: var(--theme-missed);\n    border-color: var(--theme-missed-dark);\n}\n\n/* my-choices */\n\nul.md-list {\n    margin: 8px 0;\n}\n\n\nul.md-list li {\n    display: flex;\n    flex-flow: row nowrap;\n    align-items: center;\n    justify-content: flex-start;\n    min-height: 48px;\n    padding-right: 16px;\n}\n\n.main > my-choices {\n    min-width: 24em;\n    border: 1px solid var(--theme-divider);\n    border-radius: 2px;\n}\n\nul.md-list li:hover {\n    background-color: var(--theme-hover);\n}\n\nul.md-list li:focus {\n    background-color: var(--theme-focus);\n}\n\nul.md-list li.correct {\n    background-color: var(--theme-correct);\n}\n\nul.md-list li.missed {\n    background-color: var(--theme-missed);\n}\n\nul.md-list li.disabled {\n    color: var(--theme-disabled);\n}\n\n/* my-chips */\n\nul.md-chips {\n    display: flex;\n    flex-flow: row wrap;\n    justify-content: center;\n    min-width: 24em; /* ~40 chars */\n    max-width: 36em; /* ~60 chars */\n}\n\nul.md-chips li {\n    display: flex;\n    align-items: center;\n    margin: 4px;\n    padding: 0 12px;\n    height: 32px;\n    border-radius: 16px;\n    background-color: var(--theme-fieldbox);\n    box-shadow: var(--md-shadow-z1);\n}\n\nul.md-chips li[tabindex]:active {\n    background-color: var(--theme-active);\n    box-shadow: var(--md-shadow-z8);\n}\n\nul.md-chips li:hover {\n    background-color: var(--theme-fieldbox-hover);\n}\n\nul.md-chips li:focus {\n    background-color: var(--theme-focus);\n}\n\nul.md-chips li label,\nul.md-chips li i {\n    font-size: 1rem;\n    line-height: 1rem;\n    color: var(--theme-foreground1);\n    font-style: normal;\n}\n\n.md-control {\n    width: 40px;\n    height: 40px;\n    /* 16px from left to icon, sum up to 72px */\n    margin-left: 5px;\n    margin-right: 27px;\n}\n\n.md-control__outline {\n    margin: 11px;\n    height: 18px;\n    width: 18px;\n    border: 2px solid var(--theme-primary);\n}\n\n.md-radio .md-control__outline {\n    border-radius: 50%;\n}\n\n.md-check .md-control__outline {\n    border-radius: 2px;\n}\n\n.md-control__inline {\n    display: none;\n}\n\n.selected .md-control__inline {\n    display: block;\n    margin: 2px;\n    width: 10px;\n    height: 10px;\n    background-color: var(--theme-primary);\n}\n\n.md-radio .md-control__inline {\n    border-radius: 50%;\n}\n\n.md-check .md-control__inline {\n    border-radius: 2px;\n}\n\n.disabled .md-control__outline,\n[readonly] .md-control__outline {\n    border-color: var(--theme-disabled);\n}\n\n.ground .md-control__outline {\n    border-color: var(--theme-secondary);\n}\n.ground.selected .md-control__inline {\n    background-color: var(--theme-secondary);\n}\n\n.correct .md-control__outline {\n    border-color: var(--theme-correct-dark);\n}\n.correct.selected .md-control__inline {\n    background-color: var(--theme-correct-dark);\n}\n\n.missed .md-control__outline {\n    border-color: var(--theme-missed-dark);\n}\n.missed.selected .md-control__inline {\n    background-color: var(--theme-missed-dark);\n}\n\n\n/* my-input */\n\n.md-textbox {\n    flex: 0 0 36px;\n    height: 36px;\n    margin: 8px auto;\n    background-color: var(--theme-fieldbox);\n    border-radius: 4px;\n    padding: 8px 16px;\n    position: relative;\n    overflow: hidden;\n}\n\n.md-textbox hr {\n    position: absolute;\n    left: 0;\n    right: 0;\n    bottom: 0;\n    height: 0;\n    border: none;\n    margin: 0;\n    border-bottom: 2px solid var(--theme-primary);\n}\n\n.md-textbox input {\n    width: 20em; /* Betäubungsmittel-Verschreibungsverordnung */\n    margin: 0;\n    padding: 0;\n    border: none;\n    font-size: 1rem;\n    font-weight: 400;\n    background: transparent;\n}\n\n.md-textbox\n{\n    background-color: var(--theme-fieldbox);\n}\n.md-textbox:hover\n{\n    background-color: var(--theme-fieldbox-hover);\n}\n\n.focus .md-textbox,\n.focus .md-textbox hr\n{\n    background-color: var(--theme-focus);\n}\n\n.ground .md-textbox,\n[readonly].ground .md-textbox hr {\n    border-color: var(--theme-secondary);\n}\n\n[readonly] .md-textbox hr\n{\n    border-color: var(--theme-divider);\n}\n\n.correct .md-textbox,\n.correct .md-textbox hr\n{\n    background-color: var(--theme-correct);\n    border-color: var(--theme-correct-dark);\n}\n\n.missed .md-textbox,\n.missed .md-textbox hr\n{\n    background-color: var(--theme-missed);\n    border-color: var(--theme-missed-dark);\n}\n\n.cover .header {\n    background-image: linear-gradient(to bottom, transparent 0%, hsla(199, 100%, 10%, .6) 24px, hsla(199, 100%, 10%, .95) 100%);\n    color: white;\n}\n\ninput::-webkit-input-placeholder {\n    color: var(--theme-placeholder);\n}\n\n/* material design typography */\n\nbody {\n    font-family: Roboto, sans-serif;\n    -moz-osx-font-smoothing: grayscale;\n    -webkit-font-smoothing: antialiased;\n    color: var(--theme-foreground1);\n}\n\n.md-headline6 {\n  font-size: 1.8rem;\n  line-height: 2rem;\n  font-weight: 500;\n  letter-spacing: 0.0125em;\n  text-decoration: inherit;\n  text-transform: inherit; }\n\n.md-body1 {\n  font-size: 0.8rem;\n  line-height: 1.0rem;\n  font-weight: 400;\n  letter-spacing: 0.03125em;\n  text-decoration: inherit;\n  text-transform: inherit; }\n\n.md-body2 {\n  font-size: 1.0rem;\n  line-height: 1.25rem;\n  font-weight: 400;\n  letter-spacing: 0.01786em;\n  text-decoration: inherit;\n  text-transform: inherit; }\n\n.md-caption {\n  font-size: 0.75rem;\n  line-height: 1.25rem;\n  font-weight: 400;\n  letter-spacing: 0.03333em;\n  text-decoration: inherit;\n  text-transform: inherit; }\n\n:root {\n    --theme-primary: hsl(199, 100%, 50%);\n    --theme-primary-dark: hsl(199, 100%, 20%);\n    --theme-secondary: hsl(36, 100%, 50%);\n\n    --theme-correct: hsl(120, 80%, 80%);\n    --theme-correct-dark: hsl(120, 50%, 50%);\n    --theme-missed: hsl(50, 100%, 80%);\n    --theme-missed-dark: hsl(50, 50%, 50%);\n\n    --theme-background0: hsl(199, 100%, 95%);\n    --theme-background1: hsl(0, 0%, 98%);\n    --theme-foreground1: rgba(0, 0, 0, .87);\n    --theme-foreground2: rgba(0, 0, 0, .54);\n    --theme-divider: hsla(199, 100%, 20%, .12);\n    --theme-disabled: hsla(199, 100%, 20%, .26);\n    --theme-placeholder: hsla(199, 100%, 20%, .38);\n\n    --state-hover: .04;\n    --state-selected: .08;\n    --state-focus: .12;\n    --state-activated: .12;\n\n    --theme-fieldbox: rgba(0, 0, 0, .05);\n    --theme-fieldbox-hover: rgba(0, 0, 0, .09);\n    --theme-hover: rgba(0, 0, 0, var(--state-hover));\n    --theme-selected: rgba(0, 0, 0, var(--state-selected));\n    --theme-focus: rgba(0, 0, 0, var(--state-focus));\n    --theme-active: rgba(0,0,0, var(--state-activated));\n\n    --md-shadow-z1: 0 2px 1px -1px rgba(0,0,0,.2), 0 1px 1px 0 rgba(0,0,0,.14), 0 1px 3px 0 rgba(0,0,0,.12);\n    --md-shadow-z2: 0 3px 1px -2px rgba(0,0,0,.2), 0 2px 2px 0 rgba(0,0,0,.14), 0 1px 5px 0 rgba(0,0,0,.12);\n    --md-shadow-z8: 0 5px 5px -3px rgba(0,0,0,.2), 0 8px 10px 1px rgba(0,0,0,.14), 0 3px 14px 2px rgba(0,0,0,.12);\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Words",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Header",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Intro",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Cover",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Instruction",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Explanation",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Reference",
+                    "ord": 7,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                }
+            ],
+            "latexPost": "",
+            "latexPre": "",
+            "name": "InteractiveOrder",
+            "sortf": 0,
+            "tags": [
+                "Term4::week2::pharmacology::lecture15",
+                "^Banki"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "<script>// v0.5.0 - https://github.com/SimonLammer/anki-persistence/blob/3e08d4437272b869dc3ccb48369b3482ccea4c9f/script.js\nif(void 0===window.Persistence){var _persistenceKey=\"github.com/SimonLammer/anki-persistence/\",_defaultKey=\"_default\";if(window.Persistence_sessionStorage=function(){var e=!1;try{\"object\"==typeof window.sessionStorage&&(e=!0,this.clear=function(){for(var e=0;e<sessionStorage.length;e++){var t=sessionStorage.key(e);0==t.indexOf(_persistenceKey)&&(sessionStorage.removeItem(t),e--)}},this.setItem=function(e,t){void 0==t&&(t=e,e=_defaultKey),sessionStorage.setItem(_persistenceKey+e,JSON.stringify(t))},this.getItem=function(e){return void 0==e&&(e=_defaultKey),JSON.parse(sessionStorage.getItem(_persistenceKey+e))},this.removeItem=function(e){void 0==e&&(e=_defaultKey),sessionStorage.removeItem(_persistenceKey+e)})}catch(e){}this.isAvailable=function(){return e}},window.Persistence_windowKey=function(e){var t=window[e],i=!1;\"object\"==typeof t&&(i=!0,this.clear=function(){t[_persistenceKey]={}},this.setItem=function(e,i){void 0==i&&(i=e,e=_defaultKey),t[_persistenceKey][e]=i},this.getItem=function(e){return void 0==e&&(e=_defaultKey),t[_persistenceKey][e]||null},this.removeItem=function(e){void 0==e&&(e=_defaultKey),delete t[_persistenceKey][e]},void 0==t[_persistenceKey]&&this.clear()),this.isAvailable=function(){return i}},window.Persistence=new Persistence_sessionStorage,Persistence.isAvailable()||(window.Persistence=new Persistence_windowKey(\"py\")),!Persistence.isAvailable()){var titleStartIndex=window.location.toString().indexOf(\"title\"),titleContentIndex=window.location.toString().indexOf(\"main\",titleStartIndex);titleStartIndex>0&&titleContentIndex>0&&titleContentIndex-titleStartIndex<10&&(window.Persistence=new Persistence_windowKey(\"qt\"))}}</script>\n\n<script>if( window.Random === undefined ) {\n    // https://gist.github.com/blixt/f17b47c62508be59987b\n    /**\n     * Creates a pseudo-random value generator. The seed must be an integer.\n     *\n     * Uses an optimized version of the Park-Miller PRNG.\n     * http://www.firstpr.com.au/dsp/rand31/\n     */\n    function Random(seed) {\n      this._seed = seed % 2147483647;\n      if (this._seed <= 0) this._seed += 2147483646;\n    }\n\n    /**\n     * Returns a pseudo-random value between 1 and 2^32 - 2.\n     */\n    Random.prototype.next = function () {\n      return this._seed = this._seed * 16807 % 2147483647;\n    };\n\n\n    /**\n     * Returns a pseudo-random floating point number in range [0, 1).\n     */\n    Random.prototype.nextFloat = function (opt_minOrMax, opt_max) {\n      // We know that result of next() will be 1 to 2147483646 (inclusive).\n      return (this.next() - 1) / 2147483646;\n    };\n}\n\nArray.prototype.shuffle = function (seed) {\n    // Fisher–Yates shuffle\n    var random = new Random(seed || new Date().valueOf())\n    if( !random ) throw \"No random generator\";\n    for (let i = this.length-1; i >= 1; i--) {\n        let j = Math.floor(random.nextFloat() * i);\n        [this[i], this[j]] = [this[j], this[i]];\n    }\n};\n\n</script>\n\n<script>if(!Persistence.isAvailable()) {\n    /* dumb implementaion */\n    window.Persistence = {\n        isAvailable: function() { return false; },\n        clear: function(){},\n        getItem: function(){},\n        setItem: function(){},\n        removeItem: function(){}\n    };\n}\n\nfunction debug(message) {\n    let d = document.querySelector(\"#debug\");\n    if(!d) return;\n    d.textContent += \"\\n\"+message;\n}\n\nString.prototype.splitrim = function (sep) {\n    return this.split(sep).map(e => e.trim());\n};\n\nfunction split_choices(str) {\n    return str.splitrim(/<br>|\\|/).filter(e => e !== \"\");\n}\n\nString.prototype.stripspaces = function() {\n    return this.replace(/\\s+/g, ' ');\n};\n\nfunction placeCaretAtEnd(el) {\n    if (typeof window.getSelection != \"undefined\"\n            && typeof document.createRange != \"undefined\") {\n        var range = document.createRange();\n        range.selectNodeContents(el);\n        range.collapse(false);\n        var sel = window.getSelection();\n        sel.removeAllRanges();\n        sel.addRange(range);\n    } else if (typeof document.body.createTextRange != \"undefined\") {\n        var textRange = document.body.createTextRange();\n        textRange.moveToElementText(el);\n        textRange.collapse(false);\n        textRange.select();\n    }\n}\n\nfunction hide(elem) { elem.classList.add('hidden'); };\n\nfunction show(elem) { elem.classList.remove('hidden'); };\n\nfunction toggle(elem) { elem.classList.toggle('hidden'); };</script>\n\n<script>/**\n@license @nocompile\nCopyright (c) 2018 The Polymer Project Authors. All rights reserved.\nThis code may only be used under the BSD style license found at http://polymer.github.io/LICENSE.txt\nThe complete set of authors may be found at http://polymer.github.io/AUTHORS.txt\nThe complete set of contributors may be found at http://polymer.github.io/CONTRIBUTORS.txt\nCode distributed by Google as part of the polymer project is also\nsubject to an additional IP rights grant found at http://polymer.github.io/PATENTS.txt\n*/\n(function(){'use strict';var aa=new Set(\"annotation-xml color-profile font-face font-face-src font-face-uri font-face-format font-face-name missing-glyph\".split(\" \"));function g(b){var a=aa.has(b);b=/^[a-z][.0-9_a-z]*-[\\-.0-9_a-z]*$/.test(b);return!a&&b}function l(b){var a=b.isConnected;if(void 0!==a)return a;for(;b&&!(b.__CE_isImportDocument||b instanceof Document);)b=b.parentNode||(window.ShadowRoot&&b instanceof ShadowRoot?b.host:void 0);return!(!b||!(b.__CE_isImportDocument||b instanceof Document))}\nfunction n(b,a){for(;a&&a!==b&&!a.nextSibling;)a=a.parentNode;return a&&a!==b?a.nextSibling:null}\nfunction p(b,a,d){d=void 0===d?new Set:d;for(var c=b;c;){if(c.nodeType===Node.ELEMENT_NODE){var e=c;a(e);var f=e.localName;if(\"link\"===f&&\"import\"===e.getAttribute(\"rel\")){c=e.import;if(c instanceof Node&&!d.has(c))for(d.add(c),c=c.firstChild;c;c=c.nextSibling)p(c,a,d);c=n(b,e);continue}else if(\"template\"===f){c=n(b,e);continue}if(e=e.__CE_shadowRoot)for(e=e.firstChild;e;e=e.nextSibling)p(e,a,d)}c=c.firstChild?c.firstChild:n(b,c)}}function r(b,a,d){b[a]=d};function u(){this.a=new Map;this.s=new Map;this.f=[];this.b=!1}function ba(b,a,d){b.a.set(a,d);b.s.set(d.constructor,d)}function v(b,a){b.b=!0;b.f.push(a)}function w(b,a){b.b&&p(a,function(a){return x(b,a)})}function x(b,a){if(b.b&&!a.__CE_patched){a.__CE_patched=!0;for(var d=0;d<b.f.length;d++)b.f[d](a)}}function y(b,a){var d=[];p(a,function(b){return d.push(b)});for(a=0;a<d.length;a++){var c=d[a];1===c.__CE_state?b.connectedCallback(c):z(b,c)}}\nfunction A(b,a){var d=[];p(a,function(b){return d.push(b)});for(a=0;a<d.length;a++){var c=d[a];1===c.__CE_state&&b.disconnectedCallback(c)}}\nfunction B(b,a,d){d=void 0===d?{}:d;var c=d.w||new Set,e=d.i||function(a){return z(b,a)},f=[];p(a,function(a){if(\"link\"===a.localName&&\"import\"===a.getAttribute(\"rel\")){var d=a.import;d instanceof Node&&(d.__CE_isImportDocument=!0,d.__CE_hasRegistry=!0);d&&\"complete\"===d.readyState?d.__CE_documentLoadHandled=!0:a.addEventListener(\"load\",function(){var d=a.import;if(!d.__CE_documentLoadHandled){d.__CE_documentLoadHandled=!0;var f=new Set(c);f.delete(d);B(b,d,{w:f,i:e})}})}else f.push(a)},c);if(b.b)for(a=\n0;a<f.length;a++)x(b,f[a]);for(a=0;a<f.length;a++)e(f[a])}\nfunction z(b,a){if(void 0===a.__CE_state){var d=a.ownerDocument;if(d.defaultView||d.__CE_isImportDocument&&d.__CE_hasRegistry)if(d=b.a.get(a.localName)){d.constructionStack.push(a);var c=d.constructor;try{try{if(new c!==a)throw Error(\"The custom element constructor did not produce the element being upgraded.\");}finally{d.constructionStack.pop()}}catch(t){throw a.__CE_state=2,t;}a.__CE_state=1;a.__CE_definition=d;if(d.attributeChangedCallback)for(d=d.observedAttributes,c=0;c<d.length;c++){var e=d[c],\nf=a.getAttribute(e);null!==f&&b.attributeChangedCallback(a,e,null,f,null)}l(a)&&b.connectedCallback(a)}}}u.prototype.connectedCallback=function(b){var a=b.__CE_definition;a.connectedCallback&&a.connectedCallback.call(b)};u.prototype.disconnectedCallback=function(b){var a=b.__CE_definition;a.disconnectedCallback&&a.disconnectedCallback.call(b)};\nu.prototype.attributeChangedCallback=function(b,a,d,c,e){var f=b.__CE_definition;f.attributeChangedCallback&&-1<f.observedAttributes.indexOf(a)&&f.attributeChangedCallback.call(b,a,d,c,e)};function C(b){var a=document;this.c=b;this.a=a;this.b=void 0;B(this.c,this.a);\"loading\"===this.a.readyState&&(this.b=new MutationObserver(this.f.bind(this)),this.b.observe(this.a,{childList:!0,subtree:!0}))}function D(b){b.b&&b.b.disconnect()}C.prototype.f=function(b){var a=this.a.readyState;\"interactive\"!==a&&\"complete\"!==a||D(this);for(a=0;a<b.length;a++)for(var d=b[a].addedNodes,c=0;c<d.length;c++)B(this.c,d[c])};function ca(){var b=this;this.b=this.a=void 0;this.f=new Promise(function(a){b.b=a;b.a&&a(b.a)})}function E(b){if(b.a)throw Error(\"Already resolved.\");b.a=void 0;b.b&&b.b(void 0)};function F(b){this.j=!1;this.c=b;this.o=new Map;this.l=function(b){return b()};this.g=!1;this.m=[];this.u=new C(b)}\nF.prototype.define=function(b,a){var d=this;if(!(a instanceof Function))throw new TypeError(\"Custom element constructors must be functions.\");if(!g(b))throw new SyntaxError(\"The element name '\"+b+\"' is not valid.\");if(this.c.a.get(b))throw Error(\"A custom element with name '\"+b+\"' has already been defined.\");if(this.j)throw Error(\"A custom element is already being defined.\");this.j=!0;try{var c=function(b){var a=e[b];if(void 0!==a&&!(a instanceof Function))throw Error(\"The '\"+b+\"' callback must be a function.\");\nreturn a},e=a.prototype;if(!(e instanceof Object))throw new TypeError(\"The custom element constructor's prototype is not an object.\");var f=c(\"connectedCallback\");var t=c(\"disconnectedCallback\");var k=c(\"adoptedCallback\");var h=c(\"attributeChangedCallback\");var m=a.observedAttributes||[]}catch(q){return}finally{this.j=!1}a={localName:b,constructor:a,connectedCallback:f,disconnectedCallback:t,adoptedCallback:k,attributeChangedCallback:h,observedAttributes:m,constructionStack:[]};ba(this.c,b,a);this.m.push(a);\nthis.g||(this.g=!0,this.l(function(){return da(d)}))};F.prototype.i=function(b){B(this.c,b)};function da(b){if(!1!==b.g){b.g=!1;for(var a=b.m,d=[],c=new Map,e=0;e<a.length;e++)c.set(a[e].localName,[]);B(b.c,document,{i:function(a){if(void 0===a.__CE_state){var e=a.localName,f=c.get(e);f?f.push(a):b.c.a.get(e)&&d.push(a)}}});for(e=0;e<d.length;e++)z(b.c,d[e]);for(;0<a.length;){var f=a.shift();e=f.localName;f=c.get(f.localName);for(var t=0;t<f.length;t++)z(b.c,f[t]);(e=b.o.get(e))&&E(e)}}}\nF.prototype.get=function(b){if(b=this.c.a.get(b))return b.constructor};F.prototype.whenDefined=function(b){if(!g(b))return Promise.reject(new SyntaxError(\"'\"+b+\"' is not a valid custom element name.\"));var a=this.o.get(b);if(a)return a.f;a=new ca;this.o.set(b,a);this.c.a.get(b)&&!this.m.some(function(a){return a.localName===b})&&E(a);return a.f};F.prototype.v=function(b){D(this.u);var a=this.l;this.l=function(d){return b(function(){return a(d)})}};window.CustomElementRegistry=F;\nF.prototype.define=F.prototype.define;F.prototype.upgrade=F.prototype.i;F.prototype.get=F.prototype.get;F.prototype.whenDefined=F.prototype.whenDefined;F.prototype.polyfillWrapFlushCallback=F.prototype.v;var G=window.Document.prototype.createElement,ea=window.Document.prototype.createElementNS,fa=window.Document.prototype.importNode,ha=window.Document.prototype.prepend,ia=window.Document.prototype.append,ja=window.DocumentFragment.prototype.prepend,ka=window.DocumentFragment.prototype.append,H=window.Node.prototype.cloneNode,I=window.Node.prototype.appendChild,J=window.Node.prototype.insertBefore,K=window.Node.prototype.removeChild,L=window.Node.prototype.replaceChild,M=Object.getOwnPropertyDescriptor(window.Node.prototype,\n\"textContent\"),N=window.Element.prototype.attachShadow,O=Object.getOwnPropertyDescriptor(window.Element.prototype,\"innerHTML\"),P=window.Element.prototype.getAttribute,Q=window.Element.prototype.setAttribute,R=window.Element.prototype.removeAttribute,S=window.Element.prototype.getAttributeNS,T=window.Element.prototype.setAttributeNS,U=window.Element.prototype.removeAttributeNS,la=window.Element.prototype.insertAdjacentElement,ma=window.Element.prototype.insertAdjacentHTML,na=window.Element.prototype.prepend,\noa=window.Element.prototype.append,V=window.Element.prototype.before,pa=window.Element.prototype.after,qa=window.Element.prototype.replaceWith,ra=window.Element.prototype.remove,sa=window.HTMLElement,W=Object.getOwnPropertyDescriptor(window.HTMLElement.prototype,\"innerHTML\"),ta=window.HTMLElement.prototype.insertAdjacentElement,ua=window.HTMLElement.prototype.insertAdjacentHTML;var va=new function(){};function wa(){var b=X;window.HTMLElement=function(){function a(){var a=this.constructor,c=b.s.get(a);if(!c)throw Error(\"The custom element being constructed was not registered with `customElements`.\");var e=c.constructionStack;if(0===e.length)return e=G.call(document,c.localName),Object.setPrototypeOf(e,a.prototype),e.__CE_state=1,e.__CE_definition=c,x(b,e),e;c=e.length-1;var f=e[c];if(f===va)throw Error(\"The HTMLElement constructor was either called reentrantly for this constructor or called multiple times.\");\ne[c]=va;Object.setPrototypeOf(f,a.prototype);x(b,f);return f}a.prototype=sa.prototype;return a}()};function Y(b,a,d){function c(a){return function(d){for(var e=[],c=0;c<arguments.length;++c)e[c-0]=arguments[c];c=[];for(var f=[],m=0;m<e.length;m++){var q=e[m];q instanceof Element&&l(q)&&f.push(q);if(q instanceof DocumentFragment)for(q=q.firstChild;q;q=q.nextSibling)c.push(q);else c.push(q)}a.apply(this,e);for(e=0;e<f.length;e++)A(b,f[e]);if(l(this))for(e=0;e<c.length;e++)f=c[e],f instanceof Element&&y(b,f)}}void 0!==d.h&&(a.prepend=c(d.h));void 0!==d.append&&(a.append=c(d.append))};function xa(){var b=X;r(Document.prototype,\"createElement\",function(a){if(this.__CE_hasRegistry){var d=b.a.get(a);if(d)return new d.constructor}a=G.call(this,a);x(b,a);return a});r(Document.prototype,\"importNode\",function(a,d){a=fa.call(this,a,d);this.__CE_hasRegistry?B(b,a):w(b,a);return a});r(Document.prototype,\"createElementNS\",function(a,d){if(this.__CE_hasRegistry&&(null===a||\"http://www.w3.org/1999/xhtml\"===a)){var c=b.a.get(d);if(c)return new c.constructor}a=ea.call(this,a,d);x(b,a);return a});\nY(b,Document.prototype,{h:ha,append:ia})};function ya(){var b=X;function a(a,c){Object.defineProperty(a,\"textContent\",{enumerable:c.enumerable,configurable:!0,get:c.get,set:function(a){if(this.nodeType===Node.TEXT_NODE)c.set.call(this,a);else{var e=void 0;if(this.firstChild){var d=this.childNodes,k=d.length;if(0<k&&l(this)){e=Array(k);for(var h=0;h<k;h++)e[h]=d[h]}}c.set.call(this,a);if(e)for(a=0;a<e.length;a++)A(b,e[a])}}})}r(Node.prototype,\"insertBefore\",function(a,c){if(a instanceof DocumentFragment){var e=Array.prototype.slice.apply(a.childNodes);\na=J.call(this,a,c);if(l(this))for(c=0;c<e.length;c++)y(b,e[c]);return a}e=l(a);c=J.call(this,a,c);e&&A(b,a);l(this)&&y(b,a);return c});r(Node.prototype,\"appendChild\",function(a){if(a instanceof DocumentFragment){var c=Array.prototype.slice.apply(a.childNodes);a=I.call(this,a);if(l(this))for(var e=0;e<c.length;e++)y(b,c[e]);return a}c=l(a);e=I.call(this,a);c&&A(b,a);l(this)&&y(b,a);return e});r(Node.prototype,\"cloneNode\",function(a){a=H.call(this,a);this.ownerDocument.__CE_hasRegistry?B(b,a):w(b,a);\nreturn a});r(Node.prototype,\"removeChild\",function(a){var c=l(a),e=K.call(this,a);c&&A(b,a);return e});r(Node.prototype,\"replaceChild\",function(a,c){if(a instanceof DocumentFragment){var e=Array.prototype.slice.apply(a.childNodes);a=L.call(this,a,c);if(l(this))for(A(b,c),c=0;c<e.length;c++)y(b,e[c]);return a}e=l(a);var f=L.call(this,a,c),d=l(this);d&&A(b,c);e&&A(b,a);d&&y(b,a);return f});M&&M.get?a(Node.prototype,M):v(b,function(b){a(b,{enumerable:!0,configurable:!0,get:function(){for(var a=[],b=\n0;b<this.childNodes.length;b++)a.push(this.childNodes[b].textContent);return a.join(\"\")},set:function(a){for(;this.firstChild;)K.call(this,this.firstChild);I.call(this,document.createTextNode(a))}})})};function za(b){var a=Element.prototype;function d(a){return function(e){for(var c=[],d=0;d<arguments.length;++d)c[d-0]=arguments[d];d=[];for(var k=[],h=0;h<c.length;h++){var m=c[h];m instanceof Element&&l(m)&&k.push(m);if(m instanceof DocumentFragment)for(m=m.firstChild;m;m=m.nextSibling)d.push(m);else d.push(m)}a.apply(this,c);for(c=0;c<k.length;c++)A(b,k[c]);if(l(this))for(c=0;c<d.length;c++)k=d[c],k instanceof Element&&y(b,k)}}void 0!==V&&(a.before=d(V));void 0!==V&&(a.after=d(pa));void 0!==qa&&\nr(a,\"replaceWith\",function(a){for(var e=[],c=0;c<arguments.length;++c)e[c-0]=arguments[c];c=[];for(var d=[],k=0;k<e.length;k++){var h=e[k];h instanceof Element&&l(h)&&d.push(h);if(h instanceof DocumentFragment)for(h=h.firstChild;h;h=h.nextSibling)c.push(h);else c.push(h)}k=l(this);qa.apply(this,e);for(e=0;e<d.length;e++)A(b,d[e]);if(k)for(A(b,this),e=0;e<c.length;e++)d=c[e],d instanceof Element&&y(b,d)});void 0!==ra&&r(a,\"remove\",function(){var a=l(this);ra.call(this);a&&A(b,this)})};function Aa(){var b=X;function a(a,c){Object.defineProperty(a,\"innerHTML\",{enumerable:c.enumerable,configurable:!0,get:c.get,set:function(a){var e=this,d=void 0;l(this)&&(d=[],p(this,function(a){a!==e&&d.push(a)}));c.set.call(this,a);if(d)for(var f=0;f<d.length;f++){var t=d[f];1===t.__CE_state&&b.disconnectedCallback(t)}this.ownerDocument.__CE_hasRegistry?B(b,this):w(b,this);return a}})}function d(a,c){r(a,\"insertAdjacentElement\",function(a,e){var d=l(e);a=c.call(this,a,e);d&&A(b,e);l(a)&&y(b,e);\nreturn a})}function c(a,c){function e(a,e){for(var c=[];a!==e;a=a.nextSibling)c.push(a);for(e=0;e<c.length;e++)B(b,c[e])}r(a,\"insertAdjacentHTML\",function(a,b){a=a.toLowerCase();if(\"beforebegin\"===a){var d=this.previousSibling;c.call(this,a,b);e(d||this.parentNode.firstChild,this)}else if(\"afterbegin\"===a)d=this.firstChild,c.call(this,a,b),e(this.firstChild,d);else if(\"beforeend\"===a)d=this.lastChild,c.call(this,a,b),e(d||this.firstChild,null);else if(\"afterend\"===a)d=this.nextSibling,c.call(this,\na,b),e(this.nextSibling,d);else throw new SyntaxError(\"The value provided (\"+String(a)+\") is not one of 'beforebegin', 'afterbegin', 'beforeend', or 'afterend'.\");})}N&&r(Element.prototype,\"attachShadow\",function(a){return this.__CE_shadowRoot=a=N.call(this,a)});O&&O.get?a(Element.prototype,O):W&&W.get?a(HTMLElement.prototype,W):v(b,function(b){a(b,{enumerable:!0,configurable:!0,get:function(){return H.call(this,!0).innerHTML},set:function(a){var b=\"template\"===this.localName,c=b?this.content:this,\ne=G.call(document,this.localName);for(e.innerHTML=a;0<c.childNodes.length;)K.call(c,c.childNodes[0]);for(a=b?e.content:e;0<a.childNodes.length;)I.call(c,a.childNodes[0])}})});r(Element.prototype,\"setAttribute\",function(a,c){if(1!==this.__CE_state)return Q.call(this,a,c);var e=P.call(this,a);Q.call(this,a,c);c=P.call(this,a);b.attributeChangedCallback(this,a,e,c,null)});r(Element.prototype,\"setAttributeNS\",function(a,c,d){if(1!==this.__CE_state)return T.call(this,a,c,d);var e=S.call(this,a,c);T.call(this,\na,c,d);d=S.call(this,a,c);b.attributeChangedCallback(this,c,e,d,a)});r(Element.prototype,\"removeAttribute\",function(a){if(1!==this.__CE_state)return R.call(this,a);var c=P.call(this,a);R.call(this,a);null!==c&&b.attributeChangedCallback(this,a,c,null,null)});r(Element.prototype,\"removeAttributeNS\",function(a,c){if(1!==this.__CE_state)return U.call(this,a,c);var d=S.call(this,a,c);U.call(this,a,c);var e=S.call(this,a,c);d!==e&&b.attributeChangedCallback(this,c,d,e,a)});ta?d(HTMLElement.prototype,ta):\nla?d(Element.prototype,la):console.warn(\"Custom Elements: `Element#insertAdjacentElement` was not patched.\");ua?c(HTMLElement.prototype,ua):ma?c(Element.prototype,ma):console.warn(\"Custom Elements: `Element#insertAdjacentHTML` was not patched.\");Y(b,Element.prototype,{h:na,append:oa});za(b)};/*\n\n Copyright (c) 2016 The Polymer Project Authors. All rights reserved.\n This code may only be used under the BSD style license found at http://polymer.github.io/LICENSE.txt\n The complete set of authors may be found at http://polymer.github.io/AUTHORS.txt\n The complete set of contributors may be found at http://polymer.github.io/CONTRIBUTORS.txt\n Code distributed by Google as part of the polymer project is also\n subject to an additional IP rights grant found at http://polymer.github.io/PATENTS.txt\n*/\nvar Z=window.customElements;if(!Z||Z.forcePolyfill||\"function\"!=typeof Z.define||\"function\"!=typeof Z.get){var X=new u;wa();xa();Y(X,DocumentFragment.prototype,{h:ja,append:ka});ya();Aa();document.__CE_hasRegistry=!0;var customElements=new F(X);Object.defineProperty(window,\"customElements\",{configurable:!0,enumerable:!0,value:customElements})};/*\n\nCopyright (c) 2017 The Polymer Project Authors. All rights reserved.\nThis code may only be used under the BSD style license found at http://polymer.github.io/LICENSE.txt\nThe complete set of authors may be found at http://polymer.github.io/AUTHORS.txt\nThe complete set of contributors may be found at http://polymer.github.io/CONTRIBUTORS.txt\nCode distributed by Google as part of the polymer project is also\nsubject to an additional IP rights grant found at http://polymer.github.io/PATENTS.txt\n*/\n}).call(this);\n\n//# sourceMappingURL=webcomponents-ce.js.map\n</script>\n\n<script>if( customElements.get('my-cloze') === undefined ) {\n    customElements.define('my-cloze', class MyCloze extends HTMLElement {\n        /** single cloze deletion\n         * @param textContent -> value\n         * @param {string} placholder\n         * @param {string} fill -- initial value for editable\n         * @fires input (standard, if editable)\n         */\n         connectedCallback() {\n            this.tabIndex = \"1\";\n            if( !this.getAttribute('placeholder') ) this.setAttribute('placeholder', \"…\")\n            this.fill = this.getAttribute('fill');\n            this._bind_events();\n            this._contracted(this.textContent);\n         }\n\n         _bind_events() {\n            this.addEventListener('focus', e => {\n                if( !this.value && this.fill ) this.value = this.fill;\n            });\n            this.addEventListener('keypress', e => {\n                if( e.key === 'Enter') {\n                    e.preventDefault();\n                }\n            });\n            this.addEventListener('input', e => {\n                this._contracted(this.textContent);\n            });\n         }\n\n         get value() {\n            return this.textContent.trim();\n         }\n\n         set value(val) {\n            this.textContent = val;\n            this._contracted(val);\n         }\n\n         _contracted(val) {\n            this.classList.toggle(\"contracted\", val && (val[0] === \"'\" || val[0] === \"’\"));\n         }\n    });\n}\n\nfunction clozify(root, params) {\n    /** wraper for anki-generated cloze-content.\n     * replaces spans with my-cloze elements, tracks focused cloze with delayed blur.\n     *\n     * @param {Element} root\n     * @param {{placeholder: String, editable: boolean}} params\n     *\n     * @property {Array[MyCloze]} items\n     *\n     * @fires focus { detail: my-cloze }\n     * @fires blur when a cloze is blured and not refocused within 100ms\n     * @fires input { detail: my-cloze.value }\n     *\n     */\n    if(!params) params = {};\n    root.items = [];\n    Array.from(root.childNodes).forEach(child => {\n        // <span class=\"cloze\">[text]</span> -> <my-cloze placeholder=\"text\"></my-close>\n        // <span class=\"cloze\">[~text]</span> -> <my-cloze placeholder=\"text\" fill=\"text\" contenteditable></my-close>\n        // <span class=\"cloze\">[~]</span> -> <my-cloze contenteditable></my-close>\n        // <span class=\"cloze\">text</span> -> <my-cloze>text</my-close>\n        if( child.tagName === 'SPAN' && child.classList.contains('cloze') ) {\n            let cloze = document.createElement(\"my-cloze\");\n            if( params.placeholder ) cloze.setAttribute('placeholder', params.placeholder);\n            if( params.editable ) cloze.contentEditable = true;\n            let text = child.textContent;\n            if (text[0] === '[') { // front side hints\n                text = text.substr(1, text.length - 2);\n                if (text[0] === '~') { // editable cloze\n                    text = text.substr(1).trim();\n                    cloze.contentEditable = true;\n                    if( text ) cloze.setAttribute('fill', text);\n                }\n                if ( text && text !== '...') { // placeholder/prefill\n                    cloze.setAttribute('placeholder', text);\n                }\n            } else { // back side answers\n                // using setter to check 'contracted' class\n                cloze.value = text;\n            }\n            root.replaceChild(cloze, child);\n            root.items.push(cloze);\n        }\n    });\n\n    let current = null;\n\n    let blur_delay = null;\n    root.items.forEach((cloze, idx) => {\n        cloze.addEventListener('focus', ev => {\n            if( blur_delay ) window.clearTimeout(blur_delay);\n            blur_delay = undefined;\n\n            cloze.classList.add('focus');\n            if( cloze.contentEditable ) placeCaretAtEnd(cloze);\n\n            if( cloze !== root.current ) {\n                if( root.current ) {\n                    root.current.classList.remove('focus');\n                }\n                root.current = cloze;\n                root.dispatchEvent(new CustomEvent('focus', {detail: { cloze: cloze, idx: idx}}));\n            }\n        });\n\n        cloze.addEventListener('blur', ev => {\n            if( blur_delay ) return;\n            blur_delay = window.setTimeout(() => {\n                if( root.current ) {\n                    root.current.classList.remove('focus');\n                }\n                root.current = undefined;\n                root.current_idx = undefined;\n                blur_delay = undefined;\n\n                root.dispatchEvent(new CustomEvent('blur'));\n            }, 150);\n        });\n\n        cloze.addEventListener('input', ev => {\n            ev.stopPropagation();\n            root.dispatchEvent(new CustomEvent('input', {detail: cloze.value}));\n        });\n    });\n\n    return root;\n}</script>\n\n<div class=\"main back md-body2\">\n    <div class=\"md-card\">\n                {{^Cover}}{{#Header}}\n        <div class=\"header\">\n            <h1 class=\"md-headline6\">{{Header}}</h1>\n        </div>\n        {{/Header}}{{/Cover}}\n        {{#Cover}}\n        <div class=\"cover\">\n            {{Cover}}\n            {{#Header}}\n            <div class=\"header\">\n                <h1 class=\"md-headline6\">{{Header}}</h1>\n            </div>\n            {{/Header}}\n        </div>\n        {{/Cover}}\n        {{#Intro}}\n        <div class=\"text intro md-caption\">\n            <p>{{Intro}}</p>\n        </div>\n        <hr>\n        {{/Intro}}\n\n        <div class=\"text\">\n            <p class=\"my-clozen\">{{cloze:Text}}</p>\n        </div>\n    </div>\n    <div class=\"flex\"></div>\n    {{#Explanation}}<p class=\"explanation\">{{Explanation}}</p>{{/Explanation}}\n    {{#Reference}}<p class=\"reference\"><a class=\"reference\" href=\"{{Reference}}\">{{Reference}}</a></p>{{/Reference}}\n</div>\n<script>(function(){\n    let answered = Persistence.getItem('answer') || []; // list of cloze insertions\n    answered = answered.map(s => s.stripspaces().trim());\n\n    let the_clozen = clozify(document.querySelector(\".my-clozen\"));\n\n    let correct = the_clozen.items.map(cloze => cloze.value).map(val => val ? val.splitrim('/') : []);\n    let case_sens = answered && answered.filter((e) => e && e.toLowerCase() !== e).length > 0;\n\n    function compare(idx) {\n        if( answered.length == 0 ) return 'ground';\n        let ans = answered[idx], tru = correct[idx];\n        if( !ans ) return 'missed';\n        if (!case_sens) {\n            ans = ans.toLowerCase();\n            tru = tru.map((e) => e.toLowerCase());\n        }\n        if( tru.indexOf(ans) === -1 ) return 'missed';\n        return 'correct';\n    }\n\n    the_clozen.items.forEach((cloze, idx) => {\n        cloze.classList.add(compare(idx));\n\n        cloze.addEventListener('click', ev => {\n            if( cloze.classList.contains('answered') ) {\n                cloze.value = correct[idx].join(\" / \");\n                cloze.classList.remove('answered');\n                cloze.classList.add(compare(idx));\n            } else if ( answered[idx] ) {\n                cloze.value = answered[idx];\n                cloze.classList.remove('ground', 'correct', 'missed');\n                cloze.classList.add('answered');\n            }\n        });\n    });\n})();\n</script>\n\n",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "InteractiveOrder",
+                    "ord": 0,
+                    "qfmt": "<script>// v0.5.0 - https://github.com/SimonLammer/anki-persistence/blob/3e08d4437272b869dc3ccb48369b3482ccea4c9f/script.js\nif(void 0===window.Persistence){var _persistenceKey=\"github.com/SimonLammer/anki-persistence/\",_defaultKey=\"_default\";if(window.Persistence_sessionStorage=function(){var e=!1;try{\"object\"==typeof window.sessionStorage&&(e=!0,this.clear=function(){for(var e=0;e<sessionStorage.length;e++){var t=sessionStorage.key(e);0==t.indexOf(_persistenceKey)&&(sessionStorage.removeItem(t),e--)}},this.setItem=function(e,t){void 0==t&&(t=e,e=_defaultKey),sessionStorage.setItem(_persistenceKey+e,JSON.stringify(t))},this.getItem=function(e){return void 0==e&&(e=_defaultKey),JSON.parse(sessionStorage.getItem(_persistenceKey+e))},this.removeItem=function(e){void 0==e&&(e=_defaultKey),sessionStorage.removeItem(_persistenceKey+e)})}catch(e){}this.isAvailable=function(){return e}},window.Persistence_windowKey=function(e){var t=window[e],i=!1;\"object\"==typeof t&&(i=!0,this.clear=function(){t[_persistenceKey]={}},this.setItem=function(e,i){void 0==i&&(i=e,e=_defaultKey),t[_persistenceKey][e]=i},this.getItem=function(e){return void 0==e&&(e=_defaultKey),t[_persistenceKey][e]||null},this.removeItem=function(e){void 0==e&&(e=_defaultKey),delete t[_persistenceKey][e]},void 0==t[_persistenceKey]&&this.clear()),this.isAvailable=function(){return i}},window.Persistence=new Persistence_sessionStorage,Persistence.isAvailable()||(window.Persistence=new Persistence_windowKey(\"py\")),!Persistence.isAvailable()){var titleStartIndex=window.location.toString().indexOf(\"title\"),titleContentIndex=window.location.toString().indexOf(\"main\",titleStartIndex);titleStartIndex>0&&titleContentIndex>0&&titleContentIndex-titleStartIndex<10&&(window.Persistence=new Persistence_windowKey(\"qt\"))}}</script>\n\n<script>if( window.Random === undefined ) {\n    // https://gist.github.com/blixt/f17b47c62508be59987b\n    /**\n     * Creates a pseudo-random value generator. The seed must be an integer.\n     *\n     * Uses an optimized version of the Park-Miller PRNG.\n     * http://www.firstpr.com.au/dsp/rand31/\n     */\n    function Random(seed) {\n      this._seed = seed % 2147483647;\n      if (this._seed <= 0) this._seed += 2147483646;\n    }\n\n    /**\n     * Returns a pseudo-random value between 1 and 2^32 - 2.\n     */\n    Random.prototype.next = function () {\n      return this._seed = this._seed * 16807 % 2147483647;\n    };\n\n\n    /**\n     * Returns a pseudo-random floating point number in range [0, 1).\n     */\n    Random.prototype.nextFloat = function (opt_minOrMax, opt_max) {\n      // We know that result of next() will be 1 to 2147483646 (inclusive).\n      return (this.next() - 1) / 2147483646;\n    };\n}\n\nArray.prototype.shuffle = function (seed) {\n    // Fisher–Yates shuffle\n    var random = new Random(seed || new Date().valueOf())\n    if( !random ) throw \"No random generator\";\n    for (let i = this.length-1; i >= 1; i--) {\n        let j = Math.floor(random.nextFloat() * i);\n        [this[i], this[j]] = [this[j], this[i]];\n    }\n};\n\n</script>\n\n<script>if(!Persistence.isAvailable()) {\n    /* dumb implementaion */\n    window.Persistence = {\n        isAvailable: function() { return false; },\n        clear: function(){},\n        getItem: function(){},\n        setItem: function(){},\n        removeItem: function(){}\n    };\n}\n\nfunction debug(message) {\n    let d = document.querySelector(\"#debug\");\n    if(!d) return;\n    d.textContent += \"\\n\"+message;\n}\n\nString.prototype.splitrim = function (sep) {\n    return this.split(sep).map(e => e.trim());\n};\n\nfunction split_choices(str) {\n    return str.splitrim(/<br>|\\|/).filter(e => e !== \"\");\n}\n\nString.prototype.stripspaces = function() {\n    return this.replace(/\\s+/g, ' ');\n};\n\nfunction placeCaretAtEnd(el) {\n    if (typeof window.getSelection != \"undefined\"\n            && typeof document.createRange != \"undefined\") {\n        var range = document.createRange();\n        range.selectNodeContents(el);\n        range.collapse(false);\n        var sel = window.getSelection();\n        sel.removeAllRanges();\n        sel.addRange(range);\n    } else if (typeof document.body.createTextRange != \"undefined\") {\n        var textRange = document.body.createTextRange();\n        textRange.moveToElementText(el);\n        textRange.collapse(false);\n        textRange.select();\n    }\n}\n\nfunction hide(elem) { elem.classList.add('hidden'); };\n\nfunction show(elem) { elem.classList.remove('hidden'); };\n\nfunction toggle(elem) { elem.classList.toggle('hidden'); };</script>\n\n<script>/**\n@license @nocompile\nCopyright (c) 2018 The Polymer Project Authors. All rights reserved.\nThis code may only be used under the BSD style license found at http://polymer.github.io/LICENSE.txt\nThe complete set of authors may be found at http://polymer.github.io/AUTHORS.txt\nThe complete set of contributors may be found at http://polymer.github.io/CONTRIBUTORS.txt\nCode distributed by Google as part of the polymer project is also\nsubject to an additional IP rights grant found at http://polymer.github.io/PATENTS.txt\n*/\n(function(){'use strict';var aa=new Set(\"annotation-xml color-profile font-face font-face-src font-face-uri font-face-format font-face-name missing-glyph\".split(\" \"));function g(b){var a=aa.has(b);b=/^[a-z][.0-9_a-z]*-[\\-.0-9_a-z]*$/.test(b);return!a&&b}function l(b){var a=b.isConnected;if(void 0!==a)return a;for(;b&&!(b.__CE_isImportDocument||b instanceof Document);)b=b.parentNode||(window.ShadowRoot&&b instanceof ShadowRoot?b.host:void 0);return!(!b||!(b.__CE_isImportDocument||b instanceof Document))}\nfunction n(b,a){for(;a&&a!==b&&!a.nextSibling;)a=a.parentNode;return a&&a!==b?a.nextSibling:null}\nfunction p(b,a,d){d=void 0===d?new Set:d;for(var c=b;c;){if(c.nodeType===Node.ELEMENT_NODE){var e=c;a(e);var f=e.localName;if(\"link\"===f&&\"import\"===e.getAttribute(\"rel\")){c=e.import;if(c instanceof Node&&!d.has(c))for(d.add(c),c=c.firstChild;c;c=c.nextSibling)p(c,a,d);c=n(b,e);continue}else if(\"template\"===f){c=n(b,e);continue}if(e=e.__CE_shadowRoot)for(e=e.firstChild;e;e=e.nextSibling)p(e,a,d)}c=c.firstChild?c.firstChild:n(b,c)}}function r(b,a,d){b[a]=d};function u(){this.a=new Map;this.s=new Map;this.f=[];this.b=!1}function ba(b,a,d){b.a.set(a,d);b.s.set(d.constructor,d)}function v(b,a){b.b=!0;b.f.push(a)}function w(b,a){b.b&&p(a,function(a){return x(b,a)})}function x(b,a){if(b.b&&!a.__CE_patched){a.__CE_patched=!0;for(var d=0;d<b.f.length;d++)b.f[d](a)}}function y(b,a){var d=[];p(a,function(b){return d.push(b)});for(a=0;a<d.length;a++){var c=d[a];1===c.__CE_state?b.connectedCallback(c):z(b,c)}}\nfunction A(b,a){var d=[];p(a,function(b){return d.push(b)});for(a=0;a<d.length;a++){var c=d[a];1===c.__CE_state&&b.disconnectedCallback(c)}}\nfunction B(b,a,d){d=void 0===d?{}:d;var c=d.w||new Set,e=d.i||function(a){return z(b,a)},f=[];p(a,function(a){if(\"link\"===a.localName&&\"import\"===a.getAttribute(\"rel\")){var d=a.import;d instanceof Node&&(d.__CE_isImportDocument=!0,d.__CE_hasRegistry=!0);d&&\"complete\"===d.readyState?d.__CE_documentLoadHandled=!0:a.addEventListener(\"load\",function(){var d=a.import;if(!d.__CE_documentLoadHandled){d.__CE_documentLoadHandled=!0;var f=new Set(c);f.delete(d);B(b,d,{w:f,i:e})}})}else f.push(a)},c);if(b.b)for(a=\n0;a<f.length;a++)x(b,f[a]);for(a=0;a<f.length;a++)e(f[a])}\nfunction z(b,a){if(void 0===a.__CE_state){var d=a.ownerDocument;if(d.defaultView||d.__CE_isImportDocument&&d.__CE_hasRegistry)if(d=b.a.get(a.localName)){d.constructionStack.push(a);var c=d.constructor;try{try{if(new c!==a)throw Error(\"The custom element constructor did not produce the element being upgraded.\");}finally{d.constructionStack.pop()}}catch(t){throw a.__CE_state=2,t;}a.__CE_state=1;a.__CE_definition=d;if(d.attributeChangedCallback)for(d=d.observedAttributes,c=0;c<d.length;c++){var e=d[c],\nf=a.getAttribute(e);null!==f&&b.attributeChangedCallback(a,e,null,f,null)}l(a)&&b.connectedCallback(a)}}}u.prototype.connectedCallback=function(b){var a=b.__CE_definition;a.connectedCallback&&a.connectedCallback.call(b)};u.prototype.disconnectedCallback=function(b){var a=b.__CE_definition;a.disconnectedCallback&&a.disconnectedCallback.call(b)};\nu.prototype.attributeChangedCallback=function(b,a,d,c,e){var f=b.__CE_definition;f.attributeChangedCallback&&-1<f.observedAttributes.indexOf(a)&&f.attributeChangedCallback.call(b,a,d,c,e)};function C(b){var a=document;this.c=b;this.a=a;this.b=void 0;B(this.c,this.a);\"loading\"===this.a.readyState&&(this.b=new MutationObserver(this.f.bind(this)),this.b.observe(this.a,{childList:!0,subtree:!0}))}function D(b){b.b&&b.b.disconnect()}C.prototype.f=function(b){var a=this.a.readyState;\"interactive\"!==a&&\"complete\"!==a||D(this);for(a=0;a<b.length;a++)for(var d=b[a].addedNodes,c=0;c<d.length;c++)B(this.c,d[c])};function ca(){var b=this;this.b=this.a=void 0;this.f=new Promise(function(a){b.b=a;b.a&&a(b.a)})}function E(b){if(b.a)throw Error(\"Already resolved.\");b.a=void 0;b.b&&b.b(void 0)};function F(b){this.j=!1;this.c=b;this.o=new Map;this.l=function(b){return b()};this.g=!1;this.m=[];this.u=new C(b)}\nF.prototype.define=function(b,a){var d=this;if(!(a instanceof Function))throw new TypeError(\"Custom element constructors must be functions.\");if(!g(b))throw new SyntaxError(\"The element name '\"+b+\"' is not valid.\");if(this.c.a.get(b))throw Error(\"A custom element with name '\"+b+\"' has already been defined.\");if(this.j)throw Error(\"A custom element is already being defined.\");this.j=!0;try{var c=function(b){var a=e[b];if(void 0!==a&&!(a instanceof Function))throw Error(\"The '\"+b+\"' callback must be a function.\");\nreturn a},e=a.prototype;if(!(e instanceof Object))throw new TypeError(\"The custom element constructor's prototype is not an object.\");var f=c(\"connectedCallback\");var t=c(\"disconnectedCallback\");var k=c(\"adoptedCallback\");var h=c(\"attributeChangedCallback\");var m=a.observedAttributes||[]}catch(q){return}finally{this.j=!1}a={localName:b,constructor:a,connectedCallback:f,disconnectedCallback:t,adoptedCallback:k,attributeChangedCallback:h,observedAttributes:m,constructionStack:[]};ba(this.c,b,a);this.m.push(a);\nthis.g||(this.g=!0,this.l(function(){return da(d)}))};F.prototype.i=function(b){B(this.c,b)};function da(b){if(!1!==b.g){b.g=!1;for(var a=b.m,d=[],c=new Map,e=0;e<a.length;e++)c.set(a[e].localName,[]);B(b.c,document,{i:function(a){if(void 0===a.__CE_state){var e=a.localName,f=c.get(e);f?f.push(a):b.c.a.get(e)&&d.push(a)}}});for(e=0;e<d.length;e++)z(b.c,d[e]);for(;0<a.length;){var f=a.shift();e=f.localName;f=c.get(f.localName);for(var t=0;t<f.length;t++)z(b.c,f[t]);(e=b.o.get(e))&&E(e)}}}\nF.prototype.get=function(b){if(b=this.c.a.get(b))return b.constructor};F.prototype.whenDefined=function(b){if(!g(b))return Promise.reject(new SyntaxError(\"'\"+b+\"' is not a valid custom element name.\"));var a=this.o.get(b);if(a)return a.f;a=new ca;this.o.set(b,a);this.c.a.get(b)&&!this.m.some(function(a){return a.localName===b})&&E(a);return a.f};F.prototype.v=function(b){D(this.u);var a=this.l;this.l=function(d){return b(function(){return a(d)})}};window.CustomElementRegistry=F;\nF.prototype.define=F.prototype.define;F.prototype.upgrade=F.prototype.i;F.prototype.get=F.prototype.get;F.prototype.whenDefined=F.prototype.whenDefined;F.prototype.polyfillWrapFlushCallback=F.prototype.v;var G=window.Document.prototype.createElement,ea=window.Document.prototype.createElementNS,fa=window.Document.prototype.importNode,ha=window.Document.prototype.prepend,ia=window.Document.prototype.append,ja=window.DocumentFragment.prototype.prepend,ka=window.DocumentFragment.prototype.append,H=window.Node.prototype.cloneNode,I=window.Node.prototype.appendChild,J=window.Node.prototype.insertBefore,K=window.Node.prototype.removeChild,L=window.Node.prototype.replaceChild,M=Object.getOwnPropertyDescriptor(window.Node.prototype,\n\"textContent\"),N=window.Element.prototype.attachShadow,O=Object.getOwnPropertyDescriptor(window.Element.prototype,\"innerHTML\"),P=window.Element.prototype.getAttribute,Q=window.Element.prototype.setAttribute,R=window.Element.prototype.removeAttribute,S=window.Element.prototype.getAttributeNS,T=window.Element.prototype.setAttributeNS,U=window.Element.prototype.removeAttributeNS,la=window.Element.prototype.insertAdjacentElement,ma=window.Element.prototype.insertAdjacentHTML,na=window.Element.prototype.prepend,\noa=window.Element.prototype.append,V=window.Element.prototype.before,pa=window.Element.prototype.after,qa=window.Element.prototype.replaceWith,ra=window.Element.prototype.remove,sa=window.HTMLElement,W=Object.getOwnPropertyDescriptor(window.HTMLElement.prototype,\"innerHTML\"),ta=window.HTMLElement.prototype.insertAdjacentElement,ua=window.HTMLElement.prototype.insertAdjacentHTML;var va=new function(){};function wa(){var b=X;window.HTMLElement=function(){function a(){var a=this.constructor,c=b.s.get(a);if(!c)throw Error(\"The custom element being constructed was not registered with `customElements`.\");var e=c.constructionStack;if(0===e.length)return e=G.call(document,c.localName),Object.setPrototypeOf(e,a.prototype),e.__CE_state=1,e.__CE_definition=c,x(b,e),e;c=e.length-1;var f=e[c];if(f===va)throw Error(\"The HTMLElement constructor was either called reentrantly for this constructor or called multiple times.\");\ne[c]=va;Object.setPrototypeOf(f,a.prototype);x(b,f);return f}a.prototype=sa.prototype;return a}()};function Y(b,a,d){function c(a){return function(d){for(var e=[],c=0;c<arguments.length;++c)e[c-0]=arguments[c];c=[];for(var f=[],m=0;m<e.length;m++){var q=e[m];q instanceof Element&&l(q)&&f.push(q);if(q instanceof DocumentFragment)for(q=q.firstChild;q;q=q.nextSibling)c.push(q);else c.push(q)}a.apply(this,e);for(e=0;e<f.length;e++)A(b,f[e]);if(l(this))for(e=0;e<c.length;e++)f=c[e],f instanceof Element&&y(b,f)}}void 0!==d.h&&(a.prepend=c(d.h));void 0!==d.append&&(a.append=c(d.append))};function xa(){var b=X;r(Document.prototype,\"createElement\",function(a){if(this.__CE_hasRegistry){var d=b.a.get(a);if(d)return new d.constructor}a=G.call(this,a);x(b,a);return a});r(Document.prototype,\"importNode\",function(a,d){a=fa.call(this,a,d);this.__CE_hasRegistry?B(b,a):w(b,a);return a});r(Document.prototype,\"createElementNS\",function(a,d){if(this.__CE_hasRegistry&&(null===a||\"http://www.w3.org/1999/xhtml\"===a)){var c=b.a.get(d);if(c)return new c.constructor}a=ea.call(this,a,d);x(b,a);return a});\nY(b,Document.prototype,{h:ha,append:ia})};function ya(){var b=X;function a(a,c){Object.defineProperty(a,\"textContent\",{enumerable:c.enumerable,configurable:!0,get:c.get,set:function(a){if(this.nodeType===Node.TEXT_NODE)c.set.call(this,a);else{var e=void 0;if(this.firstChild){var d=this.childNodes,k=d.length;if(0<k&&l(this)){e=Array(k);for(var h=0;h<k;h++)e[h]=d[h]}}c.set.call(this,a);if(e)for(a=0;a<e.length;a++)A(b,e[a])}}})}r(Node.prototype,\"insertBefore\",function(a,c){if(a instanceof DocumentFragment){var e=Array.prototype.slice.apply(a.childNodes);\na=J.call(this,a,c);if(l(this))for(c=0;c<e.length;c++)y(b,e[c]);return a}e=l(a);c=J.call(this,a,c);e&&A(b,a);l(this)&&y(b,a);return c});r(Node.prototype,\"appendChild\",function(a){if(a instanceof DocumentFragment){var c=Array.prototype.slice.apply(a.childNodes);a=I.call(this,a);if(l(this))for(var e=0;e<c.length;e++)y(b,c[e]);return a}c=l(a);e=I.call(this,a);c&&A(b,a);l(this)&&y(b,a);return e});r(Node.prototype,\"cloneNode\",function(a){a=H.call(this,a);this.ownerDocument.__CE_hasRegistry?B(b,a):w(b,a);\nreturn a});r(Node.prototype,\"removeChild\",function(a){var c=l(a),e=K.call(this,a);c&&A(b,a);return e});r(Node.prototype,\"replaceChild\",function(a,c){if(a instanceof DocumentFragment){var e=Array.prototype.slice.apply(a.childNodes);a=L.call(this,a,c);if(l(this))for(A(b,c),c=0;c<e.length;c++)y(b,e[c]);return a}e=l(a);var f=L.call(this,a,c),d=l(this);d&&A(b,c);e&&A(b,a);d&&y(b,a);return f});M&&M.get?a(Node.prototype,M):v(b,function(b){a(b,{enumerable:!0,configurable:!0,get:function(){for(var a=[],b=\n0;b<this.childNodes.length;b++)a.push(this.childNodes[b].textContent);return a.join(\"\")},set:function(a){for(;this.firstChild;)K.call(this,this.firstChild);I.call(this,document.createTextNode(a))}})})};function za(b){var a=Element.prototype;function d(a){return function(e){for(var c=[],d=0;d<arguments.length;++d)c[d-0]=arguments[d];d=[];for(var k=[],h=0;h<c.length;h++){var m=c[h];m instanceof Element&&l(m)&&k.push(m);if(m instanceof DocumentFragment)for(m=m.firstChild;m;m=m.nextSibling)d.push(m);else d.push(m)}a.apply(this,c);for(c=0;c<k.length;c++)A(b,k[c]);if(l(this))for(c=0;c<d.length;c++)k=d[c],k instanceof Element&&y(b,k)}}void 0!==V&&(a.before=d(V));void 0!==V&&(a.after=d(pa));void 0!==qa&&\nr(a,\"replaceWith\",function(a){for(var e=[],c=0;c<arguments.length;++c)e[c-0]=arguments[c];c=[];for(var d=[],k=0;k<e.length;k++){var h=e[k];h instanceof Element&&l(h)&&d.push(h);if(h instanceof DocumentFragment)for(h=h.firstChild;h;h=h.nextSibling)c.push(h);else c.push(h)}k=l(this);qa.apply(this,e);for(e=0;e<d.length;e++)A(b,d[e]);if(k)for(A(b,this),e=0;e<c.length;e++)d=c[e],d instanceof Element&&y(b,d)});void 0!==ra&&r(a,\"remove\",function(){var a=l(this);ra.call(this);a&&A(b,this)})};function Aa(){var b=X;function a(a,c){Object.defineProperty(a,\"innerHTML\",{enumerable:c.enumerable,configurable:!0,get:c.get,set:function(a){var e=this,d=void 0;l(this)&&(d=[],p(this,function(a){a!==e&&d.push(a)}));c.set.call(this,a);if(d)for(var f=0;f<d.length;f++){var t=d[f];1===t.__CE_state&&b.disconnectedCallback(t)}this.ownerDocument.__CE_hasRegistry?B(b,this):w(b,this);return a}})}function d(a,c){r(a,\"insertAdjacentElement\",function(a,e){var d=l(e);a=c.call(this,a,e);d&&A(b,e);l(a)&&y(b,e);\nreturn a})}function c(a,c){function e(a,e){for(var c=[];a!==e;a=a.nextSibling)c.push(a);for(e=0;e<c.length;e++)B(b,c[e])}r(a,\"insertAdjacentHTML\",function(a,b){a=a.toLowerCase();if(\"beforebegin\"===a){var d=this.previousSibling;c.call(this,a,b);e(d||this.parentNode.firstChild,this)}else if(\"afterbegin\"===a)d=this.firstChild,c.call(this,a,b),e(this.firstChild,d);else if(\"beforeend\"===a)d=this.lastChild,c.call(this,a,b),e(d||this.firstChild,null);else if(\"afterend\"===a)d=this.nextSibling,c.call(this,\na,b),e(this.nextSibling,d);else throw new SyntaxError(\"The value provided (\"+String(a)+\") is not one of 'beforebegin', 'afterbegin', 'beforeend', or 'afterend'.\");})}N&&r(Element.prototype,\"attachShadow\",function(a){return this.__CE_shadowRoot=a=N.call(this,a)});O&&O.get?a(Element.prototype,O):W&&W.get?a(HTMLElement.prototype,W):v(b,function(b){a(b,{enumerable:!0,configurable:!0,get:function(){return H.call(this,!0).innerHTML},set:function(a){var b=\"template\"===this.localName,c=b?this.content:this,\ne=G.call(document,this.localName);for(e.innerHTML=a;0<c.childNodes.length;)K.call(c,c.childNodes[0]);for(a=b?e.content:e;0<a.childNodes.length;)I.call(c,a.childNodes[0])}})});r(Element.prototype,\"setAttribute\",function(a,c){if(1!==this.__CE_state)return Q.call(this,a,c);var e=P.call(this,a);Q.call(this,a,c);c=P.call(this,a);b.attributeChangedCallback(this,a,e,c,null)});r(Element.prototype,\"setAttributeNS\",function(a,c,d){if(1!==this.__CE_state)return T.call(this,a,c,d);var e=S.call(this,a,c);T.call(this,\na,c,d);d=S.call(this,a,c);b.attributeChangedCallback(this,c,e,d,a)});r(Element.prototype,\"removeAttribute\",function(a){if(1!==this.__CE_state)return R.call(this,a);var c=P.call(this,a);R.call(this,a);null!==c&&b.attributeChangedCallback(this,a,c,null,null)});r(Element.prototype,\"removeAttributeNS\",function(a,c){if(1!==this.__CE_state)return U.call(this,a,c);var d=S.call(this,a,c);U.call(this,a,c);var e=S.call(this,a,c);d!==e&&b.attributeChangedCallback(this,c,d,e,a)});ta?d(HTMLElement.prototype,ta):\nla?d(Element.prototype,la):console.warn(\"Custom Elements: `Element#insertAdjacentElement` was not patched.\");ua?c(HTMLElement.prototype,ua):ma?c(Element.prototype,ma):console.warn(\"Custom Elements: `Element#insertAdjacentHTML` was not patched.\");Y(b,Element.prototype,{h:na,append:oa});za(b)};/*\n\n Copyright (c) 2016 The Polymer Project Authors. All rights reserved.\n This code may only be used under the BSD style license found at http://polymer.github.io/LICENSE.txt\n The complete set of authors may be found at http://polymer.github.io/AUTHORS.txt\n The complete set of contributors may be found at http://polymer.github.io/CONTRIBUTORS.txt\n Code distributed by Google as part of the polymer project is also\n subject to an additional IP rights grant found at http://polymer.github.io/PATENTS.txt\n*/\nvar Z=window.customElements;if(!Z||Z.forcePolyfill||\"function\"!=typeof Z.define||\"function\"!=typeof Z.get){var X=new u;wa();xa();Y(X,DocumentFragment.prototype,{h:ja,append:ka});ya();Aa();document.__CE_hasRegistry=!0;var customElements=new F(X);Object.defineProperty(window,\"customElements\",{configurable:!0,enumerable:!0,value:customElements})};/*\n\nCopyright (c) 2017 The Polymer Project Authors. All rights reserved.\nThis code may only be used under the BSD style license found at http://polymer.github.io/LICENSE.txt\nThe complete set of authors may be found at http://polymer.github.io/AUTHORS.txt\nThe complete set of contributors may be found at http://polymer.github.io/CONTRIBUTORS.txt\nCode distributed by Google as part of the polymer project is also\nsubject to an additional IP rights grant found at http://polymer.github.io/PATENTS.txt\n*/\n}).call(this);\n\n//# sourceMappingURL=webcomponents-ce.js.map\n</script>\n\n<script>if( customElements.get('my-cloze') === undefined ) {\n    customElements.define('my-cloze', class MyCloze extends HTMLElement {\n        /** single cloze deletion\n         * @param textContent -> value\n         * @param {string} placholder\n         * @param {string} fill -- initial value for editable\n         * @fires input (standard, if editable)\n         */\n         connectedCallback() {\n            this.tabIndex = \"1\";\n            if( !this.getAttribute('placeholder') ) this.setAttribute('placeholder', \"…\")\n            this.fill = this.getAttribute('fill');\n            this._bind_events();\n            this._contracted(this.textContent);\n         }\n\n         _bind_events() {\n            this.addEventListener('focus', e => {\n                if( !this.value && this.fill ) this.value = this.fill;\n            });\n            this.addEventListener('keypress', e => {\n                if( e.key === 'Enter') {\n                    e.preventDefault();\n                }\n            });\n            this.addEventListener('input', e => {\n                this._contracted(this.textContent);\n            });\n         }\n\n         get value() {\n            return this.textContent.trim();\n         }\n\n         set value(val) {\n            this.textContent = val;\n            this._contracted(val);\n         }\n\n         _contracted(val) {\n            this.classList.toggle(\"contracted\", val && (val[0] === \"'\" || val[0] === \"’\"));\n         }\n    });\n}\n\nfunction clozify(root, params) {\n    /** wraper for anki-generated cloze-content.\n     * replaces spans with my-cloze elements, tracks focused cloze with delayed blur.\n     *\n     * @param {Element} root\n     * @param {{placeholder: String, editable: boolean}} params\n     *\n     * @property {Array[MyCloze]} items\n     *\n     * @fires focus { detail: my-cloze }\n     * @fires blur when a cloze is blured and not refocused within 100ms\n     * @fires input { detail: my-cloze.value }\n     *\n     */\n    if(!params) params = {};\n    root.items = [];\n    Array.from(root.childNodes).forEach(child => {\n        // <span class=\"cloze\">[text]</span> -> <my-cloze placeholder=\"text\"></my-close>\n        // <span class=\"cloze\">[~text]</span> -> <my-cloze placeholder=\"text\" fill=\"text\" contenteditable></my-close>\n        // <span class=\"cloze\">[~]</span> -> <my-cloze contenteditable></my-close>\n        // <span class=\"cloze\">text</span> -> <my-cloze>text</my-close>\n        if( child.tagName === 'SPAN' && child.classList.contains('cloze') ) {\n            let cloze = document.createElement(\"my-cloze\");\n            if( params.placeholder ) cloze.setAttribute('placeholder', params.placeholder);\n            if( params.editable ) cloze.contentEditable = true;\n            let text = child.textContent;\n            if (text[0] === '[') { // front side hints\n                text = text.substr(1, text.length - 2);\n                if (text[0] === '~') { // editable cloze\n                    text = text.substr(1).trim();\n                    cloze.contentEditable = true;\n                    if( text ) cloze.setAttribute('fill', text);\n                }\n                if ( text && text !== '...') { // placeholder/prefill\n                    cloze.setAttribute('placeholder', text);\n                }\n            } else { // back side answers\n                // using setter to check 'contracted' class\n                cloze.value = text;\n            }\n            root.replaceChild(cloze, child);\n            root.items.push(cloze);\n        }\n    });\n\n    let current = null;\n\n    let blur_delay = null;\n    root.items.forEach((cloze, idx) => {\n        cloze.addEventListener('focus', ev => {\n            if( blur_delay ) window.clearTimeout(blur_delay);\n            blur_delay = undefined;\n\n            cloze.classList.add('focus');\n            if( cloze.contentEditable ) placeCaretAtEnd(cloze);\n\n            if( cloze !== root.current ) {\n                if( root.current ) {\n                    root.current.classList.remove('focus');\n                }\n                root.current = cloze;\n                root.dispatchEvent(new CustomEvent('focus', {detail: { cloze: cloze, idx: idx}}));\n            }\n        });\n\n        cloze.addEventListener('blur', ev => {\n            if( blur_delay ) return;\n            blur_delay = window.setTimeout(() => {\n                if( root.current ) {\n                    root.current.classList.remove('focus');\n                }\n                root.current = undefined;\n                root.current_idx = undefined;\n                blur_delay = undefined;\n\n                root.dispatchEvent(new CustomEvent('blur'));\n            }, 150);\n        });\n\n        cloze.addEventListener('input', ev => {\n            ev.stopPropagation();\n            root.dispatchEvent(new CustomEvent('input', {detail: cloze.value}));\n        });\n    });\n\n    return root;\n}</script>\n\n<script>if( customElements.get('my-chips') === undefined ) {\n    customElements.define('my-chips', class MyChips extends HTMLElement {\n        /** list of choices like MD chips\n         * @param {string} items value of field from card, |-joined items\n         * @param {boolean} removable toadd 'backspace' button\n         * @fires select {detail: value|null} when chip clicked\n         */\n        connectedCallback() {\n            this.readonly = this.hasAttribute('readonly');\n            this.removable = this.hasAttribute('removable');\n            this.items = split_choices(this.getAttribute('items'));\n\n            this._render();\n            if( !this.readonly ) {\n                this._bind_events();\n            }\n        }\n\n        shuffle(seed) {\n            this.items.shuffle(seed);\n            this._render();\n            if( !this.readonly ) {\n                this._bind_events();\n            }\n        }\n\n        _render() {\n            let l = this.items.map(i => `<li data-value=\"${i}\" ${this.readonly?'':'tabindex=\"0\"'}><label>${i}</label></li>`);\n            if( this.removable ) {\n                l.push(`<li class=\"remove\" ${this.readonly?'':'tabindex=\"0\"'}><label><i>⌫</i></label></li>`);\n            }\n            this.innerHTML = `<ul class=\"md-chips ${this.removable?'removable':''}\">${l.join(\"\")}</ul>`;\n            this._items = Array.from(this.querySelectorAll('li'));\n        }\n\n        _bind_events() {\n            this._items.forEach(li => {\n                li.addEventListener('click', e => {\n                    if( li.classList.contains('remove') ) {\n                        this.dispatchEvent(new CustomEvent('select', {detail: null}));\n                    } else {\n                        this._items.forEach(li=>li.classList.remove('selected'));\n                        li.classList.add('selected');\n                        this.dispatchEvent(new CustomEvent('select', {detail: li.dataset['value']}));\n                    }\n                });\n            });\n        }\n    });\n}\n</script>\n\n<div class=\"main front md-body2\">\n    <div class=\"md-card\">\n                {{^Cover}}{{#Header}}\n        <div class=\"header\">\n            <h1 class=\"md-headline6\">{{Header}}</h1>\n        </div>\n        {{/Header}}{{/Cover}}\n        {{#Cover}}\n        <div class=\"cover\">\n            {{Cover}}\n            {{#Header}}\n            <div class=\"header\">\n                <h1 class=\"md-headline6\">{{Header}}</h1>\n            </div>\n            {{/Header}}\n        </div>\n        {{/Cover}}\n        {{#Intro}}\n        <div class=\"text intro md-caption\">\n            <p>{{Intro}}</p>\n        </div>\n        <hr>\n        {{/Intro}}\n\n        <div class=\"text\">\n            <p class=\"my-clozen\">{{cloze:Text}}</p>\n        </div>\n    </div>\n    <my-chips removable items=\"{{Words}}\"></my-chips>\n    <div class=\"flex\"></div>\n    {{#Instruction}}<p class=\"instruction\">{{Instruction}}</p>{{/Instruction}}\n</div>\n<script>(function(){\n    let answer = [];\n    Persistence.setItem('answer', answer); // list of cloze insertions\n\n    let the_chips = document.querySelector(\"my-chips\");\n    the_chips.shuffle();\n\n    let the_clozen = clozify(document.querySelector(\".my-clozen\"), {placeholder: \"… … …\"}),\n        current = null;\n\n    hide(the_chips);\n\n    the_clozen.addEventListener('focus', ev => {\n        current = ev.detail;\n        show(the_chips);\n    });\n\n    the_clozen.addEventListener('blur', ev => {\n        current = null;\n        hide(the_chips);\n    });\n\n    the_chips.addEventListener('select', ev => {\n        if( current ) {\n            let ans = answer[current.idx];\n            ans = ans ? ans.split(\"\\t\") : [];\n\n            if( ev.detail ) {\n                ans.push(ev.detail);\n            } else if( ans.length ) {\n                ans.pop();\n            }\n\n            update_cloze(current.cloze, ans);\n            current.cloze.focus();\n            answer[current.idx] = ans.join(\"\\t\");\n            Persistence.setItem('answer', answer);\n        }\n    });\n\n    function update_cloze(cloze, words) {\n        if( words.length ) {\n            cloze.value = words.join(\"\\u0009\") + \"…\";\n        } else {\n            cloze.value = null;\n        }\n    }\n})();\n</script>\n\n"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+            "css": "/* Profile: Ultrazanki FA || Satus: Saved */ \n\nhtml { overflow: scroll; overflow-x: hidden; }\n/* CONTAINER FOR YOUR CARDS */\n#kard {\n    padding: 0px 0px;\n    max-width: 950px; /* CHANGE CARD SIZE HERE */\n    margin: 0 auto; /* CENTERS THE CARD IN THE MIDDLE OF THE WINDOW */\n    word-wrap: break-word; /* BREAKS UP LONG WORKS */\n}\n\n\n/* APPLIES TO THE WHOLE CARD */\n.card {\n    font-family: Vernada;\n    font-size: 28px; /* FONT SIZE */\n    text-align: center; /* ALIGN TEXT */\n    color: black; /* FONT COLOR */\n    line-height: 1.2em;\n    background-color: #FEFCF9; /* BACKGROUND COLOR Orange FDFBF6 blue/white FAFAFA  */\n}\n/* STYLE FOR CLOZE DELETIONS */\n.cloze, .cloze b, .cloze u, .cloze i { font-weight: bold; color: #993330 !important;}\n\n.night_mode .cloze  { font-weight: bold; color: MediumSeaGreen !important;}\n.night_mode .cloze b { font-weight: bold; color: MediumSeaGreen !important;}\n.night_mode .cloze u { font-weight: bold; color: MediumSeaGreen !important;}\n.night_mode .cloze i { font-weight: bold; color: MediumSeaGreen !important;}\n\n\n/* STYLE FOR EXTRA PORTION ON BACK OF CARD */\n#extra { font-size: 26px; color: black; font-style: italic;  }\n#extra i { font-size: 26px; color: black; font-style: italic;  }\n\n.night_mode #extra { font-size: 26px; color: white !important; font-style: italic; }\n.night_mode #extra i { font-size: 26px; color: white !important; font-style: italic; }\n\n/* STYLE TAGS TO APPEAR WHEN HOVERING OVER TOP OF CARD */\n.tags { \n    color: #A6ABB9;\n    opacity: 0;\n    font-size: 10px; \n    width: 100%;\n    text-align: center;\n    text-transform: uppercase; \n    position: fixed; \n    padding: 0; \n    top:0;  \n    right: 0;}\n.tags:hover { opacity: 1; position: fixed;}\n\n\n/* IMAGE STYLE */\nimg { display: block; max-width: 100%; max-height: 650px; margin-center: auto; margin: 10px auto 0 auto;\nbox-shadow: 3px 6px 15px 1px rgba(0, 0, 0, 0.2), 3px 1px 20px 1px rgba(0, 0, 0, 0.19)\n}\n\nimg:active { \n\ttransform: scale(1.3); /* (130% zoom - Note: if the zoom is too large, it will go outside of the viewport) */\n}\n\ntr {font-size: 12px; }\n\n\n/* COLOR ACCENTS FOR BOLD-ITALICS-UNDERLINE */\nb {color: #306299; !important; } /* BOLD STYLE */\nu { text-decoration: none; color: #D18835 ;} /* UNDERLINE STYLE */\ni  { color: #309699; } /* ITALICS STYLE */\na { color: LightGray !important; text-decoration: none; font-size: 10px; font-style: normal; } /* LINK STYLE */\n\n.night_mode b { color: #C695C6; !important; } /* BOLD STYLE */\n.night_mode u { text-decoration: none !important; color: #5EB3B3; !important;} /* UNDERLINE STYLE */\n.night_mode i  { color: IndianRed !important; } /* ITALICS STYLE */\n.night_mode a { color: LightGray !important; text-decoration: none; font-size: 10px; font-style: normal; }\n\n\n\n.hint {  \nfont-family: Vernada;\n    font-size: 22px; /* FONT SIZE */\n    text-align: center; /* ALIGN TEXT */\n    color: black; /* FONT COLOR */\n}\n.night_mode .hint {  \nfont-family: Vernada;\n    font-size: 22px; /* FONT SIZE */\n    text-align: center; /* ALIGN TEXT */\n    color: white; /* FONT COLOR */\n}\n/* ADJUSTMENT FOR MOBILE DEVICES */\n.mobile .card { color: black; background-color: #FDFBF6; } \n.mobile .tags:hover { opacity: 1; position: relative;}\n.mobile .card img:active { width: inherit; max-height: none;}\n",
+            "flds": [
+                {
+                    "font": "Helvetica",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Helvetica",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 18,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Lecture Notes",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Gs Get Degrees",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "First Aid",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Pathoma",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Robbins",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Boards and Beyond",
+                    "ord": 7,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Sketchy",
+                    "ord": 8,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Additional Resources",
+                    "ord": 9,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze-GzE_Pathology",
+            "sortf": 0,
+            "tags": [
+                "GzE-Pathology::Neoplasia",
+                "Term4::week3::pathology::lecture19",
+                "^Banki"
+            ],
+            "tmpls": [
+                {
+                    "afmt": " <div id=\"kard\">  \n {{cloze:Text}}\n    <div>&nbsp;</div>\n    <div id='extra'>{{Extra}}</div>\n</div>\n<br>\n\n{{#First Aid}}\n <a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint1').style.display='inline-block';return false\";> <font color=\"#993330\">First Aid</a></font><div id=\"hint1\" class=hint style=\"display: none\">{{First Aid}}</div>\n{{/First Aid}}\n\n{{#Boards and Beyond}}\n<a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint2').style.display='';return false\";> <font color=\"#306299\">B&B</a></font><div id=\"hint2\" class=hint style=\"display: none\">{{Boards and Beyond}}</div>\n{{/Boards and Beyond}}\n\n{{#Pathoma}}\n<a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint3').style.display='';return false\";> <font color=\"#008800\">Pathoma</a></font><div id=\"hint3\" class=hint style=\"display: none\">{{Pathoma}}</div>\n{{/Pathoma}}\n\n\n{{#Sketchy}}\n<a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint4').style.display='';return false\";> <font color=\"#660033\">Sketchy</a></font><div id=\"hint4\" class=hint style=\"display: none\">{{Sketchy}}</div>\n{{/Sketchy}}\n\n{{#Robbins}}\n <a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint5').style.display='inline-block';return false\";> <font color=\"#1144ff\">Robbins</a></font><div id=\"hint5\" class=hint style=\"display: none\">{{Robbins}}</div>\n{{/Robbins}}\n\n{{#Gs Get Degrees}}\n<a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint6').style.display='';return false\";> <font color=\"#996600\">Gs Get Degrees</a></font><div id=\"hint6\" class=hint style=\"display: none\">{{Gs Get Degrees}}</div>\n{{/Gs Get Degrees}}\n\n{{#Additional Resources}}\n<a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint7').style.display='';return false\";> <font color=\"#9900CC\">Additional Resources</a></font><div id=\"hint7\" class=hint style=\"display: none\">{{Additional Resources}}</div>\n{{/Additional Resources}}\n\n{{#Lecture Notes}}\n<a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint8').style.display='';return false\";> <font color=\"#D56868\">Lecture Notes</a></font><div id=\"hint8\" class=hint style=\"display: none\">{{Lecture Notes}}</div>\n{{/Lecture Notes}}\n<br>\n\n{{#Tags}} <div class \"tags\" {{Tags}} </div>{{/Tags}}",
+                    "bafmt": "",
+                    "bfont": "Arial",
+                    "bqfmt": "",
+                    "bsize": 12,
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "<div id=\"kard\">\n{{cloze:Text}}\n<br>\n<br>\n"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        }
+    ],
+    "notes": []
+}
