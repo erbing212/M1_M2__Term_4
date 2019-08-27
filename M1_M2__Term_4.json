@@ -27,8 +27,12 @@
                 "Screen Shot 2019-08-26 at 9.20.59 AM.png",
                 "Screen Shot 2019-08-26 at 9.21.16 AM.png",
                 "Screen Shot 2019-08-26 at 9.49.56 AM.png",
+                "Screen Shot 2019-08-27 at 8.37.23 AM.png",
+                "Screen Shot 2019-08-27 at 9.15.49 AM.png",
+                "Screen Shot 2019-08-27 at 9.36.39 AM.png",
                 "The-principle-of-immunocytochemistry-for-Ki-67-proliferation-marker-adapted-from.png",
                 "a-Showing-exophytic-ulcerative-tumor-14-9-cm-2-in-the-back-of-the-hand-arm-b.png",
+                "paste-0d062346a32ffa2d5258b8789ac378e5957ff313.jpg",
                 "paste-101271033872385.jpg",
                 "paste-104170136797185.jpg",
                 "paste-105097849733121_1544830391401.jpg",
@@ -42,6 +46,7 @@
                 "paste-12313671237633.jpg",
                 "paste-12455405158401_1544830391401.jpg",
                 "paste-12d14b20bd82b82ac03ee2a7eee080c7550649d6.jpg",
+                "paste-14ee7e92fb1454dbca19bb8931b0cf4ded88dc0b.jpg",
                 "paste-16080357556725.jpg",
                 "paste-1de8354a89b636e756678cd5a0caf6595059f296.jpg",
                 "paste-211007448285185.jpg",
@@ -53,6 +58,7 @@
                 "paste-4e313587154a4b8af63bada6ebf4d565da744eaf.jpg",
                 "paste-58feb3a41b5e8a73a8bb3e3fd7ad0d2543ff98c5.jpg",
                 "paste-708875762271688.jpg",
+                "paste-805a348005314d4b823421f43b185caec53b1dc6.jpg",
                 "paste-90a7b2a801b2724d3a5ba27fa10ba8da6648cd4b.jpg",
                 "paste-9a6c75b711b18740e4fe5106cdd188668b308998.jpg",
                 "paste-9ac24769598c17aed1e17b81f4e69b80b08c240d.jpg",
@@ -61,7 +67,12 @@
                 "paste-ace08d10909ac56e01de4549ddcac0942c523d8e.jpg",
                 "paste-ad736b12bcb586bc6f6f0051d0c4c969b3501ca5.jpg",
                 "paste-b37400d93d2b3a0d305401c17795791bfeb199de.jpg",
+                "paste-bc9a47bcc2439be1e48ab1dd7b91302d135b0f80.jpg",
+                "paste-c6411c7079e5985d82989927b3f38a09e93d6b4d.jpg",
                 "paste-cfd39f272c62e1a564de3ffbc6684736e7f2bcc9.jpg",
+                "paste-d1b77dce75336b399b7571c949d1d1fce0378ee9.jpg",
+                "paste-d7ae6d6da6a1b7c296ab933f8f95ce47a0394217.jpg",
+                "paste-d7f5cbce30bfe5afecb69aa993715a343239cebd.jpg",
                 "paste-d7fa3327f20becf43311f239c9b0878356210c6f.jpg",
                 "paste-e06ac10296a89dfda746399022ab95c9456652a9.jpg",
                 "paste-ebb175c1281f7fcb696ed1d8115afe3f7731d8e8.jpg",
@@ -1999,6 +2010,282 @@
                         "Term4::week3::pathology::lecture19",
                         "^Banki"
                     ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What <b>two</b> hallmarks of cancer are the enabling factors for <u>malignancy</u>?<div><br></div><div>1. {{c1::Genomic Instability}}<br></div><div>2. {{c1::Tumor Promoting inflamation}}<br></div>",
+                        "<img src=\"paste-d7f5cbce30bfe5afecb69aa993715a343239cebd.jpg\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "zMN8lP@UnB",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week3::pathology::lecture20",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Examples of <u>pathologies</u> that result in <b>genomic</b> instability leading to malignancy in cancer include:<div><br><div>{{c1::HNPCC}}<br></div><div>{{c2::Xeroderma Pigmentosum}}</div><div>{{c3::Bloom Syndrome}}</div><div>{{c5::Ataxia telangiectasia}}</div><div>{{c4::Fanconi Anemia}}</div></div>",
+                        "",
+                        "<img src=\"paste-d7ae6d6da6a1b7c296ab933f8f95ce47a0394217.jpg\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "M|U5opPjF~",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week3::pathology::lecture20",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Invasion into the <b>extracellular matrix</b> begins with tumor&nbsp;{{c1::detachment}} due to reduced E-cadherin",
+                        "",
+                        "<div><div> <div> <div> <div> <div>1. <b>Detachment</b> of tumor cells– reduced <u>E-cadherins</u> (normally causes cell adhesion). </div> <div><br></div><div>2. Extracellular matrix protein <u>degradation</u> by enzymes- collagenase, cathepsin B (benign tumors secrete little or no such enzyme). </div> <div><br></div><div>3. <b>Attachments</b> to the Extracellular matrix protein components–<u>laminin receptors, integrins</u><br> –new sites generated by matrix metalloproteinases MMP2, MMP9 – secreted by tumors. </div> <div><br></div><div>4. <b>Movement</b> through extracellular matrix proteins –<u>autocrine motility factors, cleavage products (collagen, IGF).&nbsp;</u></div> </div> </div> </div></div></div><img src=\"paste-805a348005314d4b823421f43b185caec53b1dc6.jpg\">",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"Screen Shot 2019-08-27 at 8.37.23 AM.png\"><br>",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "ph3K~2<XGd",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week3::pathology::lecture20",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "During cancerous invasion, the extracellular matrix is degraded by what <b>enzymes</b>?<div><br></div><div>{{c1::Collagenase}}<br></div><div>{{c1::Cathepsin B}}<br></div>",
+                        "",
+                        "<div><div><div><div><div><div>1.&nbsp;<b>Detachment</b>&nbsp;of tumor cells– reduced&nbsp;<u>E-cadherins</u>&nbsp;(normally causes cell adhesion).</div><div><br></div><div>2. Extracellular matrix protein&nbsp;<u>degradation</u>&nbsp;by enzymes- collagenase, cathepsin B (benign tumors secrete little or no such enzyme).</div><div><br></div><div>3.&nbsp;<b>Attachments</b>&nbsp;to the Extracellular matrix protein components–<u>laminin receptors, integrins</u><br>–new sites generated by matrix metalloproteinases MMP2, MMP9 – secreted by tumors.</div><div><br></div><div>4.&nbsp;<b>Movement</b>&nbsp;through extracellular matrix proteins –<u>autocrine motility factors, cleavage products (collagen, IGF).&nbsp;</u></div></div></div></div></div></div><img src=\"paste-805a348005314d4b823421f43b185caec53b1dc6.jpg\"><div><div> <div> <div> <div> <div></div></div></div></div></div></div>",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"Screen Shot 2019-08-27 at 8.37.23 AM.png\"><br>",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "h?40ai(t4S",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week3::pathology::lecture20",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What <b>serum</b> marker can indicate over-expression of cellular proteins seen in <u>melanoma</u>?<div><br></div><div>{{c1::Tyrosinase}}<br></div>",
+                        "",
+                        "<img src=\"paste-d1b77dce75336b399b7571c949d1d1fce0378ee9.jpg\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "HvwFSx1wTS",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week3::pathology::lecture20",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div> <div> <div> <div><u>Destruction</u> of <b>cancer</b> cells by drugs follows {{c1::1st}} order kinetics</div> </div> </div></div>",
+                        "",
+                        "<img src=\"paste-bc9a47bcc2439be1e48ab1dd7b91302d135b0f80.jpg\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "PZJTVz&B6I",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week3::pharmacology::lecture21",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<b>Neoplasms</b>&nbsp;that are <i>more</i> susceptible to chemotherapeutic agents have which of the following?<div><br></div><div>{{c1::Large growth fraction::Small or large growth fraction}}<br></div>",
+                        "",
+                        "<img src=\"Screen Shot 2019-08-27 at 9.15.49 AM.png\"><br>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "hkZF7i2_5!",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week3::pharmacology::lecture21",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What type of <b>malignancies</b> is best treated with <u>cell cycle-specific drugs</u>?<div><br></div><div>{{c1::Hematologic Malignancies}}<br></div>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "H2NTPCb#Fm",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week3::pharmacology::lecture21",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What <u>general</u> type of tumors are best treated with <b>cell cycle-nonspecific drugs</b>?<div><br></div><div>{{c1::Solid Tumors}}<br></div>",
+                        "",
+                        "<img src=\"paste-c6411c7079e5985d82989927b3f38a09e93d6b4d.jpg\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "Di~yD*z_5E",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week3::pharmacology::lecture21",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What drugs are used to <b>prevent</b> chemotherapy-induced <b>neutropenia</b>?<div><br></div><div>{{c1::Filgrastin}}<br></div><div>{{c1::Sargramostim}}<br></div>",
+                        "",
+                        "<img src=\"paste-0d062346a32ffa2d5258b8789ac378e5957ff313.jpg\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "KdC+;zyZ6@",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week3::pharmacology::lecture21",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<u>High doses</u> of <b>methotrexate</b> can lead to&nbsp;{{c1::crystalluria}} due to hydroxylation at the 7 position&nbsp;",
+                        "This is fairly <b>uncommon</b> but will ultimately result in <u>renal damage</u>",
+                        "<img src=\"paste-14ee7e92fb1454dbca19bb8931b0cf4ded88dc0b.jpg\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "P($y.SD32&",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week3::pharmacology::lecture21",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What drugs should be <u>avoided</u> to use concurrently with <b>methotrexate</b>?<div><br></div><div>{{c1::NSAIDs}}<br></div><div>{{c2::Cisplatin}}</div><div>{{c3::Piperacillin}}</div>",
+                        "<u>If</u> these are used it can cause severe myelosuppression",
+                        "<img src=\"Screen Shot 2019-08-27 at 9.36.39 AM.png\"><br>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "vln@*05/ga",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week3::pharmacology::lecture21",
+                        "^Banki"
+                    ]
                 }
             ]
         },
@@ -2471,8 +2758,7 @@
             "name": "Cloze-GzE_Pathology",
             "sortf": 0,
             "tags": [
-                "GzE-Pathology::Neoplasia",
-                "Term4::week3::pathology::lecture19",
+                "Term4::week3::pharmacology::lecture21",
                 "^Banki"
             ],
             "tmpls": [
