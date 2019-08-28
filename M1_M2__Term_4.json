@@ -13,6 +13,7 @@
             "media_files": [
                 "3449a0edfeece0e0a73fad927640b2d4.jpg",
                 "CellulitisJmh649.JPG",
+                "F1.large (2).jpg",
                 "Jmhc-17-1120-Fig1.png",
                 "Screen Shot 2017-03-05 at 8.52.46 PM.png",
                 "Screen Shot 2019-08-14 at 8.43.06 AM.png",
@@ -30,8 +31,12 @@
                 "Screen Shot 2019-08-27 at 8.37.23 AM.png",
                 "Screen Shot 2019-08-27 at 9.15.49 AM.png",
                 "Screen Shot 2019-08-27 at 9.36.39 AM.png",
+                "Screen Shot 2019-08-28 at 8.34.16 AM.png",
+                "Screen Shot 2019-08-28 at 9.28.09 AM.png",
+                "Screen Shot 2019-08-28 at 9.37.16 AM.png",
                 "The-principle-of-immunocytochemistry-for-Ki-67-proliferation-marker-adapted-from.png",
                 "a-Showing-exophytic-ulcerative-tumor-14-9-cm-2-in-the-back-of-the-hand-arm-b.png",
+                "paste-04d5cf60d11cdd6ed7659af238aa53ab2b209d09.jpg",
                 "paste-0d062346a32ffa2d5258b8789ac378e5957ff313.jpg",
                 "paste-101271033872385.jpg",
                 "paste-104170136797185.jpg",
@@ -55,13 +60,17 @@
                 "paste-397821345792562.jpg",
                 "paste-3fa10c8c312b4ce1dd13bd95301482f91377d8e1.jpg",
                 "paste-4915ac751b67078512b83209918932fadc297b73.jpg",
+                "paste-49950469652881.jpg",
                 "paste-4e313587154a4b8af63bada6ebf4d565da744eaf.jpg",
                 "paste-58feb3a41b5e8a73a8bb3e3fd7ad0d2543ff98c5.jpg",
                 "paste-708875762271688.jpg",
+                "paste-74960064217480.jpg",
                 "paste-805a348005314d4b823421f43b185caec53b1dc6.jpg",
+                "paste-905648b4e7154ddb7ab98dcdb6e300c7fe67e7b5.jpg",
                 "paste-90a7b2a801b2724d3a5ba27fa10ba8da6648cd4b.jpg",
                 "paste-9a6c75b711b18740e4fe5106cdd188668b308998.jpg",
                 "paste-9ac24769598c17aed1e17b81f4e69b80b08c240d.jpg",
+                "paste-a3b7c8c33baf2db383825a5321df090c12d4d4b7.jpg",
                 "paste-a6659a76b1e09eb11bb3a8032b0e3f2f1e2e1503.jpg",
                 "paste-a6b8f4283aabd88ed65821928a6bcc2387d702df.jpg",
                 "paste-ace08d10909ac56e01de4549ddcac0942c523d8e.jpg",
@@ -75,10 +84,12 @@
                 "paste-d7f5cbce30bfe5afecb69aa993715a343239cebd.jpg",
                 "paste-d7fa3327f20becf43311f239c9b0878356210c6f.jpg",
                 "paste-e06ac10296a89dfda746399022ab95c9456652a9.jpg",
+                "paste-e7f1f2f322e9cf0aba7d7df107907374febe09e6.jpg",
                 "paste-ebb175c1281f7fcb696ed1d8115afe3f7731d8e8.jpg",
                 "paste-ebc0ed032b16289a9249fe0a5b8f76426f34bfd0.jpg",
                 "paste-ede13ae8d33d2ab5c59e3a3a3db124349e0a163a.jpg",
                 "paste-f0edab44f99a40de443b908194d90e7cba5b97a2.jpg",
+                "paste-fd53a316dcdbae72a6961f5c3cc9a80112b440f3.jpg",
                 "paste-fffd50cb4cce5b66b05c7ce0b25945f7dc7a9cd6.jpg"
             ],
             "mid": "1566767077263",
@@ -885,7 +896,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "Which <b>organ</b> is better is favored to <u>absorb</u> an oral drug based on <b>blood flow?</b><div><br></div><div>{{c1::Intestines}}<br></div>",
+                        "Which <b>organ</b> is better favored to <u>absorb</u> an oral drug based on <b>blood flow?</b><div><br></div><div>{{c1::Intestines}}<br></div>",
                         "Blood flow to the intestine is <b>much greater</b> than the flow to the stomach, thus absorption from the intestine is favored over that from the stomach.",
                         "",
                         "",
@@ -899,8 +910,8 @@
                     "guid": "uB0V:y}Ckw",
                     "note_model_uuid": "acb98e58-c098-11e9-81dc-acde48001122",
                     "tags": [
-                        "Term4::week2::pharmacology::lecture10",
-                        "^Banki"
+                        "^Banki",
+                        "Term4::week2::pharmacology::lecture10"
                     ]
                 },
                 {
@@ -1924,8 +1935,8 @@
                         " <div> <div> <div><div>• Metastasis is defined as a tumor implant <b>discontinuous</b> from the primary tumor. </div> <div>• Metastasis is an <b>unequivocal</b> sign of malignancy.&nbsp;</div> </div> </div> </div>",
                         "",
                         "",
-                        "<img src=\"Screen Shot 2019-08-26 at 9.21.16 AM.png\"><img src=\"Screen Shot 2019-08-26 at 9.20.59 AM.png\"><br>",
                         "",
+                        "<img src=\"Screen Shot 2019-08-26 at 9.21.16 AM.png\"><img src=\"Screen Shot 2019-08-26 at 9.20.59 AM.png\">",
                         "",
                         "",
                         ""
@@ -2284,6 +2295,259 @@
                     "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
                     "tags": [
                         "Term4::week3::pharmacology::lecture21",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Mutations that are <b>direct</b>&nbsp;contributors to carcinogenesis are termed&nbsp;{{c1::driver}} mutations",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"Screen Shot 2019-08-28 at 8.34.16 AM.png\"><br>",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "bv`jY9Dl%X",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week3::pathology::lecture22",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Mutations that are <b>acquired</b>&nbsp;and do not affect cellular behavior are considered&nbsp;{{c1::passenger}} mutations",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"Screen Shot 2019-08-28 at 8.34.16 AM.png\"><br>",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "ea-KY6ceh6",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week3::pathology::lecture22",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<u>Retinoblastoma</u> can be caused by a <b>deletion</b>&nbsp;of which chromosome?<div><br></div><div>{{c1::13 (del13q14)}}<br></div>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"paste-04d5cf60d11cdd6ed7659af238aa53ab2b209d09.jpg\">",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "u`%:SKt{MJ",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week3::pathology::lecture22",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Which drug will be <u>potentiated</u> by <b>allopurinol</b> during chemotherapy?<div><br></div><div>{{c1::6-Mercaptopurine::6-Thioguanine or 6-Mercaptopurine}}<br></div>",
+                        "",
+                        "<img src=\"paste-fd53a316dcdbae72a6961f5c3cc9a80112b440f3.jpg\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"paste-49950469652881.jpg\">",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "D3J0sQzMt0",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week3::pharmacology::lecture23",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<b>6-Thioguanine</b> is converted to&nbsp;{{c1::TGMP}} by HGPRT",
+                        "",
+                        "<img src=\"paste-fd53a316dcdbae72a6961f5c3cc9a80112b440f3.jpg\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "C^6$6I[^OL",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week3::pharmacology::lecture23",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What type of <b>analog</b> is 6-Thioguanine (TGMP)?<div><br></div><div>{{c1::Purine::Purine or Pyrimidine}}<br></div>",
+                        "",
+                        "<img src=\"paste-fd53a316dcdbae72a6961f5c3cc9a80112b440f3.jpg\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"F1.large (2).jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "J{5wk~4;]t",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week3::pharmacology::lecture23",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What <b>cancer</b> is treated with 6-Thioguanine?<div><br></div><div>{{c1::Acute nonlymphocytic leukemias}}<br></div>",
+                        "",
+                        "<img src=\"paste-fd53a316dcdbae72a6961f5c3cc9a80112b440f3.jpg\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"F1.large (2).jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "P7W(9|Si0V",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week3::pharmacology::lecture23",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What nitrogen mustard is a powerful <b>vesicant</b>?<div><br></div><div>{{c1::Mechlorethamine}}<br></div>",
+                        "<b>vesicant</b> /ves·i·cant/ (ves´ĭ-kant)<br>1. producing blisters.<br>2. an agent that so acts.",
+                        "<img src=\"paste-e7f1f2f322e9cf0aba7d7df107907374febe09e6.jpg\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "t}XV^4A8v[",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week3::pharmacology::lecture23",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div>What class of drug is <b>melphalan</b>?</div><div><br></div><div>{{c1::Alkylating Agent}}<br></div>",
+                        "",
+                        "<img src=\"paste-a3b7c8c33baf2db383825a5321df090c12d4d4b7.jpg\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"Screen Shot 2019-08-28 at 9.28.09 AM.png\"><br>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "IqNCd}b!f4",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week3::pharmacology::lecture23",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What is the <u>major</u> route of elimination of <b>Nitrosoureas</b>?<div><br></div><div>{{c1::Urinary excretion}}<br></div>",
+                        "<img src=\"Screen Shot 2019-08-28 at 9.37.16 AM.png\"><br>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "QAL%qd>TR=",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week3::pharmacology::lecture23",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What <u>cancers</u> can be treated with <b>dacarbazine</b>?<div><br></div><div>{{c1::Hodgkins Lymphoma}}<br></div><div>{{c2::Melignant Melanoma}}<br></div>",
+                        "",
+                        "<img src=\"paste-905648b4e7154ddb7ab98dcdb6e300c7fe67e7b5.jpg\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<div>Very similar to busulfan&nbsp;&nbsp;</div><img src=\"paste-74960064217480.jpg\">",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "Lc*+-Ao!D4",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week3::pharmacology::lecture23",
                         "^Banki"
                     ]
                 }
@@ -2758,7 +3022,7 @@
             "name": "Cloze-GzE_Pathology",
             "sortf": 0,
             "tags": [
-                "Term4::week3::pharmacology::lecture21",
+                "Term4::week3::pharmacology::lecture23",
                 "^Banki"
             ],
             "tmpls": [
