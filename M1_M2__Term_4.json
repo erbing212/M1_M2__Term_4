@@ -12,6 +12,7 @@
             "extendRev": 50,
             "media_files": [
                 "3449a0edfeece0e0a73fad927640b2d4.jpg",
+                "41416_2004_Article_BF6601629_Fig3_HTML.jpg",
                 "CellulitisJmh649.JPG",
                 "F1.large (2).jpg",
                 "Jmhc-17-1120-Fig1.png",
@@ -910,8 +911,8 @@
                     "guid": "uB0V:y}Ckw",
                     "note_model_uuid": "acb98e58-c098-11e9-81dc-acde48001122",
                     "tags": [
-                        "^Banki",
-                        "Term4::week2::pharmacology::lecture10"
+                        "Term4::week2::pharmacology::lecture10",
+                        "^Banki"
                     ]
                 },
                 {
@@ -2026,6 +2027,28 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
+                        "{{c1::<b>Fulvestrant</b>}} is a {{c2::<u>Selective Estrogen Receptor Downregulator(SERD)</u>}} which <b>reduces</b> the number of {{c3::<i>estrogen receptor</i>}} molecules in cells<br>",
+                        "<img src=\"41416_2004_Article_BF6601629_Fig3_HTML.jpg\"><br>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "Q8tjC-%`|9",
+                    "note_model_uuid": "acb98e58-c098-11e9-81dc-acde48001122",
+                    "tags": [
+                        "Term4::week3::pharmacology::lecture25",
+                        "^Kashmoney"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
                         "What <b>two</b> hallmarks of cancer are the enabling factors for <u>malignancy</u>?<div><br></div><div>1. {{c1::Genomic Instability}}<br></div><div>2. {{c1::Tumor Promoting inflamation}}<br></div>",
                         "<img src=\"paste-d7f5cbce30bfe5afecb69aa993715a343239cebd.jpg\">",
                         "",
@@ -2799,7 +2822,7 @@
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Cloze-Zanki w/references(1)",
+            "name": "Cloze-Zanki w/references(1)-f188f",
             "sortf": 0,
             "tags": [
                 "Term4::week2::IMCQ",
