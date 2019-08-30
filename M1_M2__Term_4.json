@@ -35,10 +35,13 @@
                 "Screen Shot 2019-08-28 at 8.34.16 AM.png",
                 "Screen Shot 2019-08-28 at 9.28.09 AM.png",
                 "Screen Shot 2019-08-28 at 9.37.16 AM.png",
+                "Screen Shot 2019-08-29 at 8.23.16 AM.png",
+                "Screen Shot 2019-08-29 at 9.36.18 AM.png",
                 "The-principle-of-immunocytochemistry-for-Ki-67-proliferation-marker-adapted-from.png",
                 "a-Showing-exophytic-ulcerative-tumor-14-9-cm-2-in-the-back-of-the-hand-arm-b.png",
                 "paste-04d5cf60d11cdd6ed7659af238aa53ab2b209d09.jpg",
                 "paste-0d062346a32ffa2d5258b8789ac378e5957ff313.jpg",
+                "paste-0d6d6086f98aea09467876ce9c8bc181619c6fba.jpg",
                 "paste-101271033872385.jpg",
                 "paste-104170136797185.jpg",
                 "paste-105097849733121_1544830391401.jpg",
@@ -56,10 +59,13 @@
                 "paste-16080357556725.jpg",
                 "paste-1de8354a89b636e756678cd5a0caf6595059f296.jpg",
                 "paste-211007448285185.jpg",
+                "paste-2589865279731.jpg",
                 "paste-30061e4cf53683d7b0b26ef871b2fedbc81dd3dc.jpg",
                 "paste-30803505446913.jpg",
+                "paste-3912715207153.jpg",
                 "paste-397821345792562.jpg",
                 "paste-3fa10c8c312b4ce1dd13bd95301482f91377d8e1.jpg",
+                "paste-415593920463326.jpg",
                 "paste-4915ac751b67078512b83209918932fadc297b73.jpg",
                 "paste-49950469652881.jpg",
                 "paste-4e313587154a4b8af63bada6ebf4d565da744eaf.jpg",
@@ -77,13 +83,17 @@
                 "paste-ace08d10909ac56e01de4549ddcac0942c523d8e.jpg",
                 "paste-ad736b12bcb586bc6f6f0051d0c4c969b3501ca5.jpg",
                 "paste-b37400d93d2b3a0d305401c17795791bfeb199de.jpg",
+                "paste-b7e33c7838e1f65a70963dd682f5d37c096a1017.jpg",
                 "paste-bc9a47bcc2439be1e48ab1dd7b91302d135b0f80.jpg",
+                "paste-bf40db48402f13fdd0b744ef1d6fa9fa0345fa3b.jpg",
+                "paste-c01cb44379bdc669de9bcdc55b673be1cc021a1e.jpg",
                 "paste-c6411c7079e5985d82989927b3f38a09e93d6b4d.jpg",
                 "paste-cfd39f272c62e1a564de3ffbc6684736e7f2bcc9.jpg",
                 "paste-d1b77dce75336b399b7571c949d1d1fce0378ee9.jpg",
                 "paste-d7ae6d6da6a1b7c296ab933f8f95ce47a0394217.jpg",
                 "paste-d7f5cbce30bfe5afecb69aa993715a343239cebd.jpg",
                 "paste-d7fa3327f20becf43311f239c9b0878356210c6f.jpg",
+                "paste-d8bb3f834b7b9370df9ad8e708a1ce9765cba6db.jpg",
                 "paste-e06ac10296a89dfda746399022ab95c9456652a9.jpg",
                 "paste-e7f1f2f322e9cf0aba7d7df107907374febe09e6.jpg",
                 "paste-ebb175c1281f7fcb696ed1d8115afe3f7731d8e8.jpg",
@@ -2027,28 +2037,6 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "{{c1::<b>Fulvestrant</b>}} is a {{c2::<u>Selective Estrogen Receptor Downregulator(SERD)</u>}} which <b>reduces</b> the number of {{c3::<i>estrogen receptor</i>}} molecules in cells<br>",
-                        "<img src=\"41416_2004_Article_BF6601629_Fig3_HTML.jpg\"><br>",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "flags": 0,
-                    "guid": "Q8tjC-%`|9",
-                    "note_model_uuid": "acb98e58-c098-11e9-81dc-acde48001122",
-                    "tags": [
-                        "Term4::week3::pharmacology::lecture25",
-                        "^Kashmoney"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
                         "What <b>two</b> hallmarks of cancer are the enabling factors for <u>malignancy</u>?<div><br></div><div>1. {{c1::Genomic Instability}}<br></div><div>2. {{c1::Tumor Promoting inflamation}}<br></div>",
                         "<img src=\"paste-d7f5cbce30bfe5afecb69aa993715a343239cebd.jpg\">",
                         "",
@@ -2572,6 +2560,235 @@
                     "tags": [
                         "Term4::week3::pharmacology::lecture23",
                         "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div> <div> <div> <div> <div>What <b>term</b> describes a blood tinged cough?</div><div><br></div><div>{{c1::Hemoptysis}}&nbsp;</div> </div> </div> </div></div>",
+                        "<img src=\"paste-b7e33c7838e1f65a70963dd682f5d37c096a1017.jpg\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "y8<U3]qw?9",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week3::pathology::lecture24",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div>Invasion of which structure in the <b>kidney</b> results in hematuria?</div><div><br></div><div>{{c1::Renal Pelvis}}<br></div>",
+                        "<img src=\"Screen Shot 2019-08-29 at 8.23.16 AM.png\"><br>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "p(#Z6UAC6",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week3::pathology::lecture24",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<b>Lapatinib</b> specifically inhibits both&nbsp;{{c1::<b>EGFR</b>}} and&nbsp;{{c2::<b>ErbB2</b>}}",
+                        "",
+                        "<img src=\"paste-0d6d6086f98aea09467876ce9c8bc181619c6fba.jpg\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "MrU0unYzac",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week3::pharmacology::lecture25",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Do tumor cells have the capability to synthesize asparagine?<div><br></div><div>{{c1::No}}<br></div>",
+                        "Thus it is a good idea to use asparaginase in some cancers to remove its ability to proliferate",
+                        "<img src=\"Screen Shot 2019-08-29 at 9.36.18 AM.png\"><br>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "v^y5twAuvK",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week3::pharmacology::lecture25",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<b>Prednisone</b> (and other glucocorticoids) primarily work by suppression of&nbsp;{{c1::mitosis}}",
+                        "",
+                        "<img src=\"paste-bf40db48402f13fdd0b744ef1d6fa9fa0345fa3b.jpg\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "o7Tu5szL)g",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week3::pharmacology::lecture25",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<b>Fulvestrant</b> primarily works by inhibiting&nbsp;{{c1::dimerization}} of <b>estrogen</b> to its <b>receptor</b>",
+                        "",
+                        "<img src=\"paste-c01cb44379bdc669de9bcdc55b673be1cc021a1e.jpg\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "qUw#IdYXT{",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week3::pharmacology::lecture25",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<b>Late</b> diarrhea due to <u>irinotecan</u>&nbsp;treatment is best treated with what drug?<div><br></div><div>{{c1::Loperamide}}<br></div>",
+                        "",
+                        "<img src=\"paste-d8bb3f834b7b9370df9ad8e708a1ce9765cba6db.jpg\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"paste-415593920463326.jpg\"><div><img src=\"paste-3912715207153.jpg\"><br></div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "q*R_|oBVU",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week3::pharmacology::lecture25",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<b>Early stage</b> diarrhea due to <u>irinotecan</u>&nbsp;treatment is best treated with what drug?<div><br></div><div>{{c1::Atropine}}<br></div>",
+                        "",
+                        "<img src=\"paste-d8bb3f834b7b9370df9ad8e708a1ce9765cba6db.jpg\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<div><img src=\"paste-3912715207153.jpg\"><br></div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "NVH<LG:!uP",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week3::pharmacology::lecture25",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What microbiological&nbsp;<b>species</b> is indicated by the slide below?<div><div> <div> <div> <div> <div>{{c1::Malassezia spp.}}&nbsp;</div> </div> </div> </div></div><div><img src=\"paste-2589865279731.jpg\"><br></div></div>",
+                        "“spaghetti-and-meatballs” appearance&nbsp;",
+                        " <div> <div> <div> <div><br></div> </div> </div> </div>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "vFa)-GB(}<",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week3::microbiology::lecture26",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::<b>Fulvestrant</b>}} is a {{c2::<u>Selective Estrogen Receptor Downregulator(SERD)</u>}} which <b>reduces</b> the number of {{c3::<i>estrogen receptor</i>}} molecules in cells<br>",
+                        "<img src=\"41416_2004_Article_BF6601629_Fig3_HTML.jpg\"><br>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "Q8tjC-%`|9",
+                    "note_model_uuid": "acb98e58-c098-11e9-81dc-acde48001122",
+                    "tags": [
+                        "Term4::week3::pharmacology::lecture25",
+                        "^Kashmoney"
                     ]
                 }
             ]
