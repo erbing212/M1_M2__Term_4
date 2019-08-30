@@ -3076,6 +3076,26 @@
                         "Term4::week3::microbiology::lecture26",
                         "^Banki"
                     ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::Delete card}} hhh<br>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "Qhw8j#+2x1",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": []
                 }
             ]
         },
@@ -3547,10 +3567,7 @@
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "name": "Cloze-GzE_Pathology",
             "sortf": 0,
-            "tags": [
-                "Term4::week3::microbiology::lecture26",
-                "^Banki"
-            ],
+            "tags": [],
             "tmpls": [
                 {
                     "afmt": " <div id=\"kard\">  \n {{cloze:Text}}\n    <div>&nbsp;</div>\n    <div id='extra'>{{Extra}}</div>\n</div>\n<br>\n\n{{#First Aid}}\n <a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint1').style.display='inline-block';return false\";> <font color=\"#993330\">First Aid</a></font><div id=\"hint1\" class=hint style=\"display: none\">{{First Aid}}</div>\n{{/First Aid}}\n\n{{#Boards and Beyond}}\n<a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint2').style.display='';return false\";> <font color=\"#306299\">B&B</a></font><div id=\"hint2\" class=hint style=\"display: none\">{{Boards and Beyond}}</div>\n{{/Boards and Beyond}}\n\n{{#Pathoma}}\n<a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint3').style.display='';return false\";> <font color=\"#008800\">Pathoma</a></font><div id=\"hint3\" class=hint style=\"display: none\">{{Pathoma}}</div>\n{{/Pathoma}}\n\n\n{{#Sketchy}}\n<a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint4').style.display='';return false\";> <font color=\"#660033\">Sketchy</a></font><div id=\"hint4\" class=hint style=\"display: none\">{{Sketchy}}</div>\n{{/Sketchy}}\n\n{{#Robbins}}\n <a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint5').style.display='inline-block';return false\";> <font color=\"#1144ff\">Robbins</a></font><div id=\"hint5\" class=hint style=\"display: none\">{{Robbins}}</div>\n{{/Robbins}}\n\n{{#Gs Get Degrees}}\n<a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint6').style.display='';return false\";> <font color=\"#996600\">Gs Get Degrees</a></font><div id=\"hint6\" class=hint style=\"display: none\">{{Gs Get Degrees}}</div>\n{{/Gs Get Degrees}}\n\n{{#Additional Resources}}\n<a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint7').style.display='';return false\";> <font color=\"#9900CC\">Additional Resources</a></font><div id=\"hint7\" class=hint style=\"display: none\">{{Additional Resources}}</div>\n{{/Additional Resources}}\n\n{{#Lecture Notes}}\n<a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint8').style.display='';return false\";> <font color=\"#D56868\">Lecture Notes</a></font><div id=\"hint8\" class=hint style=\"display: none\">{{Lecture Notes}}</div>\n{{/Lecture Notes}}\n<br>\n\n{{#Tags}} <div class \"tags\" {{Tags}} </div>{{/Tags}}",
