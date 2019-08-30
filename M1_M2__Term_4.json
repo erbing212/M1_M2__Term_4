@@ -37,6 +37,7 @@
                 "Screen Shot 2019-08-28 at 9.37.16 AM.png",
                 "Screen Shot 2019-08-29 at 8.23.16 AM.png",
                 "Screen Shot 2019-08-29 at 9.36.18 AM.png",
+                "Screen Shot 2019-08-30 at 9.15.39 AM.png",
                 "The-principle-of-immunocytochemistry-for-Ki-67-proliferation-marker-adapted-from.png",
                 "a-Showing-exophytic-ulcerative-tumor-14-9-cm-2-in-the-back-of-the-hand-arm-b.png",
                 "paste-04d5cf60d11cdd6ed7659af238aa53ab2b209d09.jpg",
@@ -47,6 +48,7 @@
                 "paste-105097849733121_1544830391401.jpg",
                 "paste-108658377621505_1544830391401.jpg",
                 "paste-109787954020353.jpg",
+                "paste-10d8165010cc90888a922e92ff8a79d20cd28dd1.jpg",
                 "paste-110908940484609.jpg",
                 "paste-111265422770177.jpg",
                 "paste-11465ad51271178cd9885046cd6be45178d2bfb7.jpg",
@@ -59,7 +61,7 @@
                 "paste-16080357556725.jpg",
                 "paste-1de8354a89b636e756678cd5a0caf6595059f296.jpg",
                 "paste-211007448285185.jpg",
-                "paste-2589865279731.jpg",
+                "paste-27698244092317.jpg",
                 "paste-30061e4cf53683d7b0b26ef871b2fedbc81dd3dc.jpg",
                 "paste-30803505446913.jpg",
                 "paste-3912715207153.jpg",
@@ -69,10 +71,15 @@
                 "paste-4915ac751b67078512b83209918932fadc297b73.jpg",
                 "paste-49950469652881.jpg",
                 "paste-4e313587154a4b8af63bada6ebf4d565da744eaf.jpg",
+                "paste-552946974588931.jpg",
                 "paste-58feb3a41b5e8a73a8bb3e3fd7ad0d2543ff98c5.jpg",
+                "paste-6764573491611.jpg",
+                "paste-6e814accdc59f86de62b8dbc7c93b39b13400f72.jpg",
                 "paste-708875762271688.jpg",
                 "paste-74960064217480.jpg",
+                "paste-8031108ce23fc7eca03248b1aa4a5dadd96945af.jpg",
                 "paste-805a348005314d4b823421f43b185caec53b1dc6.jpg",
+                "paste-80628474ce0b338d8b2613869b16925755042705.jpg",
                 "paste-905648b4e7154ddb7ab98dcdb6e300c7fe67e7b5.jpg",
                 "paste-90a7b2a801b2724d3a5ba27fa10ba8da6648cd4b.jpg",
                 "paste-9a6c75b711b18740e4fe5106cdd188668b308998.jpg",
@@ -85,6 +92,7 @@
                 "paste-b37400d93d2b3a0d305401c17795791bfeb199de.jpg",
                 "paste-b7e33c7838e1f65a70963dd682f5d37c096a1017.jpg",
                 "paste-bc9a47bcc2439be1e48ab1dd7b91302d135b0f80.jpg",
+                "paste-bf40b68bd94e4d7f81714bd2aded7d29014d8eab.jpg",
                 "paste-bf40db48402f13fdd0b744ef1d6fa9fa0345fa3b.jpg",
                 "paste-c01cb44379bdc669de9bcdc55b673be1cc021a1e.jpg",
                 "paste-c6411c7079e5985d82989927b3f38a09e93d6b4d.jpg",
@@ -2627,6 +2635,7 @@
                     "guid": "MrU0unYzac",
                     "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
                     "tags": [
+                        "Term4::week3::microbiology::lecture26",
                         "Term4::week3::pharmacology::lecture25",
                         "^Banki"
                     ]
@@ -2750,29 +2759,6 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "What microbiological&nbsp;<b>species</b> is indicated by the slide below?<div><div> <div> <div> <div> <div>{{c1::Malassezia spp.}}&nbsp;</div> </div> </div> </div></div><div><img src=\"paste-2589865279731.jpg\"><br></div></div>",
-                        "“spaghetti-and-meatballs” appearance&nbsp;",
-                        " <div> <div> <div> <div><br></div> </div> </div> </div>",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "flags": 0,
-                    "guid": "vFa)-GB(}<",
-                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
-                    "tags": [
-                        "Term4::week3::microbiology::lecture26",
-                        "^Banki"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
                         "{{c1::<b>Fulvestrant</b>}} is a {{c2::<u>Selective Estrogen Receptor Downregulator(SERD)</u>}} which <b>reduces</b> the number of {{c3::<i>estrogen receptor</i>}} molecules in cells<br>",
                         "<img src=\"41416_2004_Article_BF6601629_Fig3_HTML.jpg\"><br>",
                         "",
@@ -2787,8 +2773,308 @@
                     "guid": "Q8tjC-%`|9",
                     "note_model_uuid": "acb98e58-c098-11e9-81dc-acde48001122",
                     "tags": [
+                        "Term4::week3::microbiology::lecture26",
                         "Term4::week3::pharmacology::lecture25",
                         "^Kashmoney"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div>What <u>general</u>&nbsp;reproductive form of a fungi is indicated by the slide below?</div><div>{{c1::Microconidia}}<br></div><img src=\"paste-bf40b68bd94e4d7f81714bd2aded7d29014d8eab.jpg\">",
+                        "\"Birds on a wire\"",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<b>Microconidia:</b>&nbsp;The reproductive form of certain fungi, which is functionally the same as conidia, but smaller"
+                    ],
+                    "flags": 0,
+                    "guid": "QjMrY^d~9z",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week3::microbiology::lecture26",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div>What <b>general</b> reproductive form of fungi is indicated by the slide below?</div><div>{{c1::Macroconidia}}<br></div><img src=\"paste-8031108ce23fc7eca03248b1aa4a5dadd96945af.jpg\">",
+                        "\"Pencil like\"",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "q-e4M/h9JU",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week3::microbiology::lecture26",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What is a fungal nail infection is caused by a <b>dermatophyte</b> termed?<div><br></div><div>{{c1::Tinea Unguium}}<br></div>",
+                        "",
+                        "<div> <div> <div> <div> <div>• When caused by dermatophytes = tinea unguium </div> <div>• When caused by non-dermatophytic fungi = onychomycosis:&nbsp;</div> </div> </div> </div></div>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "G`C*jF*kD8",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week3::microbiology::lecture26",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What is a fungal infection of the nail from a <b>non</b>-dermatophytic fungi termed?<div><br></div><div>{{c1::Onychomycosis}}<br></div>",
+                        "",
+                        "<div> <div> <div> <div> <div>• When caused by dermatophytes = tinea unguium </div> <div>• When caused by non-dermatophytic fungi = onychomycosis:&nbsp;</div> </div> </div> </div></div>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<div>Technically, sketchy is incorrect here</div><img src=\"paste-6764573491611.jpg\">",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "QC]J[D$X)a",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week3::microbiology::lecture26",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<i>Corynebacterium minutissimum</i> can be diagnosed via {{c1::UV light}} where it glows coral-red",
+                        "",
+                        "<img src=\"paste-80628474ce0b338d8b2613869b16925755042705.jpg\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "f+2W9;V)/w",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week3::microbiology::lecture26",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Why does&nbsp;<i>Corynebacterium minutissimum </i>glow coral red under UV light?<div><br></div><div>{{c1::Porphyrin Production}}<br></div>",
+                        "",
+                        "<img src=\"paste-80628474ce0b338d8b2613869b16925755042705.jpg\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "m2UWYHDm;t",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week3::microbiology::lecture26",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What <i>enzyme</i> produced by <b>hookworms</b> allows it to penetrate and breakdown skin?<div><br></div><div>{{c1::Hyaluronidase}}<br></div>",
+                        "",
+                        "<div> <div> <div> <div> <div><b>Epidemiology </b></div> <div>▪ &nbsp;Eggs are shed from adult worms in gastrointestinal tract of dogs and cats. </div> <div>▪ &nbsp;Eggs in the environment hatch → rhabditiform larvae → filariform larva (L3) penetrate skin surface </div> <div>&nbsp; &nbsp; &nbsp;▪ Produce a <u>hyaluronidase </u></div> <div>▪ &nbsp;Dead-end infection: humans are “accidental hosts” </div> <div>&nbsp; &nbsp; &nbsp;▪ Self-limiting; cannot invade dermis<br> ▪ Migrating larvae die within 5-6 weeks </div> <div>▪ &nbsp;Common cause of skin infection in returning travelers. </div> <div>▪ &nbsp;Caribbean, Africa, Asia, and South America </div> <div>&nbsp; &nbsp; ▪ Warm, moist climates&nbsp;</div> </div> </div> </div></div>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "NZ~s3R(4GS",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week3::microbiology::lecture26",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Is <i>straphlycoccus aureus</i> motile?<div><br></div><div>{{c1::No}}<br></div>",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"paste-552946974588931.jpg\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": ")rDYrN|MQ",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week3::microbiology::lecture26",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<i>Malassezia furfur</i> is a&nbsp;{{c1::lipophilic}} yeast",
+                        "<div>Thus it is found in areas <b>higher in lipids</b> such as the <u>anterior back and chest</u></div><div><u><br></u></div>Yeast is in the hyphal form&nbsp;",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "yz#b9H1%b;",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week3::microbiology::lecture26",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Is <b>Tinea versicolor</b> a dermatophytic or non-dermatophytic&nbsp;fungal infection?<div><br></div><div>{{c1::Non-dermatophytic}}<br></div>",
+                        "",
+                        "<img src=\"paste-6e814accdc59f86de62b8dbc7c93b39b13400f72.jpg\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "F2ZcoSWw0d",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week3::microbiology::lecture26",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Is <b>Tinea nigra</b>&nbsp;a dermatophytic or non-dermatophytic&nbsp;fungal infection?<div><br></div><div>{{c1::Non-dermatophytic}}<br></div>",
+                        "",
+                        "<img src=\"paste-6e814accdc59f86de62b8dbc7c93b39b13400f72.jpg\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "(C+FPu(~0",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week3::microbiology::lecture26",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<b>Cutaneous and Subcutaneous</b> <b>fungi</b> can be transmitted via&nbsp;{{c1::trauma}} or direct contact",
+                        "",
+                        "<img src=\"paste-10d8165010cc90888a922e92ff8a79d20cd28dd1.jpg\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "j{b/2Y&PF<",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week3::microbiology::lecture26",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What is the <u>main</u> route of transmission of <b>systemic</b>&nbsp;fungi?<div><br></div><div>{{c1::Respiratory}}<br></div>",
+                        "",
+                        "<img src=\"paste-10d8165010cc90888a922e92ff8a79d20cd28dd1.jpg\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"paste-27698244092317.jpg\">",
+                        "<img src=\"Screen Shot 2019-08-30 at 9.15.39 AM.png\"><br>"
+                    ],
+                    "flags": 0,
+                    "guid": "Jg7d6)H|it",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week3::microbiology::lecture26",
+                        "^Banki"
                     ]
                 }
             ]
@@ -3262,7 +3548,7 @@
             "name": "Cloze-GzE_Pathology",
             "sortf": 0,
             "tags": [
-                "Term4::week3::pharmacology::lecture23",
+                "Term4::week3::microbiology::lecture26",
                 "^Banki"
             ],
             "tmpls": [
