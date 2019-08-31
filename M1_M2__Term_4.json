@@ -36,6 +36,7 @@
                 "Screen Shot 2019-08-28 at 9.28.09 AM.png",
                 "Screen Shot 2019-08-28 at 9.37.16 AM.png",
                 "Screen Shot 2019-08-29 at 8.23.16 AM.png",
+                "Screen Shot 2019-08-29 at 9.27.37 AM.png",
                 "Screen Shot 2019-08-29 at 9.36.18 AM.png",
                 "Screen Shot 2019-08-30 at 9.15.39 AM.png",
                 "The-principle-of-immunocytochemistry-for-Ki-67-proliferation-marker-adapted-from.png",
@@ -68,6 +69,7 @@
                 "paste-397821345792562.jpg",
                 "paste-3fa10c8c312b4ce1dd13bd95301482f91377d8e1.jpg",
                 "paste-415593920463326.jpg",
+                "paste-45510e30a8da8757efde60ab0a3748d3af735a94.jpg",
                 "paste-4915ac751b67078512b83209918932fadc297b73.jpg",
                 "paste-49950469652881.jpg",
                 "paste-4e313587154a4b8af63bada6ebf4d565da744eaf.jpg",
@@ -3076,6 +3078,98 @@
                         "Term4::week3::microbiology::lecture26",
                         "^Banki"
                     ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What drug <u>class</u> does <b>goserelin</b> belong to?<div><br></div><div>{{c1::GnRH agonist}}<br></div>",
+                        "Largerly under class androgen inhibitors",
+                        "<img src=\"Screen Shot 2019-08-29 at 9.27.37 AM.png\"><br>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "zs-`m#M@r|",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week3::pharmacology::lecture25",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What type of cancer is treated with <b>goserelin</b>?<div><br></div><div>{{c1::Prostate cancer}}<br></div>",
+                        "",
+                        "<img src=\"Screen Shot 2019-08-29 at 9.27.37 AM.png\"><br>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "PVy$0e7:;l",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week3::pharmacology::lecture25",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What is an <b>adverse effect</b>&nbsp;on <u>circulation</u> by asparaginase?<div><br></div><div>{{c1::Decreased clotting factors}}</div>",
+                        "",
+                        "<img src=\"paste-45510e30a8da8757efde60ab0a3748d3af735a94.jpg\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "yBwAw,-E&Y",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week3::pharmacology::lecture25",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What can cause <b>seizures</b> and <b>coma</b> in individuals taking <u>asparaginase</u>?<div><br></div><div>{{c1::Ammonia toxicity}}<br></div>",
+                        "<div>Asparaginase increases ammonia:</div><div><br></div>In&nbsp;<u>hyperammonemia</u>, glutamine concentrations are higher than GABA and thus we have a&nbsp;<b>hyper-excitable</b>&nbsp;state. Leading to seizures and possibly coma",
+                        "<img src=\"paste-45510e30a8da8757efde60ab0a3748d3af735a94.jpg\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "FELt)s;NU2",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week3::pharmacology::lecture25",
+                        "^Banki"
+                    ]
                 }
             ]
         },
@@ -3548,7 +3642,7 @@
             "name": "Cloze-GzE_Pathology",
             "sortf": 0,
             "tags": [
-                "Term4::week3::microbiology::lecture26",
+                "Term4::week3::pharmacology::lecture25",
                 "^Banki"
             ],
             "tmpls": [
