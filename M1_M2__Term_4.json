@@ -2047,6 +2047,51 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
+                        "{{c1::<b>Fulvestrant</b>}} is a {{c2::<u>Selective Estrogen Receptor Downregulator(SERD)</u>}} which <b>reduces</b> the number of {{c3::<i>estrogen receptor</i>}} molecules in cells<br>",
+                        "<img src=\"41416_2004_Article_BF6601629_Fig3_HTML.jpg\"><br>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "Q8tjC-%`|9",
+                    "note_model_uuid": "acb98e58-c098-11e9-81dc-acde48001122",
+                    "tags": [
+                        "Term4::week3::microbiology::lecture26",
+                        "Term4::week3::pharmacology::lecture25",
+                        "^Kashmoney"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<i>Incidence of hypersensitivity </i>reactions is reduced by premedication with {{c2::<u>dexamethasone</u>}}, {{c2::<u>diphenydramine</u>}} and an {{c2::<u>H2 blocker</u>}} when using&nbsp;{{c1::<b>Paclitaxel</b>}}<br>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "z#)1:R-<ME",
+                    "note_model_uuid": "d6343e1a-cc26-11e9-b500-8c8590d022f5",
+                    "tags": [
+                        "Term4::week3::pharmacology::lecture25",
+                        "^Kashmoney"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
                         "What <b>two</b> hallmarks of cancer are the enabling factors for <u>malignancy</u>?<div><br></div><div>1. {{c1::Genomic Instability}}<br></div><div>2. {{c1::Tumor Promoting inflamation}}<br></div>",
                         "<img src=\"paste-d7f5cbce30bfe5afecb69aa993715a343239cebd.jpg\">",
                         "",
@@ -2761,29 +2806,6 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "{{c1::<b>Fulvestrant</b>}} is a {{c2::<u>Selective Estrogen Receptor Downregulator(SERD)</u>}} which <b>reduces</b> the number of {{c3::<i>estrogen receptor</i>}} molecules in cells<br>",
-                        "<img src=\"41416_2004_Article_BF6601629_Fig3_HTML.jpg\"><br>",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "flags": 0,
-                    "guid": "Q8tjC-%`|9",
-                    "note_model_uuid": "acb98e58-c098-11e9-81dc-acde48001122",
-                    "tags": [
-                        "Term4::week3::microbiology::lecture26",
-                        "Term4::week3::pharmacology::lecture25",
-                        "^Kashmoney"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
                         "<div>What <u>general</u>&nbsp;reproductive form of a fungi is indicated by the slide below?</div><div>{{c1::Microconidia}}<br></div><img src=\"paste-bf40b68bd94e4d7f81714bd2aded7d29014d8eab.jpg\">",
                         "\"Birds on a wire\"",
                         "",
@@ -3078,6 +3100,26 @@
                         "Term4::week3::microbiology::lecture26",
                         "^Banki"
                     ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::Delete card}} hhh<br>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "Qhw8j#+2x1",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
@@ -3656,6 +3698,114 @@
                     "name": "Cloze",
                     "ord": 0,
                     "qfmt": "<div id=\"kard\">\n{{cloze:Text}}\n<br>\n<br>\n"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "d6343e1a-cc26-11e9-b500-8c8590d022f5",
+            "css": "html { overflow: scroll; overflow-x: hidden; }\n/* CONTAINER FOR YOUR CARDS */\n#kard {\n    padding: 0px 0px;\n    max-width: 1000px; /* CHANGE CARD SIZE HERE */\n    margin: 0 auto; /* CENTERS THE CARD IN THE MIDDLE OF THE WINDOW */\n    word-wrap: break-word; /* BREAKS UP LONG WORKS */\n}\n\n\n/* APPLIES TO THE WHOLE CARD */\n.card {\n    font-family: Vernada;\n    font-size: 28px; /* FONT SIZE */\n    text-align: center; /* ALIGN TEXT */\n    color: black; /* FONT COLOR */\n    line-height: 1.2em;\n    background-color: #FDFBF6; /* BACKGROUND COLOR */\n}\n/* STYLE FOR CLOZE DELETIONS */\n.cloze, .cloze b, .cloze u, .cloze i { font-weight: bold; color: #993330 !important;}\n\n\n/* STYLE FOR EXTRA PORTION ON BACK OF CARD */\n#extra, #extra i { font-size: 26px; color: black; font-style: italic; }\n\n\n/* STYLE TAGS TO APPEAR WHEN HOVERING OVER TOP OF CARD */\n.tags { \n    color: #A6ABB9;\n    opacity: 0;\n    font-size: 10px; \n    width: 100%;\n    text-align: center;\n    text-transform: uppercase; \n    position: fixed; \n    padding: 0; \n    top:0;  \n    right: 0;}\n.tags:hover { opacity: 1; position: fixed;}\n\n\n/* IMAGE STYLE */\nimg { display: block; max-width: 100%; max-height: 700px; margin-center: auto; margin: 0 auto 0 auto;}\nimg:active { width: 100%; height: 100%; }\ntr {font-size: 12px; }\n\n\n/* COLOR ACCENTS FOR BOLD-ITALICS-UNDERLINE */\nb {color: #306299; !important; } /* BOLD STYLE */\nu { text-decoration: none; color: #D18835 ;} /* UNDERLINE STYLE */\ni  { color: #309699; } /* ITALICS STYLE */\na { color: LightGray !important; text-decoration: none; font-size: 10px; font-style: normal; } /* LINK STYLE */\n\n.hint {  \nfont-family: Vernada;\n    font-size: 20px; /* FONT SIZE */\n    text-align: center; /* ALIGN TEXT */\n    color: black; /* FONT COLOR */\n\n}\n/* ADJUSTMENT FOR MOBILE DEVICES */\n.mobile .card { color: black; background-color: #FDFBF6; } \n.mobile .tags:hover { opacity: 1; position: relative;}\n.mobile .card img:active { width: inherit; max-height: none;}",
+            "flds": [
+                {
+                    "font": "Helvetica",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Helvetica",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "First Aid",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Netters",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Robbins",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Atlas",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Step Up to Medicine",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "UWorld",
+                    "ord": 7,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Other Reference",
+                    "ord": 8,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze-Zanki w/references(1)",
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "<div id=\"kard\">\n    <div class=\"tags\" id='tags'>{{Tags}}</div>\n    {{cloze:Text}}\n    <div>&nbsp;</div>\n    <div id='extra'>{{Extra}}</div>\n</div>\n  \n{{#First Aid}}\n <a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint1').style.display='inline-block';return false\";> <font color=\"#993330\">First Aid</a></font><div id=\"hint1\" class=hint style=\"display: none\">{{First Aid}}</div>\n{{/First Aid}}\n\n{{#Netters}}\n<a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint2').style.display='';return false\";> <font color=\"#306299\">Netters</a></font><div id=\"hint2\" class=hint style=\"display: none\">{{Netters}}</div>\n{{/Netters}}\n\n{{#Robbins}}\n<a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint3').style.display='';return false\";> <font color=\"#008800\">Robbins</a></font><div id=\"hint3\" class=hint style=\"display: none\">{{Robbins}}</div>\n{{/Robbins}}\n\n{{#Atlas}}\n<a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint4').style.display='';return false\";> <font color=\"#996600\">Atlas</a></font><div id=\"hint4\" class=hint style=\"display: none\">{{Atlas}}</div>\n{{/Atlas}}\n\n{{#Step Up to Medicine}}\n<a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint5').style.display='';return false\";> <font color=\"#660033\">SUTM</a></font><div id=\"hint5\" class=hint style=\"display: none\">{{Step Up to Medicine}}</div>\n{{/Step Up to Medicine}}\n\n{{#UWorld}}\n <a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint7').style.display='inline-block';return false\";> <font color=\"#1144ff\">UWorld</a></font><div id=\"hint7\" class=hint style=\"display: none\">{{UWorld}}</div>\n{{/UWorld}}\n\n{{#Other Reference}}\n<a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint6').style.display='';return false\";> <font color=\"#9900CC\">Other</a></font><div id=\"hint6\" class=hint style=\"display: none\">{{Other Reference}}</div>\n{{/Other Reference}}\n\n\n",
+                    "bafmt": "",
+                    "bfont": "Arial",
+                    "bqfmt": "",
+                    "bsize": 12,
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "<div id=\"kard\">\n<div class=\"tags\">{{Tags}}</div>\n{{cloze:Text}}\n</div>"
                 }
             ],
             "type": 1,
