@@ -44,6 +44,9 @@
                 "paste-04d5cf60d11cdd6ed7659af238aa53ab2b209d09.jpg",
                 "paste-0d062346a32ffa2d5258b8789ac378e5957ff313.jpg",
                 "paste-0d6d6086f98aea09467876ce9c8bc181619c6fba.jpg",
+                "paste-100227356819457.jpg",
+                "paste-100734162960385.jpg",
+                "paste-100815767339009.jpg",
                 "paste-101271033872385.jpg",
                 "paste-104170136797185.jpg",
                 "paste-105097849733121_1544830391401.jpg",
@@ -445,6 +448,22 @@
                         "Term4::Term4Exam1(Tin_Chu)",
                         "Term4::week2::pathology::lecture12",
                         "Term4::week2::pharmacology::lecture12"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What formula can be used to calculate the PEAK concentrations at steady-state (<b>PC<sub>ss</sub></b>)?<div><br /></div><div>{{c1::<img src=\"paste-100227356819457.jpg\" />}}</div>",
+                        "<div><img src=\"paste-100815767339009.jpg\" /></div><div><img src=\"paste-100734162960385.jpg\" /></div><div>Week 2 Lecture 16 - Clinical Pharmacokinetics 2</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "F!-jP~^1%x",
+                    "note_model_uuid": "b008aac6-c098-11e9-a788-acde48001122",
+                    "tags": [
+                        "Term4::Term4Exam1(Tin_Chu)",
+                        "Term4::week2::pharmacology::lecture15",
+                        "^Pimp"
                     ]
                 },
                 {
@@ -2061,51 +2080,6 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "{{c1::<b>Fulvestrant</b>}} is a {{c2::<u>Selective Estrogen Receptor Downregulator(SERD)</u>}} which <b>reduces</b> the number of {{c3::<i>estrogen receptor</i>}} molecules in cells<br>",
-                        "<img src=\"41416_2004_Article_BF6601629_Fig3_HTML.jpg\"><br>",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "flags": 0,
-                    "guid": "Q8tjC-%`|9",
-                    "note_model_uuid": "acb98e58-c098-11e9-81dc-acde48001122",
-                    "tags": [
-                        "Term4::week3::microbiology::lecture26",
-                        "Term4::week3::pharmacology::lecture25",
-                        "^Kashmoney"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "<i>Incidence of hypersensitivity </i>reactions is reduced by premedication with {{c2::<u>dexamethasone</u>}}, {{c2::<u>diphenydramine</u>}} and an {{c2::<u>H2 blocker</u>}} when using&nbsp;{{c1::<b>Paclitaxel</b>}}<br>",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "flags": 0,
-                    "guid": "z#)1:R-<ME",
-                    "note_model_uuid": "d6343e1a-cc26-11e9-b500-8c8590d022f5",
-                    "tags": [
-                        "Term4::week3::pharmacology::lecture25",
-                        "^Kashmoney"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
                         "What <b>two</b> hallmarks of cancer are the enabling factors for <u>malignancy</u>?<div><br></div><div>1. {{c1::Genomic Instability}}<br></div><div>2. {{c1::Tumor Promoting inflamation}}<br></div>",
                         "<img src=\"paste-d7f5cbce30bfe5afecb69aa993715a343239cebd.jpg\">",
                         "",
@@ -2820,6 +2794,29 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
+                        "{{c1::<b>Fulvestrant</b>}} is a {{c2::<u>Selective Estrogen Receptor Downregulator(SERD)</u>}} which <b>reduces</b> the number of {{c3::<i>estrogen receptor</i>}} molecules in cells<br>",
+                        "<img src=\"41416_2004_Article_BF6601629_Fig3_HTML.jpg\"><br>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "Q8tjC-%`|9",
+                    "note_model_uuid": "acb98e58-c098-11e9-81dc-acde48001122",
+                    "tags": [
+                        "Term4::week3::microbiology::lecture26",
+                        "Term4::week3::pharmacology::lecture25",
+                        "^Kashmoney"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
                         "<div>What <u>general</u>&nbsp;reproductive form of a fungi is indicated by the slide below?</div><div>{{c1::Microconidia}}<br></div><img src=\"paste-bf40b68bd94e4d7f81714bd2aded7d29014d8eab.jpg\">",
                         "\"Birds on a wire\"",
                         "",
@@ -3119,26 +3116,6 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "{{c1::Delete card}} hhh<br>",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "flags": 0,
-                    "guid": "Qhw8j#+2x1",
-                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
                         "What drug <u>class</u> does <b>goserelin</b> belong to?<div><br></div><div>{{c1::GnRH agonist}}<br></div>",
                         "Largerly under class androgen inhibitors",
                         "<img src=\"Screen Shot 2019-08-29 at 9.27.37 AM.png\"><br>",
@@ -3231,7 +3208,52 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        " <div> <div> <div> <div><i>Extravascular fluid </i>collection in the <u>pleural cavity i</u>s called {{c1::<b>hydrothorax</b>}}&nbsp;&nbsp;<br></div> </div> </div> </div>",
+                        "<i>Incidence of hypersensitivity </i>reactions is reduced by premedication with {{c2::<u>dexamethasone</u>}}, {{c2::<u>diphenydramine</u>}} and an {{c2::<u>H2 blocker</u>}} when using&nbsp;{{c1::<b>Paclitaxel</b>}}<br>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "z#)1:R-<ME",
+                    "note_model_uuid": "d6343e1a-cc26-11e9-b500-8c8590d022f5",
+                    "tags": [
+                        "Term4::week3::pharmacology::lecture25",
+                        "^Kashmoney"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<b>C-reactive protein (CRP)</b> and <b>erythrocyte sedimentation</b> rate are&nbsp;{{c1::<u>non-specific</u>}} markers for {{c2::<u>inflammation</u>}}",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "dJuXddz?OK",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week3",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        " <div> <div> <div> <div><i>Extravascular fluid </i>collection in the <u>pleural cavity </u>is called {{c1::<b>hydrothorax</b>}}&nbsp;&nbsp;<br></div> </div> </div> </div>",
                         "<i>aka </i>pleural effusion&nbsp;<div><br></div><div><img src=\"pleural-effusion.jpg\"><br></div>",
                         "<img src=\"paste-aa5b7d4bfb463b1a9e07e973d0c8f50a2704e943.jpg\"><br>",
                         "",
@@ -3246,7 +3268,8 @@
                     "guid": "Jg(MVH2qSu",
                     "note_model_uuid": "1c21add0-ccdc-11e9-a618-8c8590d022f5",
                     "tags": [
-                        "Hemodynamics1"
+                        "Term4::week4::hemodynamics",
+                        "^Kashmoney"
                     ]
                 },
                 {
@@ -3268,7 +3291,8 @@
                     "guid": "Qmln+4+B1{",
                     "note_model_uuid": "1c21add0-ccdc-11e9-a618-8c8590d022f5",
                     "tags": [
-                        "Hemodynamics1"
+                        "Term4::week4::hemodynamics",
+                        "^Kashmoney"
                     ]
                 },
                 {
@@ -3290,7 +3314,8 @@
                     "guid": "dzyX`JQD}!",
                     "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
                     "tags": [
-                        "Hemodynamics1"
+                        "Term4::week4::hemodynamics",
+                        "^Kashmoney"
                     ]
                 },
                 {
@@ -3312,7 +3337,8 @@
                     "guid": "M)ih$2kO:%",
                     "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
                     "tags": [
-                        "Hemodynamics1"
+                        "Term4::week4::hemodynamics",
+                        "^Kashmoney"
                     ]
                 },
                 {
@@ -3334,7 +3360,8 @@
                     "guid": "I-<NA*v$P?",
                     "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
                     "tags": [
-                        "Hemodynamics1"
+                        "Term4::week4::hemodynamics",
+                        "^Kashmoney"
                     ]
                 },
                 {
@@ -3356,7 +3383,8 @@
                     "guid": "kDmCXwcBax",
                     "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
                     "tags": [
-                        "Hemodynamics1"
+                        "Term4::week4::hemodynamics",
+                        "^Kashmoney"
                     ]
                 },
                 {
@@ -3378,7 +3406,8 @@
                     "guid": "oj&:;pjj~b",
                     "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
                     "tags": [
-                        "Hemodynamics1"
+                        "Term4::week4::hemodynamics",
+                        "^Kashmoney"
                     ]
                 },
                 {
@@ -3400,7 +3429,8 @@
                     "guid": "L|e;2J$u%[",
                     "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
                     "tags": [
-                        "Hemodynamics1"
+                        "Term4::week4::hemodynamics",
+                        "^Kashmoney"
                     ]
                 },
                 {
@@ -3422,7 +3452,8 @@
                     "guid": "JUy!_z632%",
                     "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
                     "tags": [
-                        "Hemodynamics1"
+                        "Term4::week4::hemodynamics",
+                        "^Kashmoney"
                     ]
                 },
                 {
@@ -3444,7 +3475,8 @@
                     "guid": "iMm613%s}3",
                     "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
                     "tags": [
-                        "Hemodynamics1"
+                        "Term4::week4::hemodynamics",
+                        "^Kashmoney"
                     ]
                 }
             ]
@@ -3552,58 +3584,6 @@
                 "perDay": 9999
             },
             "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoplay": true,
-            "crowdanki_uuid": "1c1f3458-ccdc-11e9-bbf2-8c8590d022f5",
-            "currentValue": 120,
-            "dyn": false,
-            "lapse": {
-                "delays": [
-                    10
-                ],
-                "leechAction": 0,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxLife": 120,
-            "maxTaken": 60,
-            "name": "STEP 1 Prep",
-            "new": {
-                "LBEIMinAfter": 4,
-                "LBEIMinBefore": 4,
-                "LBGIMinAfter": 1,
-                "LBGIMinBefore": 1,
-                "bury": false,
-                "delays": [
-                    1,
-                    10
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    7
-                ],
-                "order": 0,
-                "perDay": 400,
-                "separate": true
-            },
-            "recover": 5,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "fuzz": 0.05,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 120,
-                "minSpace": 1,
-                "perDay": 9999
-            },
-            "timer": 1
         }
     ],
     "desc": "",
@@ -4194,7 +4174,7 @@
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Cloze-AnKingMaster(First_Aid_Color_Match)",
+            "name": "Cloze-AnKingMaster(First_Aid_Color_Match)-8f6e2",
             "sortf": 0,
             "tags": [
                 "Hemodynamics1"
