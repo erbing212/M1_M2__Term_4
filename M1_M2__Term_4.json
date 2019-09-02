@@ -39,7 +39,11 @@
                 "Screen Shot 2019-08-29 at 9.27.37 AM.png",
                 "Screen Shot 2019-08-29 at 9.36.18 AM.png",
                 "Screen Shot 2019-08-30 at 9.15.39 AM.png",
+                "Screen Shot 2019-09-02 at 9.16.43 AM.png",
+                "Screen Shot 2019-09-02 at 9.26.24 AM.png",
+                "Screen Shot 2019-09-02 at 9.34.08 AM.png",
                 "The-principle-of-immunocytochemistry-for-Ki-67-proliferation-marker-adapted-from.png",
+                "WhatsApp Image 2019-09-02 at 8.30.44 AM.jpeg",
                 "a-Showing-exophytic-ulcerative-tumor-14-9-cm-2-in-the-back-of-the-hand-arm-b.png",
                 "paste-04d5cf60d11cdd6ed7659af238aa53ab2b209d09.jpg",
                 "paste-0d062346a32ffa2d5258b8789ac378e5957ff313.jpg",
@@ -68,10 +72,12 @@
                 "paste-27698244092317.jpg",
                 "paste-30061e4cf53683d7b0b26ef871b2fedbc81dd3dc.jpg",
                 "paste-30803505446913.jpg",
+                "paste-3091df40619cd8b1b83b9ba5a56b917fcc2032dd.jpg",
                 "paste-32800b48d2bde513b64ec10d71c2d62d1e31cb7d.jpg",
                 "paste-3912715207153.jpg",
                 "paste-397821345792562.jpg",
                 "paste-3fa10c8c312b4ce1dd13bd95301482f91377d8e1.jpg",
+                "paste-40d8240fdedaa7ea5e6814ed43672933d5f718cf.jpg",
                 "paste-415593920463326.jpg",
                 "paste-4354710bdaa8d50aed7453b4f391c7732ad85efb.jpg",
                 "paste-45510e30a8da8757efde60ab0a3748d3af735a94.jpg",
@@ -94,6 +100,7 @@
                 "paste-8031108ce23fc7eca03248b1aa4a5dadd96945af.jpg",
                 "paste-805a348005314d4b823421f43b185caec53b1dc6.jpg",
                 "paste-80628474ce0b338d8b2613869b16925755042705.jpg",
+                "paste-85e63198427ad399126a1183df46903987e5e78e.jpg",
                 "paste-905648b4e7154ddb7ab98dcdb6e300c7fe67e7b5.jpg",
                 "paste-90a7b2a801b2724d3a5ba27fa10ba8da6648cd4b.jpg",
                 "paste-9969b5e92be11c1577b275bc1cb8a1685bc5c335.jpg",
@@ -113,8 +120,10 @@
                 "paste-c01cb44379bdc669de9bcdc55b673be1cc021a1e.jpg",
                 "paste-c05b5d568044eca64323337c5492209f1fcce421.jpg",
                 "paste-c6411c7079e5985d82989927b3f38a09e93d6b4d.jpg",
+                "paste-cbf4e0279f7daa69ee2f5f751daa66c996333a4d.jpg",
                 "paste-cfd39f272c62e1a564de3ffbc6684736e7f2bcc9.jpg",
                 "paste-d1b77dce75336b399b7571c949d1d1fce0378ee9.jpg",
+                "paste-d3abacdf67d8ecd8b59ca21c6c1b94d0f972b578.jpg",
                 "paste-d7ae6d6da6a1b7c296ab933f8f95ce47a0394217.jpg",
                 "paste-d7f5cbce30bfe5afecb69aa993715a343239cebd.jpg",
                 "paste-d7fa3327f20becf43311f239c9b0878356210c6f.jpg",
@@ -2233,6 +2242,7 @@
                     "guid": "hkZF7i2_5!",
                     "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
                     "tags": [
+                        "GzE-Pathology::Neoplasia",
                         "Term4::week3::pharmacology::lecture21",
                         "^Banki"
                     ]
@@ -2417,6 +2427,7 @@
                     "guid": "u`%:SKt{MJ",
                     "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
                     "tags": [
+                        "GzE-Pathology::Neoplasia",
                         "Term4::week3::pathology::lecture22",
                         "^Banki"
                     ]
@@ -2694,6 +2705,7 @@
                     "guid": "v^y5twAuvK",
                     "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
                     "tags": [
+                        "GzE-Pathology::Neoplasia",
                         "Term4::week3::pharmacology::lecture25",
                         "^Banki"
                     ]
@@ -3220,7 +3232,7 @@
                     ],
                     "flags": 0,
                     "guid": "z#)1:R-<ME",
-                    "note_model_uuid": "d6343e1a-cc26-11e9-b500-8c8590d022f5",
+                    "note_model_uuid": "acb98e58-c098-11e9-81dc-acde48001122",
                     "tags": [
                         "Term4::week3::pharmacology::lecture25",
                         "^Kashmoney"
@@ -3269,6 +3281,7 @@
                     "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
                     "tags": [
                         "Term4::week4::hemodynamics",
+                        "Term4::week4::pathology::lecture29",
                         "^Kashmoney"
                     ]
                 },
@@ -3292,6 +3305,7 @@
                     "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
                     "tags": [
                         "Term4::week4::hemodynamics",
+                        "Term4::week4::pathology::lecture29",
                         "^Kashmoney"
                     ]
                 },
@@ -3299,7 +3313,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        " <div> <div> <div><div>{{c1::Capillary hydrostatic}} and {{c1::osmotic forces}}&nbsp;are normally balanced so there is <b>little net movement </b>of fluid into the interstitium.&nbsp;</div> </div> </div> </div>",
+                        " <div> <div> <div><div>{{c1::Capillary hydrostatic}} and {{c1::osmotic forces}}&nbsp;are <i>normally</i> balanced so there is <b>little net movement </b>of fluid into the interstitium.&nbsp;</div> </div> </div> </div>",
                         "",
                         "",
                         "",
@@ -3315,6 +3329,7 @@
                     "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
                     "tags": [
                         "Term4::week4::hemodynamics",
+                        "Term4::week4::pathology::lecture29",
                         "^Kashmoney"
                     ]
                 },
@@ -3322,7 +3337,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        " <div> <div> <div> <div><div> <div> <div> <div> <div>Disorders that <b>impair venous return</b> will result in an {{c1::increase::increase or decrease}} of&nbsp;<u>hydrostatic pressure</u>&nbsp;</div> </div> </div> </div></div></div> </div> </div> </div>",
+                        " <div> <div> <div> <div><div> <div> <div> <div> <div>Disorders that <b>impair venous return</b> will result in an {{c1::increase::increase/decrease}} of&nbsp;<u>hydrostatic pressure</u>&nbsp;</div> </div> </div> </div></div></div> </div> </div> </div>",
                         "",
                         "<img src=\"paste-e37074e0ccd50d75919acb5c0070c6176b1d8b88.jpg\"><br>",
                         "<img src=\"paste-c05b5d568044eca64323337c5492209f1fcce421.jpg\"><br>",
@@ -3338,6 +3353,7 @@
                     "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
                     "tags": [
                         "Term4::week4::hemodynamics",
+                        "Term4::week4::pathology::lecture29",
                         "^Kashmoney"
                     ]
                 },
@@ -3345,7 +3361,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "<div> <div> <div> <div> <div>What is the effect of <u>reduced cardiac output</u> have on <b>capillary hydrostatic pressure</b>?</div><div><br></div><div>{{c1::<b>Increased</b>::increase or decrease}}&nbsp;</div> </div> </div> </div></div>",
+                        "<div> <div> <div> <div> <div>What is the effect of <u>reduced cardiac output</u> have on <b>capillary hydrostatic pressure</b>?</div><div><br></div><div>{{c1::<b>Increased</b>::Increased or Decreased}}&nbsp;</div> </div> </div> </div></div>",
                         "",
                         "<img src=\"paste-6bd03c72be2029046b6ebb6a2a666553bdcd0cf0.jpg\"><br>",
                         "",
@@ -3361,6 +3377,7 @@
                     "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
                     "tags": [
                         "Term4::week4::hemodynamics",
+                        "Term4::week4::pathology::lecture29",
                         "^Kashmoney"
                     ]
                 },
@@ -3384,6 +3401,7 @@
                     "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
                     "tags": [
                         "Term4::week4::hemodynamics",
+                        "Term4::week4::pathology::lecture29",
                         "^Kashmoney"
                     ]
                 },
@@ -3407,6 +3425,7 @@
                     "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
                     "tags": [
                         "Term4::week4::hemodynamics",
+                        "Term4::week4::pathology::lecture29",
                         "^Kashmoney"
                     ]
                 },
@@ -3430,6 +3449,7 @@
                     "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
                     "tags": [
                         "Term4::week4::hemodynamics",
+                        "Term4::week4::pathology::lecture29",
                         "^Kashmoney"
                     ]
                 },
@@ -3453,6 +3473,7 @@
                     "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
                     "tags": [
                         "Term4::week4::hemodynamics",
+                        "Term4::week4::pathology::lecture29",
                         "^Kashmoney"
                     ]
                 },
@@ -3476,7 +3497,284 @@
                     "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
                     "tags": [
                         "Term4::week4::hemodynamics",
+                        "Term4::week4::pathology::lecture29",
                         "^Kashmoney"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Is <b>edema</b> due to <u>lymphatic obstruction</u> pitting or non-pitting?<div><br></div><div>{{c1::Non-pitting}}<br></div>",
+                        "",
+                        "<img src=\"paste-3091df40619cd8b1b83b9ba5a56b917fcc2032dd.jpg\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "hPh@;<&&-k",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week4::pathology::lecture29",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "In <b>malnutrition</b>, edema is caused due to {{c1::decreased::increased or decreased}} plasma {{c2::oncotic::oncotic or hyrodstatic}} pressure",
+                        "",
+                        "<img src=\"WhatsApp Image 2019-09-02 at 8.30.44 AM.jpeg\"><br>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "l-o7`DX6SD",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week4::pathology::lecture29",
+                        "^Kashmoney"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<b>Cerebral edema</b> can be due to {{c1::vasogenic}} mechanisms, which occur due to disruption of the blood brain barrier",
+                        "",
+                        " <div> <div> <div> <div><div><div><div><b>Categories</b></div></div></div><div><div><div><br></div><div>Cerebral Edema</div></div></div><div><div><div>• Vasogenic edema<br>&nbsp; &nbsp; &nbsp; • Due to disruption of blood brain barrier – interstitial edema&nbsp;</div><div>&nbsp; &nbsp; &nbsp; • Causes: infections, trauma, neoplasms</div><div>• Cytotoxic edema<br>&nbsp; &nbsp; &nbsp;• Intracellular edema due to cell injury (gray matter)&nbsp;</div><div>&nbsp; &nbsp; &nbsp;• Causes: hypoxia</div><div><br></div><div>Clinical:<br>• Non-localizing: headache, papilledema, nausea, vomiting<br>• Localizing: specific motor or sensory abnormalities due to a specific part of brain</div><div>affected&nbsp;</div></div></div></div></div></div><div><div> </div> </div> </div>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "mGGJO!R~{v",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week4::pathology::lecture29",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<b>Cytotoxic cerebral edema</b> is due to&nbsp;{{c1::cellular}} injury",
+                        "",
+                        "<div> <div> <div> <div> <div><b>Categories </b></div> </div> </div> <div> <div> <div><br></div><div><u>Cerebral Edema </u></div> </div> </div> <div> <div> <div>• Vasogenic edema<br>&nbsp; &nbsp; &nbsp; • Due to disruption of blood brain barrier – interstitial edema&nbsp;</div><div>&nbsp; &nbsp; &nbsp; • Causes: infections, trauma, neoplasms </div> <div>• Cytotoxic edema<br>&nbsp; &nbsp; &nbsp;• Intracellular edema due to cell injury (gray matter)&nbsp;</div><div>&nbsp; &nbsp; &nbsp;• Causes: hypoxia </div> <div><br></div><div>Clinical:<br> • Non-localizing: headache, papilledema, nausea, vomiting<br> • Localizing: specific motor or sensory abnormalities due to a specific part of brain </div> <div>affected&nbsp;</div> </div> </div> </div></div>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "P*f[55m7u(",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week4::pathology::lecture29",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What is the <u>cause</u> of <b>cytotoxic cerebral edema</b>?<div><br></div><div>{{c1::Hypoxia}}<br></div>",
+                        "ex: stroke",
+                        "<div> <div> <div> <div> <div><b>Categories </b></div> </div> </div> <div> <div> <div><br></div><div>Cerebral Edema </div> </div> </div> <div> <div> <div>• Vasogenic edema<br>&nbsp; &nbsp; &nbsp; • Due to disruption of blood brain barrier – interstitial edema&nbsp;</div><div>&nbsp; &nbsp; &nbsp; • Causes: infections, trauma, neoplasms </div> <div>• Cytotoxic edema<br>&nbsp; &nbsp; &nbsp;• Intracellular edema due to cell injury (gray matter)&nbsp;</div><div>&nbsp; &nbsp; &nbsp;• Causes: hypoxia </div> <div><br></div><div>Clinical:<br> • Non-localizing: headache, papilledema, nausea, vomiting<br> • Localizing: specific motor or sensory abnormalities due to a specific part of brain </div> <div>affected&nbsp;</div> </div> </div> </div></div>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "l<|+_Hv[3$",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week4::pathology::lecture29",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<b>Burns</b> can result in <u>edema</u> due to increased&nbsp;{{c1::vascular permeability}}",
+                        "",
+                        "<img src=\"paste-d3abacdf67d8ecd8b59ca21c6c1b94d0f972b578.jpg\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "P)8!715GE9",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week4::pathology::lecture29",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "The <u>virulence</u> factor&nbsp;{{c1::Panton-Valentine Leukocidin}} is creates a pore to <u>lyse</u> human <b>neutrophils</b>",
+                        "",
+                        "<img src=\"Screen Shot 2019-09-02 at 9.16.43 AM.png\"><br>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "D-r4O>eQ4#",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week4::microbiology::lecture30",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What is the <u>specific</u> <b>target</b> of <i>S. aureus</i> that results in scalded skin syndrome (SSS)?<div><br></div><div>{{c1::Desmoglein-1}}<br></div>",
+                        "",
+                        "<img src=\"Screen Shot 2019-09-02 at 9.26.24 AM.png\"><br>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "w,R=cEFpQM",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week4::microbiology::lecture30",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What <u>toxin</u> is found specifically in <b>community associated MRSA?</b><div><br></div><div>{{c1::PVL Toxin}}<br></div>",
+                        "",
+                        "<img src=\"Screen Shot 2019-09-02 at 9.34.08 AM.png\"><br>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "o-V/];fM#:",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week4::microbiology::lecture30",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<b>Bacterial</b> <u>folliculitis</u> is most commonly caused by which bacteria?<div><br></div><div>{{c1::<i>S. aureus</i>}}<br></div>",
+                        "",
+                        "<img src=\"paste-40d8240fdedaa7ea5e6814ed43672933d5f718cf.jpg\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "sliop9XO9;",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week4::microbiology::lecture30",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<b>Bacterial</b> <b>folliculitis</b> will present {{c1::thin}} walled papules or pustules with mild to severe pain",
+                        "A <u>central hair</u> will also be present",
+                        "<img src=\"paste-cbf4e0279f7daa69ee2f5f751daa66c996333a4d.jpg\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "b/AYYz3a&_",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week4::microbiology::lecture30",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<b>Chromoblastomycosis</b> can be <u>caused</u> by fungi such as {{c1::Fonsecaea}} {{c2::Cladophialophora}} or {{c3::Exophiala}}&nbsp;",
+                        "",
+                        "<img src=\"paste-85e63198427ad399126a1183df46903987e5e78e.jpg\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "k6edppr07{",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week4::microbiology::lecture30",
+                        "^Banki"
                     ]
                 }
             ]
@@ -3727,7 +4025,7 @@
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Cloze-Zanki w/references(1)-f188f",
+            "name": "Cloze-Zanki w/references(1)",
             "sortf": 0,
             "tags": [
                 "Term4::week2::IMCQ",
@@ -3852,7 +4150,7 @@
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
-            "css": "/* Profile: Ultrazanki FA || Satus: Saved */ \n\nhtml { overflow: scroll; overflow-x: hidden; }\n/* CONTAINER FOR YOUR CARDS */\n#kard {\n    padding: 0px 0px;\n    max-width: 950px; /* CHANGE CARD SIZE HERE */\n    margin: 0 auto; /* CENTERS THE CARD IN THE MIDDLE OF THE WINDOW */\n    word-wrap: break-word; /* BREAKS UP LONG WORKS */\n}\n\n\n/* APPLIES TO THE WHOLE CARD */\n.card {\n    font-family: Vernada;\n    font-size: 28px; /* FONT SIZE */\n    text-align: center; /* ALIGN TEXT */\n    color: black; /* FONT COLOR */\n    line-height: 1.2em;\n    background-color: #FEFCF9; /* BACKGROUND COLOR Orange FDFBF6 blue/white FAFAFA  */\n}\n/* STYLE FOR CLOZE DELETIONS */\n.cloze, .cloze b, .cloze u, .cloze i { font-weight: bold; color: #993330 !important;}\n\n.night_mode .cloze  { font-weight: bold; color: MediumSeaGreen !important;}\n.night_mode .cloze b { font-weight: bold; color: MediumSeaGreen !important;}\n.night_mode .cloze u { font-weight: bold; color: MediumSeaGreen !important;}\n.night_mode .cloze i { font-weight: bold; color: MediumSeaGreen !important;}\n\n\n/* STYLE FOR EXTRA PORTION ON BACK OF CARD */\n#extra { font-size: 26px; color: black; font-style: italic;  }\n#extra i { font-size: 26px; color: black; font-style: italic;  }\n\n.night_mode #extra { font-size: 26px; color: white !important; font-style: italic; }\n.night_mode #extra i { font-size: 26px; color: white !important; font-style: italic; }\n\n/* STYLE TAGS TO APPEAR WHEN HOVERING OVER TOP OF CARD */\n.tags { \n    color: #A6ABB9;\n    opacity: 0;\n    font-size: 10px; \n    width: 100%;\n    text-align: center;\n    text-transform: uppercase; \n    position: fixed; \n    padding: 0; \n    top:0;  \n    right: 0;}\n.tags:hover { opacity: 1; position: fixed;}\n\n\n/* IMAGE STYLE */\nimg { display: block; max-width: 100%; max-height: 650px; margin-center: auto; margin: 10px auto 0 auto;\nbox-shadow: 3px 6px 15px 1px rgba(0, 0, 0, 0.2), 3px 1px 20px 1px rgba(0, 0, 0, 0.19)\n}\n\nimg:active { \n\ttransform: scale(1.3); /* (130% zoom - Note: if the zoom is too large, it will go outside of the viewport) */\n}\n\ntr {font-size: 12px; }\n\n\n/* COLOR ACCENTS FOR BOLD-ITALICS-UNDERLINE */\nb {color: #306299; !important; } /* BOLD STYLE */\nu { text-decoration: none; color: #D18835 ;} /* UNDERLINE STYLE */\ni  { color: #309699; } /* ITALICS STYLE */\na { color: LightGray !important; text-decoration: none; font-size: 10px; font-style: normal; } /* LINK STYLE */\n\n.night_mode b { color: #C695C6; !important; } /* BOLD STYLE */\n.night_mode u { text-decoration: none !important; color: #5EB3B3; !important;} /* UNDERLINE STYLE */\n.night_mode i  { color: IndianRed !important; } /* ITALICS STYLE */\n.night_mode a { color: LightGray !important; text-decoration: none; font-size: 10px; font-style: normal; }\n\n\n\n.hint {  \nfont-family: Vernada;\n    font-size: 22px; /* FONT SIZE */\n    text-align: center; /* ALIGN TEXT */\n    color: black; /* FONT COLOR */\n}\n.night_mode .hint {  \nfont-family: Vernada;\n    font-size: 22px; /* FONT SIZE */\n    text-align: center; /* ALIGN TEXT */\n    color: white; /* FONT COLOR */\n}\n/* ADJUSTMENT FOR MOBILE DEVICES */\n.mobile .card { color: black; background-color: #FDFBF6; } \n.mobile .tags:hover { opacity: 1; position: relative;}\n.mobile .card img:active { width: inherit; max-height: none;}\n",
+            "css": "/* Profile: Ultrazanki FA || Satus: Saved */ \n\n\n\nhtml { overflow: scroll; overflow-x: hidden; }\n/* CONTAINER FOR YOUR CARDS */\n#kard {\n    padding: 0px 0px;\n    max-width: 950px; /* CHANGE CARD SIZE HERE */\n    margin: 0 auto; /* CENTERS THE CARD IN THE MIDDLE OF THE WINDOW */\n    word-wrap: break-word; /* BREAKS UP LONG WORKS */\n}\n\n\n/* APPLIES TO THE WHOLE CARD */\n.card {\n    font-family: Vernada;\n    font-size: 28px; /* FONT SIZE */\n    text-align: center; /* ALIGN TEXT */\n    color: black; /* FONT COLOR */\n    line-height: 1.2em;\n    background-color: #FEFCF9; /* BACKGROUND COLOR Orange FDFBF6 blue/white FAFAFA  */\n}\n\n.list {\n    font-family: Vernada;\n    font-size: 28px; /* FONT SIZE */\n    text-align: left; /* ALIGN TEXT */\n    margin-center: auto; \n    color: black; /* FONT COLOR */\n    line-height: 1.2em;\n    background-color: #FEFCF9; /* BACKGROUND COLOR Orange FDFBF6 blue/white FAFAFA  */\n}\n\n/* STYLE FOR CLOZE DELETIONS */\n.cloze, .cloze b, .cloze u, .cloze i { font-weight: bold; color: #993330 !important;}\n\n.night_mode .cloze  { font-weight: bold; color: MediumSeaGreen !important;}\n.night_mode .cloze b { font-weight: bold; color: MediumSeaGreen !important;}\n.night_mode .cloze u { font-weight: bold; color: MediumSeaGreen !important;}\n.night_mode .cloze i { font-weight: bold; color: MediumSeaGreen !important;}\n\n\n/* STYLE FOR EXTRA PORTION ON BACK OF CARD */\n#extra { font-size: 26px; color: black; font-style: italic;  }\n#extra i { font-size: 26px; color: black; font-style: italic;  }\n\n.night_mode #extra { font-size: 26px; color: white !important; font-style: italic; }\n.night_mode #extra i { font-size: 26px; color: white !important; font-style: italic; }\n\n\n/* STYLE TAGS TO APPEAR WHEN HOVERING OVER TOP OF CARD */\n.tags { \n    color: #A6ABB9;\n    opacity: 0;\n    font-size: 10px; \n    width: 100%;\n    text-align: left;\n    text-transform: uppercase; \n    position: fixed; \n    padding: 0; \n    bottom:0;  \n    right: 0;}\n.tags:hover { opacity: 1; position: fixed;}\n\n\n/* IMAGE STYLE */\nimg { display: block; max-width: 950px; max-height: 600px; margin-center: auto; margin: 10px auto 0 auto;\nbox-shadow: 3px 6px 15px 1px rgba(0, 0, 0, 0.2), 3px 1px 20px 1px rgba(0, 0, 0, 0.19)\n}\n\nimg:active { \n\ttransform: scale(1.3); /* (130% zoom - Note: if the zoom is too large, it will go outside of the viewport) */\n}\n\n.hint img { display: block; max-width: 925px; max-height: 100%; margin-center: auto; margin: 10px auto 0 auto;\nbox-shadow: 3px 6px 15px 1px rgba(0, 0, 0, 0.2), 3px 1px 20px 1px rgba(0, 0, 0, 0.19)\n}\n\ntr {font-size: 12px; }\n\n\n/* COLOR ACCENTS FOR BOLD-ITALICS-UNDERLINE */\nb {color: #306299; !important; } /* BOLD STYLE */\nu { text-decoration: none; color: #D18835 ;} /* UNDERLINE STYLE */\ni  { color: #309699; } /* ITALICS STYLE */\na { color: LightGray !important; text-decoration: none; font-size: 10px; font-style: normal; } /* LINK STYLE */\n\n.night_mode b { color: #C695C6; !important; } /* BOLD STYLE */\n.night_mode u { text-decoration: none !important; color: #5EB3B3; !important;} /* UNDERLINE STYLE */\n.night_mode i  { color: IndianRed !important; } /* ITALICS STYLE */\n.night_mode a { color: LightGray !important; text-decoration: none; font-size: 10px; font-style: normal; }\n\n.note {\n\tmax-width: 800px;\n\tmargin: auto;\n\tfont-family: Vernada;\n\tfont-size: 22px; \n\ttext-align: left; \n\tcolor: black; \n}\n.note img { display: block; max-width: 925px; max-height: 100%; margin-center: auto; margin: 10px auto 0 auto;\nbox-shadow: 3px 6px 15px 1px rgba(0, 0, 0, 0.2), 3px 1px 20px 1px rgba(0, 0, 0, 0.19)\n}\n\n.night_mode .note {\n\tmax-width: 600px;\n\tfont-family: Vernada;\n\tfont-size: 22px; /* FONT SIZE */\n\ttext-align: left; /* ALIGN TEXT */\n\tcolor: white; \n}\n\n.hint {  \nfont-family: Vernada;\n    font-size: 22px; /* FONT SIZE */\n    text-align: center; /* ALIGN TEXT */\n    color: black; /* FONT COLOR */\n}\n.night_mode .hint {  \nfont-family: Vernada;\n    font-size: 22px; /* FONT SIZE */\n    text-align: center; /* ALIGN TEXT */\n    color: white; /* FONT COLOR */\n}\n/* ADJUSTMENT FOR MOBILE DEVICES */\n.mobile .card { color: black; background-color: #FDFBF6; } \n.mobile .tags:hover { opacity: 1; position: relative;}\n.mobile .card img:active { width: inherit; max-height: none;}\n.mobile .card img { max-width: 100%; max-height: 650px;}",
             "flds": [
                 {
                     "font": "Helvetica",
@@ -3950,11 +4248,11 @@
             "name": "Cloze-GzE_Pathology",
             "sortf": 0,
             "tags": [
-                "Hemodynamics1"
+                "^^Random"
             ],
             "tmpls": [
                 {
-                    "afmt": " <div id=\"kard\">  \n {{cloze:Text}}\n    <div>&nbsp;</div>\n    <div id='extra'>{{Extra}}</div>\n</div>\n<br>\n\n{{#First Aid}}\n <a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint1').style.display='inline-block';return false\";> <font color=\"#993330\">First Aid</a></font><div id=\"hint1\" class=hint style=\"display: none\">{{First Aid}}</div>\n{{/First Aid}}\n\n{{#Boards and Beyond}}\n<a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint2').style.display='';return false\";> <font color=\"#306299\">B&B</a></font><div id=\"hint2\" class=hint style=\"display: none\">{{Boards and Beyond}}</div>\n{{/Boards and Beyond}}\n\n{{#Pathoma}}\n<a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint3').style.display='';return false\";> <font color=\"#008800\">Pathoma</a></font><div id=\"hint3\" class=hint style=\"display: none\">{{Pathoma}}</div>\n{{/Pathoma}}\n\n\n{{#Sketchy}}\n<a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint4').style.display='';return false\";> <font color=\"#660033\">Sketchy</a></font><div id=\"hint4\" class=hint style=\"display: none\">{{Sketchy}}</div>\n{{/Sketchy}}\n\n{{#Robbins}}\n <a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint5').style.display='inline-block';return false\";> <font color=\"#1144ff\">Robbins</a></font><div id=\"hint5\" class=hint style=\"display: none\">{{Robbins}}</div>\n{{/Robbins}}\n\n{{#Gs Get Degrees}}\n<a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint6').style.display='';return false\";> <font color=\"#996600\">Gs Get Degrees</a></font><div id=\"hint6\" class=hint style=\"display: none\">{{Gs Get Degrees}}</div>\n{{/Gs Get Degrees}}\n\n{{#Additional Resources}}\n<a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint7').style.display='';return false\";> <font color=\"#9900CC\">Additional Resources</a></font><div id=\"hint7\" class=hint style=\"display: none\">{{Additional Resources}}</div>\n{{/Additional Resources}}\n\n{{#Lecture Notes}}\n<a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint8').style.display='';return false\";> <font color=\"#D56868\">Lecture Notes</a></font><div id=\"hint8\" class=hint style=\"display: none\">{{Lecture Notes}}</div>\n{{/Lecture Notes}}\n<br>\n\n{{#Tags}} <div class \"tags\" {{Tags}} </div>{{/Tags}}",
+                    "afmt": " <div id=\"kard\">  \n {{cloze:Text}}\n    <div>&nbsp;</div>\n    <div id='extra'>{{Extra}}</div>\n</div>\n<br>\n\n{{#First Aid}}\n <a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint1').style.display='inline-block';return false\";> <font color=\"#993330\">First Aid</a></font><div id=\"hint1\" class=hint style=\"display: none\">{{First Aid}}</div>\n{{/First Aid}}\n\n{{#Boards and Beyond}}\n<a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint2').style.display='';return false\";> <font color=\"#306299\">B&B</a></font><div id=\"hint2\" class=hint style=\"display: none\">{{Boards and Beyond}}</div>\n{{/Boards and Beyond}}\n\n{{#Pathoma}}\n<a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint3').style.display='';return false\";> <font color=\"#008800\">Pathoma</a></font><div id=\"hint3\" class=hint style=\"display: none\">{{Pathoma}}</div>\n{{/Pathoma}}\n\n\n{{#Sketchy}}\n<a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint4').style.display='';return false\";> <font color=\"#660033\">Sketchy</a></font><div id=\"hint4\" class=hint style=\"display: none\">{{Sketchy}}</div>\n{{/Sketchy}}\n\n{{#Robbins}}\n <a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint5').style.display='inline-block';return false\";> <font color=\"#1144ff\">Robbins</a></font><div id=\"hint5\" class=hint style=\"display: none\">{{Robbins}}</div>\n{{/Robbins}}\n\n{{#Gs Get Degrees}}\n<a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint6').style.display='';return false\";> <font color=\"#996600\">Gs Get Degrees</a></font><div id=\"hint6\" class=hint style=\"display: none\">{{Gs Get Degrees}}</div>\n{{/Gs Get Degrees}}\n\n{{#Additional Resources}}\n<a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint7').style.display='';return false\";> <font color=\"#9900CC\">Additional Resources</a></font><div id=\"hint7\" class=hint style=\"display: none\">{{Additional Resources}}</div>\n{{/Additional Resources}}\n\n{{#Lecture Notes}}\n<a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint8').style.display='';return false\";> <font color=\"#D56868\">Lecture Notes</a></font><div id=\"hint8\" class=note style=\"display: none\">{{Lecture Notes}}</div>\n{{/Lecture Notes}}\n<br>\n\n{{#Tags}} <div class \"tags\" {{Tags}} </div>{{/Tags}}",
                     "bafmt": "",
                     "bfont": "Arial",
                     "bqfmt": "",
@@ -3963,114 +4261,6 @@
                     "name": "Cloze",
                     "ord": 0,
                     "qfmt": "<div id=\"kard\">\n{{cloze:Text}}\n<br>\n<br>\n"
-                }
-            ],
-            "type": 1,
-            "vers": []
-        },
-        {
-            "__type__": "NoteModel",
-            "crowdanki_uuid": "d6343e1a-cc26-11e9-b500-8c8590d022f5",
-            "css": "html { overflow: scroll; overflow-x: hidden; }\n/* CONTAINER FOR YOUR CARDS */\n#kard {\n    padding: 0px 0px;\n    max-width: 1000px; /* CHANGE CARD SIZE HERE */\n    margin: 0 auto; /* CENTERS THE CARD IN THE MIDDLE OF THE WINDOW */\n    word-wrap: break-word; /* BREAKS UP LONG WORKS */\n}\n\n\n/* APPLIES TO THE WHOLE CARD */\n.card {\n    font-family: Vernada;\n    font-size: 28px; /* FONT SIZE */\n    text-align: center; /* ALIGN TEXT */\n    color: black; /* FONT COLOR */\n    line-height: 1.2em;\n    background-color: #FDFBF6; /* BACKGROUND COLOR */\n}\n/* STYLE FOR CLOZE DELETIONS */\n.cloze, .cloze b, .cloze u, .cloze i { font-weight: bold; color: #993330 !important;}\n\n\n/* STYLE FOR EXTRA PORTION ON BACK OF CARD */\n#extra, #extra i { font-size: 26px; color: black; font-style: italic; }\n\n\n/* STYLE TAGS TO APPEAR WHEN HOVERING OVER TOP OF CARD */\n.tags { \n    color: #A6ABB9;\n    opacity: 0;\n    font-size: 10px; \n    width: 100%;\n    text-align: center;\n    text-transform: uppercase; \n    position: fixed; \n    padding: 0; \n    top:0;  \n    right: 0;}\n.tags:hover { opacity: 1; position: fixed;}\n\n\n/* IMAGE STYLE */\nimg { display: block; max-width: 100%; max-height: 700px; margin-center: auto; margin: 0 auto 0 auto;}\nimg:active { width: 100%; height: 100%; }\ntr {font-size: 12px; }\n\n\n/* COLOR ACCENTS FOR BOLD-ITALICS-UNDERLINE */\nb {color: #306299; !important; } /* BOLD STYLE */\nu { text-decoration: none; color: #D18835 ;} /* UNDERLINE STYLE */\ni  { color: #309699; } /* ITALICS STYLE */\na { color: LightGray !important; text-decoration: none; font-size: 10px; font-style: normal; } /* LINK STYLE */\n\n.hint {  \nfont-family: Vernada;\n    font-size: 20px; /* FONT SIZE */\n    text-align: center; /* ALIGN TEXT */\n    color: black; /* FONT COLOR */\n\n}\n/* ADJUSTMENT FOR MOBILE DEVICES */\n.mobile .card { color: black; background-color: #FDFBF6; } \n.mobile .tags:hover { opacity: 1; position: relative;}\n.mobile .card img:active { width: inherit; max-height: none;}",
-            "flds": [
-                {
-                    "font": "Helvetica",
-                    "media": [],
-                    "name": "Text",
-                    "ord": 0,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Helvetica",
-                    "media": [],
-                    "name": "Extra",
-                    "ord": 1,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "First Aid",
-                    "ord": 2,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Netters",
-                    "ord": 3,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Robbins",
-                    "ord": 4,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Atlas",
-                    "ord": 5,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Step Up to Medicine",
-                    "ord": 6,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "UWorld",
-                    "ord": 7,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Other Reference",
-                    "ord": 8,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Cloze-Zanki w/references(1)",
-            "sortf": 0,
-            "tags": [],
-            "tmpls": [
-                {
-                    "afmt": "<div id=\"kard\">\n    <div class=\"tags\" id='tags'>{{Tags}}</div>\n    {{cloze:Text}}\n    <div>&nbsp;</div>\n    <div id='extra'>{{Extra}}</div>\n</div>\n  \n{{#First Aid}}\n <a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint1').style.display='inline-block';return false\";> <font color=\"#993330\">First Aid</a></font><div id=\"hint1\" class=hint style=\"display: none\">{{First Aid}}</div>\n{{/First Aid}}\n\n{{#Netters}}\n<a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint2').style.display='';return false\";> <font color=\"#306299\">Netters</a></font><div id=\"hint2\" class=hint style=\"display: none\">{{Netters}}</div>\n{{/Netters}}\n\n{{#Robbins}}\n<a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint3').style.display='';return false\";> <font color=\"#008800\">Robbins</a></font><div id=\"hint3\" class=hint style=\"display: none\">{{Robbins}}</div>\n{{/Robbins}}\n\n{{#Atlas}}\n<a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint4').style.display='';return false\";> <font color=\"#996600\">Atlas</a></font><div id=\"hint4\" class=hint style=\"display: none\">{{Atlas}}</div>\n{{/Atlas}}\n\n{{#Step Up to Medicine}}\n<a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint5').style.display='';return false\";> <font color=\"#660033\">SUTM</a></font><div id=\"hint5\" class=hint style=\"display: none\">{{Step Up to Medicine}}</div>\n{{/Step Up to Medicine}}\n\n{{#UWorld}}\n <a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint7').style.display='inline-block';return false\";> <font color=\"#1144ff\">UWorld</a></font><div id=\"hint7\" class=hint style=\"display: none\">{{UWorld}}</div>\n{{/UWorld}}\n\n{{#Other Reference}}\n<a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint6').style.display='';return false\";> <font color=\"#9900CC\">Other</a></font><div id=\"hint6\" class=hint style=\"display: none\">{{Other Reference}}</div>\n{{/Other Reference}}\n\n\n",
-                    "bafmt": "",
-                    "bfont": "Arial",
-                    "bqfmt": "",
-                    "bsize": 12,
-                    "did": null,
-                    "name": "Cloze",
-                    "ord": 0,
-                    "qfmt": "<div id=\"kard\">\n<div class=\"tags\">{{Tags}}</div>\n{{cloze:Text}}\n</div>"
                 }
             ],
             "type": 1,
