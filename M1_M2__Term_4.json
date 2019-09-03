@@ -49,7 +49,6 @@
                 "The-principle-of-immunocytochemistry-for-Ki-67-proliferation-marker-adapted-from.png",
                 "WhatsApp Image 2019-09-02 at 8.30.44 AM.jpeg",
                 "a-Showing-exophytic-ulcerative-tumor-14-9-cm-2-in-the-back-of-the-hand-arm-b.png",
-                "paste-038714cc6b576dde448376c0939dea310f040dd8.jpg",
                 "paste-04d5cf60d11cdd6ed7659af238aa53ab2b209d09.jpg",
                 "paste-0d062346a32ffa2d5258b8789ac378e5957ff313.jpg",
                 "paste-0d6d6086f98aea09467876ce9c8bc181619c6fba.jpg",
@@ -101,6 +100,7 @@
                 "paste-60dd3fb1c7dae6b8dfe95948ec7c7129cfff93cc.jpg",
                 "paste-6764573491611.jpg",
                 "paste-6bd03c72be2029046b6ebb6a2a666553bdcd0cf0.jpg",
+                "paste-6cf99d371361e4d6a43823d465579a7811676d3c.jpg",
                 "paste-6e814accdc59f86de62b8dbc7c93b39b13400f72.jpg",
                 "paste-7084746c09f1f95700731be0c84bc9081914e642.jpg",
                 "paste-708875762271688.jpg",
@@ -153,7 +153,6 @@
                 "paste-ebc0ed032b16289a9249fe0a5b8f76426f34bfd0.jpg",
                 "paste-ede13ae8d33d2ab5c59e3a3a3db124349e0a163a.jpg",
                 "paste-f0edab44f99a40de443b908194d90e7cba5b97a2.jpg",
-                "paste-f5df43454f13d3454240eabb875d0b80ebbcb778.jpg",
                 "paste-f7e62bf0e5eba0b3fd20f016c1377b945b208cae.jpg",
                 "paste-fd53a316dcdbae72a6961f5c3cc9a80112b440f3.jpg",
                 "paste-fffd50cb4cce5b66b05c7ce0b25945f7dc7a9cd6.jpg",
@@ -479,6 +478,22 @@
                         "Term4::Term4Exam1(Tin_Chu)",
                         "Term4::week2::pathology::lecture12",
                         "Term4::week2::pharmacology::lecture12"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What formula can be used to calculate the PEAK concentrations at steady-state (<b>PC<sub>ss</sub></b>)?<div><br /></div><div>{{c1::<img src=\"paste-100227356819457.jpg\" />}}</div>",
+                        "<div><img src=\"paste-100815767339009.jpg\" /></div><div><img src=\"paste-100734162960385.jpg\" /></div><div>Week 2 Lecture 16 - Clinical Pharmacokinetics 2</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "F!-jP~^1%x",
+                    "note_model_uuid": "b008aac6-c098-11e9-a788-acde48001122",
+                    "tags": [
+                        "Term4::Term4Exam1(Tin_Chu)",
+                        "Term4::week2::pharmacology::lecture15",
+                        "^Pimp"
                     ]
                 },
                 {
@@ -2121,51 +2136,6 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "{{c1::<b>Fulvestrant</b>}} is a {{c2::<u>Selective Estrogen Receptor Downregulator(SERD)</u>}} which <b>reduces</b> the number of {{c3::<i>estrogen receptor</i>}} molecules in cells<br>",
-                        "<img src=\"41416_2004_Article_BF6601629_Fig3_HTML.jpg\"><br>",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "flags": 0,
-                    "guid": "Q8tjC-%`|9",
-                    "note_model_uuid": "acb98e58-c098-11e9-81dc-acde48001122",
-                    "tags": [
-                        "Term4::week3::microbiology::lecture26",
-                        "Term4::week3::pharmacology::lecture25",
-                        "^Kashmoney"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "<i>Incidence of hypersensitivity </i>reactions is reduced by premedication with {{c2::<u>dexamethasone</u>}}, {{c2::<u>diphenydramine</u>}} and an {{c2::<u>H2 blocker</u>}} when using&nbsp;{{c1::<b>Paclitaxel</b>}}<br>",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "flags": 0,
-                    "guid": "z#)1:R-<ME",
-                    "note_model_uuid": "acb98e58-c098-11e9-81dc-acde48001122",
-                    "tags": [
-                        "Term4::week3::pharmacology::lecture25",
-                        "^Kashmoney"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
                         "What <b>two</b> hallmarks of cancer are the enabling factors for <u>malignancy</u>?<div><br></div><div>1. {{c1::Genomic Instability}}<br></div><div>2. {{c1::Tumor Promoting inflamation}}<br></div>",
                         "<img src=\"paste-d7f5cbce30bfe5afecb69aa993715a343239cebd.jpg\">",
                         "",
@@ -2904,6 +2874,29 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
+                        "{{c1::<b>Fulvestrant</b>}} is a {{c2::<u>Selective Estrogen Receptor Downregulator(SERD)</u>}} which <b>reduces</b> the number of {{c3::<i>estrogen receptor</i>}} molecules in cells<br>",
+                        "<img src=\"41416_2004_Article_BF6601629_Fig3_HTML.jpg\"><br>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "Q8tjC-%`|9",
+                    "note_model_uuid": "acb98e58-c098-11e9-81dc-acde48001122",
+                    "tags": [
+                        "Term4::week3::microbiology::lecture26",
+                        "Term4::week3::pharmacology::lecture25",
+                        "^Kashmoney"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
                         "<div>What <u>general</u>&nbsp;reproductive form of a fungi is indicated by the slide below?</div><div>{{c1::Microconidia}}<br></div><img src=\"paste-bf40b68bd94e4d7f81714bd2aded7d29014d8eab.jpg\">",
                         "\"Birds on a wire\"",
                         "",
@@ -3309,6 +3302,51 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
+                        "<i>Incidence of hypersensitivity </i>reactions is reduced by premedication with {{c2::<u>dexamethasone</u>}}, {{c2::<u>diphenydramine</u>}} and an {{c2::<u>H2 blocker</u>}} when using&nbsp;{{c1::<b>Paclitaxel</b>}}<br>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "z#)1:R-<ME",
+                    "note_model_uuid": "acb98e58-c098-11e9-81dc-acde48001122",
+                    "tags": [
+                        "Term4::week3::pharmacology::lecture25",
+                        "^Kashmoney"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<b>C-reactive protein (CRP)</b> and <b>erythrocyte sedimentation</b> rate are&nbsp;{{c1::<u>non-specific</u>}} markers for {{c2::<u>inflammation</u>}}",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "dJuXddz?OK",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week3",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
                         " <div> <div> <div> <div><i>Extravascular fluid </i>collection in the <u>pleural cavity </u>is called {{c1::<b>hydrothorax</b>}}&nbsp;&nbsp;<br></div> </div> </div> </div>",
                         "<i>aka </i>pleural effusion&nbsp;<div><br></div><div><img src=\"pleural-effusion.jpg\"><br></div>",
                         "<img src=\"paste-aa5b7d4bfb463b1a9e07e973d0c8f50a2704e943.jpg\"><br>",
@@ -3544,111 +3582,6 @@
                         "Term4::week4::hemodynamics",
                         "Term4::week4::pathology::lecture28",
                         "^Kashmoney"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "What formula can be used to calculate the PEAK concentrations at steady-state (<b>PC<sub>ss</sub></b>)?<div><br /></div><div>{{c1::<img src=\"paste-100227356819457.jpg\" />}}</div>",
-                        "<div><img src=\"paste-100815767339009.jpg\" /></div><div><img src=\"paste-100734162960385.jpg\" /></div><div>Week 2 Lecture 16 - Clinical Pharmacokinetics 2</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "F!-jP~^1%x",
-                    "note_model_uuid": "b008aac6-c098-11e9-a788-acde48001122",
-                    "tags": [
-                        "Term4::Term4Exam1(Tin_Chu)",
-                        "Term4::week2::pharmacology::lecture15",
-                        "^Pimp"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "<b>C-reactive protein (CRP)</b> and <b>erythrocyte sedimentation</b> rate are&nbsp;{{c1::<u>non-specific</u>}} markers for {{c2::<u>inflammation</u>}}",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "flags": 0,
-                    "guid": "dJuXddz?OK",
-                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
-                    "tags": [
-                        "Term4::week3",
-                        "^Banki"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "{{c1::<u>Dematiaceous</u>}} fungi presents as<b> wart-like lesions</b> with crusting<br>abscesses <b>extend along the lymphatics</b><br>",
-                        "",
-                        "<img src=\"paste-bb9158d07abbfef6fda2d4b313a56331a266e19f.jpg\"><br>",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "flags": 0,
-                    "guid": "Fpp:`;xaeS",
-                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
-                    "tags": [
-                        "Microlecture2"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Someone with slowly progressive granulomatous infection is at risk for infection with {{c1::<b>dermatiaceous</b>}} fungi",
-                        "",
-                        "<img src=\"paste-a2342f7d994dd5c026ade9bfdb178a04c1658e1d.jpg\"><br>",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "flags": 0,
-                    "guid": "xBlJ/6FMZr",
-                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
-                    "tags": [
-                        "Microlecture2"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "<div>Following are features of {{c1::<b>dematiaceous</b>}} fungi</div><div><img src=\"paste-f5df43454f13d3454240eabb875d0b80ebbcb778.jpg\"><img src=\"paste-038714cc6b576dde448376c0939dea310f040dd8.jpg\"><br></div>",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "flags": 0,
-                    "guid": "vMOY:A%Bp(",
-                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
-                    "tags": [
-                        "Microlecture2"
                     ]
                 },
                 {
@@ -3960,72 +3893,6 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "{{c1::<b>Erysipelothrix rhusiopathiae</b>}} is a <i>gram + bacillus</i> which can cause a lesion that is <u>violaceous, slightly elevated</u> with <i>well-defined borders</i><div><br></div><div><img src=\"paste-252f39fa5a2f6b08972be89af67eac99c05aece4.jpg\"><br></div>",
-                        "",
-                        "<img src=\"paste-f7e62bf0e5eba0b3fd20f016c1377b945b208cae.jpg\"><br>",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "flags": 0,
-                    "guid": "dK?v}:;&zR",
-                    "note_model_uuid": "1c21add0-ccdc-11e9-a618-8c8590d022f5",
-                    "tags": [
-                        "^Kashmoney"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "{{c1::<b>Erysipelothrix rhusiopathiae</b>}} is most common is people who handle<i>&nbsp;raw meat or fish</i><br>",
-                        "",
-                        "<img src=\"paste-d85e279242802d3272343d7bb7aacc960f3e6f50.jpg\"><br>",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "flags": 0,
-                    "guid": "z1p#i:p5xN",
-                    "note_model_uuid": "1c21add0-ccdc-11e9-a618-8c8590d022f5",
-                    "tags": [
-                        "^Kashmoney"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "{{c1::<b>Localized</b>::localized or generalized}}&nbsp;<b>erysipeloid</b> is most commonly seen in <i>Erysipelothrix rhusiopathiae</i>",
-                        "",
-                        "<img src=\"paste-c1e96dc248a2b863d1ccf6dbe4aa0a37cffe1f80.jpg\"><br>",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "flags": 0,
-                    "guid": "eU30{!2c43",
-                    "note_model_uuid": "1c21add0-ccdc-11e9-a618-8c8590d022f5",
-                    "tags": [
-                        "^Kashmoney"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
                         "What molecule causes <b>extravasated</b> <b>blood</b> to appear <b>blue, green</b>?<div><br></div><div>{{c1::Bilirubin}}<br></div>",
                         "",
                         "",
@@ -4277,6 +4144,141 @@
                         "Robbins::Chapter_04",
                         "Term4::week4::pathology::lecture30",
                         "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::<u>Dematiaceous</u>}} fungi presents as<b> wart-like lesions</b> with crusting<br>abscesses <b>extend along the lymphatics</b><br>",
+                        "",
+                        "<img src=\"paste-bb9158d07abbfef6fda2d4b313a56331a266e19f.jpg\"><br>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "Fpp:`;xaeS",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Microlecture2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<b>Dermatiaceous</b> fungi present as a&nbsp;<i>slowly</i> progressive {{c1::granulomatous}} infection",
+                        "\"Someone with&nbsp;<b>slowly</b>&nbsp;progressive&nbsp;<u>granulomatous</u>&nbsp;<u>infection</u>&nbsp;is at risk for infection with {c1;;<b>dermatiaceous</b>} fungi\" was the old card&nbsp;",
+                        "<img src=\"paste-a2342f7d994dd5c026ade9bfdb178a04c1658e1d.jpg\"><br>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "xBlJ/6FMZr",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week4::microbiology::lecture31",
+                        "^Kashmoney"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div>What type of <b>fungi</b>&nbsp;could cause the condition indicated below?</div><div><br></div><div>{{c1::<b>Dematiaceous</b>}}&nbsp;</div><div><img src=\"paste-6cf99d371361e4d6a43823d465579a7811676d3c.jpg\"><br></div>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "vMOY:A%Bp(",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week4::microbiology::lecture31",
+                        "^Kashmoney"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::<b>Erysipelothrix rhusiopathiae</b>}} is a <i>gram + bacillus</i> which can cause a lesion that is <u>violaceous, slightly elevated</u> with <i>well-defined borders</i><div><br></div><div><img src=\"paste-252f39fa5a2f6b08972be89af67eac99c05aece4.jpg\"><br></div>",
+                        "",
+                        "<img src=\"paste-f7e62bf0e5eba0b3fd20f016c1377b945b208cae.jpg\"><br>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "dK?v}:;&zR",
+                    "note_model_uuid": "1c21add0-ccdc-11e9-a618-8c8590d022f5",
+                    "tags": [
+                        "^Kashmoney"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::<b>Erysipelothrix rhusiopathiae</b>::bug}} is most common in people who handle<i>&nbsp;raw meat or fish</i><br>",
+                        "",
+                        "<img src=\"paste-d85e279242802d3272343d7bb7aacc960f3e6f50.jpg\"><br>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "z1p#i:p5xN",
+                    "note_model_uuid": "1c21add0-ccdc-11e9-a618-8c8590d022f5",
+                    "tags": [
+                        "Term4::week4::microbiology::lecture31",
+                        "^Kashmoney"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::<b>Localized</b>::localized or generalized}}&nbsp;<b>erysipeloid</b> is most commonly seen in <i>Erysipelothrix rhusiopathiae</i>",
+                        "",
+                        "<img src=\"paste-c1e96dc248a2b863d1ccf6dbe4aa0a37cffe1f80.jpg\"><br>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "eU30{!2c43",
+                    "note_model_uuid": "1c21add0-ccdc-11e9-a618-8c8590d022f5",
+                    "tags": [
+                        "^Kashmoney"
                     ]
                 }
             ]
