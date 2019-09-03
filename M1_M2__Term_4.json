@@ -49,6 +49,7 @@
                 "The-principle-of-immunocytochemistry-for-Ki-67-proliferation-marker-adapted-from.png",
                 "WhatsApp Image 2019-09-02 at 8.30.44 AM.jpeg",
                 "a-Showing-exophytic-ulcerative-tumor-14-9-cm-2-in-the-back-of-the-hand-arm-b.png",
+                "paste-038714cc6b576dde448376c0939dea310f040dd8.jpg",
                 "paste-04d5cf60d11cdd6ed7659af238aa53ab2b209d09.jpg",
                 "paste-0d062346a32ffa2d5258b8789ac378e5957ff313.jpg",
                 "paste-0d6d6086f98aea09467876ce9c8bc181619c6fba.jpg",
@@ -74,6 +75,7 @@
                 "paste-1de8354a89b636e756678cd5a0caf6595059f296.jpg",
                 "paste-207824877518851.jpg",
                 "paste-211007448285185.jpg",
+                "paste-252f39fa5a2f6b08972be89af67eac99c05aece4.jpg",
                 "paste-27698244092317.jpg",
                 "paste-28a0f4f257973e1fa3b594bd08b3529e4ecb0e25.jpg",
                 "paste-30061e4cf53683d7b0b26ef871b2fedbc81dd3dc.jpg",
@@ -116,6 +118,7 @@
                 "paste-9969b5e92be11c1577b275bc1cb8a1685bc5c335.jpg",
                 "paste-9a6c75b711b18740e4fe5106cdd188668b308998.jpg",
                 "paste-9ac24769598c17aed1e17b81f4e69b80b08c240d.jpg",
+                "paste-a2342f7d994dd5c026ade9bfdb178a04c1658e1d.jpg",
                 "paste-a2694055843478f5613a0e6ee5d4a52309473220.jpg",
                 "paste-a3b7c8c33baf2db383825a5321df090c12d4d4b7.jpg",
                 "paste-a6659a76b1e09eb11bb3a8032b0e3f2f1e2e1503.jpg",
@@ -125,11 +128,13 @@
                 "paste-ad736b12bcb586bc6f6f0051d0c4c969b3501ca5.jpg",
                 "paste-b37400d93d2b3a0d305401c17795791bfeb199de.jpg",
                 "paste-b7e33c7838e1f65a70963dd682f5d37c096a1017.jpg",
+                "paste-bb9158d07abbfef6fda2d4b313a56331a266e19f.jpg",
                 "paste-bc9a47bcc2439be1e48ab1dd7b91302d135b0f80.jpg",
                 "paste-bf40b68bd94e4d7f81714bd2aded7d29014d8eab.jpg",
                 "paste-bf40db48402f13fdd0b744ef1d6fa9fa0345fa3b.jpg",
                 "paste-c01cb44379bdc669de9bcdc55b673be1cc021a1e.jpg",
                 "paste-c05b5d568044eca64323337c5492209f1fcce421.jpg",
+                "paste-c1e96dc248a2b863d1ccf6dbe4aa0a37cffe1f80.jpg",
                 "paste-c6411c7079e5985d82989927b3f38a09e93d6b4d.jpg",
                 "paste-cbf4e0279f7daa69ee2f5f751daa66c996333a4d.jpg",
                 "paste-cfd39f272c62e1a564de3ffbc6684736e7f2bcc9.jpg",
@@ -138,6 +143,7 @@
                 "paste-d7ae6d6da6a1b7c296ab933f8f95ce47a0394217.jpg",
                 "paste-d7f5cbce30bfe5afecb69aa993715a343239cebd.jpg",
                 "paste-d7fa3327f20becf43311f239c9b0878356210c6f.jpg",
+                "paste-d85e279242802d3272343d7bb7aacc960f3e6f50.jpg",
                 "paste-d8bb3f834b7b9370df9ad8e708a1ce9765cba6db.jpg",
                 "paste-e06ac10296a89dfda746399022ab95c9456652a9.jpg",
                 "paste-e16ed5b1c7cab36ac0c0088528d4106d2d4a9d65.jpg",
@@ -147,6 +153,8 @@
                 "paste-ebc0ed032b16289a9249fe0a5b8f76426f34bfd0.jpg",
                 "paste-ede13ae8d33d2ab5c59e3a3a3db124349e0a163a.jpg",
                 "paste-f0edab44f99a40de443b908194d90e7cba5b97a2.jpg",
+                "paste-f5df43454f13d3454240eabb875d0b80ebbcb778.jpg",
+                "paste-f7e62bf0e5eba0b3fd20f016c1377b945b208cae.jpg",
                 "paste-fd53a316dcdbae72a6961f5c3cc9a80112b440f3.jpg",
                 "paste-fffd50cb4cce5b66b05c7ce0b25945f7dc7a9cd6.jpg",
                 "pleural-effusion.jpg"
@@ -471,22 +479,6 @@
                         "Term4::Term4Exam1(Tin_Chu)",
                         "Term4::week2::pathology::lecture12",
                         "Term4::week2::pharmacology::lecture12"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "What formula can be used to calculate the PEAK concentrations at steady-state (<b>PC<sub>ss</sub></b>)?<div><br /></div><div>{{c1::<img src=\"paste-100227356819457.jpg\" />}}</div>",
-                        "<div><img src=\"paste-100815767339009.jpg\" /></div><div><img src=\"paste-100734162960385.jpg\" /></div><div>Week 2 Lecture 16 - Clinical Pharmacokinetics 2</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "F!-jP~^1%x",
-                    "note_model_uuid": "b008aac6-c098-11e9-a788-acde48001122",
-                    "tags": [
-                        "Term4::Term4Exam1(Tin_Chu)",
-                        "Term4::week2::pharmacology::lecture15",
-                        "^Pimp"
                     ]
                 },
                 {
@@ -2129,6 +2121,51 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
+                        "{{c1::<b>Fulvestrant</b>}} is a {{c2::<u>Selective Estrogen Receptor Downregulator(SERD)</u>}} which <b>reduces</b> the number of {{c3::<i>estrogen receptor</i>}} molecules in cells<br>",
+                        "<img src=\"41416_2004_Article_BF6601629_Fig3_HTML.jpg\"><br>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "Q8tjC-%`|9",
+                    "note_model_uuid": "acb98e58-c098-11e9-81dc-acde48001122",
+                    "tags": [
+                        "Term4::week3::microbiology::lecture26",
+                        "Term4::week3::pharmacology::lecture25",
+                        "^Kashmoney"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<i>Incidence of hypersensitivity </i>reactions is reduced by premedication with {{c2::<u>dexamethasone</u>}}, {{c2::<u>diphenydramine</u>}} and an {{c2::<u>H2 blocker</u>}} when using&nbsp;{{c1::<b>Paclitaxel</b>}}<br>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "z#)1:R-<ME",
+                    "note_model_uuid": "acb98e58-c098-11e9-81dc-acde48001122",
+                    "tags": [
+                        "Term4::week3::pharmacology::lecture25",
+                        "^Kashmoney"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
                         "What <b>two</b> hallmarks of cancer are the enabling factors for <u>malignancy</u>?<div><br></div><div>1. {{c1::Genomic Instability}}<br></div><div>2. {{c1::Tumor Promoting inflamation}}<br></div>",
                         "<img src=\"paste-d7f5cbce30bfe5afecb69aa993715a343239cebd.jpg\">",
                         "",
@@ -2867,29 +2904,6 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "{{c1::<b>Fulvestrant</b>}} is a {{c2::<u>Selective Estrogen Receptor Downregulator(SERD)</u>}} which <b>reduces</b> the number of {{c3::<i>estrogen receptor</i>}} molecules in cells<br>",
-                        "<img src=\"41416_2004_Article_BF6601629_Fig3_HTML.jpg\"><br>",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "flags": 0,
-                    "guid": "Q8tjC-%`|9",
-                    "note_model_uuid": "acb98e58-c098-11e9-81dc-acde48001122",
-                    "tags": [
-                        "Term4::week3::microbiology::lecture26",
-                        "Term4::week3::pharmacology::lecture25",
-                        "^Kashmoney"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
                         "<div>What <u>general</u>&nbsp;reproductive form of a fungi is indicated by the slide below?</div><div>{{c1::Microconidia}}<br></div><img src=\"paste-bf40b68bd94e4d7f81714bd2aded7d29014d8eab.jpg\">",
                         "\"Birds on a wire\"",
                         "",
@@ -3295,51 +3309,6 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "<i>Incidence of hypersensitivity </i>reactions is reduced by premedication with {{c2::<u>dexamethasone</u>}}, {{c2::<u>diphenydramine</u>}} and an {{c2::<u>H2 blocker</u>}} when using&nbsp;{{c1::<b>Paclitaxel</b>}}<br>",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "flags": 0,
-                    "guid": "z#)1:R-<ME",
-                    "note_model_uuid": "acb98e58-c098-11e9-81dc-acde48001122",
-                    "tags": [
-                        "Term4::week3::pharmacology::lecture25",
-                        "^Kashmoney"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "<b>C-reactive protein (CRP)</b> and <b>erythrocyte sedimentation</b> rate are&nbsp;{{c1::<u>non-specific</u>}} markers for {{c2::<u>inflammation</u>}}",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "flags": 0,
-                    "guid": "dJuXddz?OK",
-                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
-                    "tags": [
-                        "Term4::week3",
-                        "^Banki"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
                         " <div> <div> <div> <div><i>Extravascular fluid </i>collection in the <u>pleural cavity </u>is called {{c1::<b>hydrothorax</b>}}&nbsp;&nbsp;<br></div> </div> </div> </div>",
                         "<i>aka </i>pleural effusion&nbsp;<div><br></div><div><img src=\"pleural-effusion.jpg\"><br></div>",
                         "<img src=\"paste-aa5b7d4bfb463b1a9e07e973d0c8f50a2704e943.jpg\"><br>",
@@ -3575,6 +3544,111 @@
                         "Term4::week4::hemodynamics",
                         "Term4::week4::pathology::lecture28",
                         "^Kashmoney"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What formula can be used to calculate the PEAK concentrations at steady-state (<b>PC<sub>ss</sub></b>)?<div><br /></div><div>{{c1::<img src=\"paste-100227356819457.jpg\" />}}</div>",
+                        "<div><img src=\"paste-100815767339009.jpg\" /></div><div><img src=\"paste-100734162960385.jpg\" /></div><div>Week 2 Lecture 16 - Clinical Pharmacokinetics 2</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "F!-jP~^1%x",
+                    "note_model_uuid": "b008aac6-c098-11e9-a788-acde48001122",
+                    "tags": [
+                        "Term4::Term4Exam1(Tin_Chu)",
+                        "Term4::week2::pharmacology::lecture15",
+                        "^Pimp"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<b>C-reactive protein (CRP)</b> and <b>erythrocyte sedimentation</b> rate are&nbsp;{{c1::<u>non-specific</u>}} markers for {{c2::<u>inflammation</u>}}",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "dJuXddz?OK",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week3",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::<u>Dematiaceous</u>}} fungi presents as<b> wart-like lesions</b> with crusting<br>abscesses <b>extend along the lymphatics</b><br>",
+                        "",
+                        "<img src=\"paste-bb9158d07abbfef6fda2d4b313a56331a266e19f.jpg\"><br>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "Fpp:`;xaeS",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Microlecture2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Someone with slowly progressive granulomatous infection is at risk for infection with {{c1::<b>dermatiaceous</b>}} fungi",
+                        "",
+                        "<img src=\"paste-a2342f7d994dd5c026ade9bfdb178a04c1658e1d.jpg\"><br>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "xBlJ/6FMZr",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Microlecture2"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div>Following are features of {{c1::<b>dematiaceous</b>}} fungi</div><div><img src=\"paste-f5df43454f13d3454240eabb875d0b80ebbcb778.jpg\"><img src=\"paste-038714cc6b576dde448376c0939dea310f040dd8.jpg\"><br></div>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "vMOY:A%Bp(",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Microlecture2"
                     ]
                 },
                 {
@@ -3880,6 +3954,72 @@
                         "Term4::week3::pharmacology::lecture25",
                         "^Banki",
                         "^Pimp"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::<b>Erysipelothrix rhusiopathiae</b>}} is a <i>gram + bacillus</i> which can cause a lesion that is <u>violaceous, slightly elevated</u> with <i>well-defined borders</i><div><br></div><div><img src=\"paste-252f39fa5a2f6b08972be89af67eac99c05aece4.jpg\"><br></div>",
+                        "",
+                        "<img src=\"paste-f7e62bf0e5eba0b3fd20f016c1377b945b208cae.jpg\"><br>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "dK?v}:;&zR",
+                    "note_model_uuid": "1c21add0-ccdc-11e9-a618-8c8590d022f5",
+                    "tags": [
+                        "^Kashmoney"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::<b>Erysipelothrix rhusiopathiae</b>}} is most common is people who handle<i>&nbsp;raw meat or fish</i><br>",
+                        "",
+                        "<img src=\"paste-d85e279242802d3272343d7bb7aacc960f3e6f50.jpg\"><br>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "z1p#i:p5xN",
+                    "note_model_uuid": "1c21add0-ccdc-11e9-a618-8c8590d022f5",
+                    "tags": [
+                        "^Kashmoney"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::<b>Localized</b>::localized or generalized}}&nbsp;<b>erysipeloid</b> is most commonly seen in <i>Erysipelothrix rhusiopathiae</i>",
+                        "",
+                        "<img src=\"paste-c1e96dc248a2b863d1ccf6dbe4aa0a37cffe1f80.jpg\"><br>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "eU30{!2c43",
+                    "note_model_uuid": "1c21add0-ccdc-11e9-a618-8c8590d022f5",
+                    "tags": [
+                        "^Kashmoney"
                     ]
                 },
                 {
@@ -38501,7 +38641,7 @@
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Cloze-Zanki w/references(1)",
+            "name": "Cloze-Zanki w/references(1)-06539",
             "sortf": 0,
             "tags": [
                 "Term4::week2::IMCQ",
@@ -38731,6 +38871,125 @@
             "tmpls": [
                 {
                     "afmt": " <div id=\"kard\">  \n {{cloze:Text}}\n    <div>&nbsp;</div>\n    <div id='extra'>{{Extra}}</div>\n</div>\n<br>\n\n{{#First Aid}}\n <a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint1').style.display='inline-block';return false\";> <font color=\"#993330\">First Aid</a></font><div id=\"hint1\" class=hint style=\"display: none\">{{First Aid}}</div>\n{{/First Aid}}\n\n{{#Boards and Beyond}}\n<a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint2').style.display='';return false\";> <font color=\"#306299\">B&B</a></font><div id=\"hint2\" class=hint style=\"display: none\">{{Boards and Beyond}}</div>\n{{/Boards and Beyond}}\n\n{{#Pathoma}}\n<a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint3').style.display='';return false\";> <font color=\"#008800\">Pathoma</a></font><div id=\"hint3\" class=hint style=\"display: none\">{{Pathoma}}</div>\n{{/Pathoma}}\n\n\n{{#Sketchy}}\n<a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint4').style.display='';return false\";> <font color=\"#660033\">Sketchy</a></font><div id=\"hint4\" class=hint style=\"display: none\">{{Sketchy}}</div>\n{{/Sketchy}}\n\n{{#Robbins}}\n <a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint5').style.display='inline-block';return false\";> <font color=\"#1144ff\">Robbins</a></font><div id=\"hint5\" class=hint style=\"display: none\">{{Robbins}}</div>\n{{/Robbins}}\n\n{{#Gs Get Degrees}}\n<a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint6').style.display='';return false\";> <font color=\"#996600\">Gs Get Degrees</a></font><div id=\"hint6\" class=hint style=\"display: none\">{{Gs Get Degrees}}</div>\n{{/Gs Get Degrees}}\n\n{{#Additional Resources}}\n<a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint7').style.display='';return false\";> <font color=\"#9900CC\">Additional Resources</a></font><div id=\"hint7\" class=hint style=\"display: none\">{{Additional Resources}}</div>\n{{/Additional Resources}}\n\n{{#Lecture Notes}}\n<a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint8').style.display='';return false\";> <font color=\"#D56868\">Lecture Notes</a></font><div id=\"hint8\" class=note style=\"display: none\">{{Lecture Notes}}</div>\n{{/Lecture Notes}}\n<br>\n\n{{#Tags}} <div class \"tags\" {{Tags}} </div>{{/Tags}}",
+                    "bafmt": "",
+                    "bfont": "Arial",
+                    "bqfmt": "",
+                    "bsize": 12,
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "<div id=\"kard\">\n{{cloze:Text}}\n<br>\n<br>\n"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "1c21add0-ccdc-11e9-a618-8c8590d022f5",
+            "css": "/* Profile: Ultrazanki FA || Satus: Saved */ \nhtml { overflow: scroll; overflow-x: hidden; }\n/* CONTAINER FOR YOUR CARDS */\n#kard {\n    padding: 0px 0px;\n    max-width: 950px; /* CHANGE CARD SIZE HERE */\n    margin: 0 auto; /* CENTERS THE CARD IN THE MIDDLE OF THE WINDOW */\n    word-wrap: break-word; /* BREAKS UP LONG WORKS */\n}\n\n\n/* APPLIES TO THE WHOLE CARD */\n.card {\n    font-family: Vernada;\n    font-size: 28px; /* FONT SIZE */\n    text-align: center; /* ALIGN TEXT */\n    color: black; /* FONT COLOR */\n    line-height: 1.2em;\n    background-color: #FEFCF9; /* BACKGROUND COLOR Orange FDFBF6 blue/white FAFAFA  */\n}\n/* STYLE FOR CLOZE DELETIONS */\n.cloze, .cloze b, .cloze u, .cloze i { font-weight: bold; color: #993330 !important;}\n\n.night_mode .cloze  { font-weight: bold; color: MediumSeaGreen !important;}\n.night_mode .cloze b { font-weight: bold; color: MediumSeaGreen !important;}\n.night_mode .cloze u { font-weight: bold; color: MediumSeaGreen !important;}\n.night_mode .cloze i { font-weight: bold; color: MediumSeaGreen !important;}\n\n\n/* STYLE FOR EXTRA PORTION ON BACK OF CARD */\n#extra { font-size: 26px; color: black; font-style: italic;  }\n#extra i { font-size: 26px; color: black; font-style: italic;  }\n\n.night_mode #extra { font-size: 26px; color: white !important; font-style: italic; }\n.night_mode #extra i { font-size: 26px; color: white !important; font-style: italic; }\n\n/* STYLE TAGS TO APPEAR WHEN HOVERING OVER TOP OF CARD */\n.tags { \n    color: #A6ABB9;\n    opacity: 0;\n    font-size: 10px; \n    width: 100%;\n    text-align: center;\n    text-transform: uppercase; \n    position: fixed; \n    padding: 0; \n    top:0;  \n    right: 0;}\n.tags:hover { opacity: 1; position: fixed;}\n\n\n/* IMAGE STYLE */\nimg { display: block; max-width: 100%; max-height: 650px; margin-center: auto; margin: 10px auto 0 auto;\nbox-shadow: 3px 6px 15px 1px rgba(0, 0, 0, 0.2), 3px 1px 20px 1px rgba(0, 0, 0, 0.19)\n}\n\nimg:active { \n\twidth: 100%; \n\theight: 100%;\n}\n\ntr {font-size: 12px; }\n\n\n/* COLOR ACCENTS FOR BOLD-ITALICS-UNDERLINE */\nb {color: #306299; !important; } /* BOLD STYLE */\nu { text-decoration: none; color: #D18835 ;} /* UNDERLINE STYLE */\ni  { color: #309699; } /* ITALICS STYLE */\na { color: LightGray !important; text-decoration: none; font-size: 10px; font-style: normal; } /* LINK STYLE */\n\n.night_mode b { color: #C695C6; !important; } /* BOLD STYLE */\n.night_mode u { text-decoration: none !important; color: #5EB3B3; !important;} /* UNDERLINE STYLE */\n.night_mode i  { color: IndianRed !important; } /* ITALICS STYLE */\n.night_mode a { color: LightGray !important; text-decoration: none; font-size: 10px; font-style: normal; }\n\n\n\n.hint {  \nfont-family: Vernada;\n    font-size: 22px; /* FONT SIZE */\n    text-align: center; /* ALIGN TEXT */\n    color: black; /* FONT COLOR */\n}\n.night_mode .hint {  \nfont-family: Vernada;\n    font-size: 22px; /* FONT SIZE */\n    text-align: center; /* ALIGN TEXT */\n    color: black; /* FONT COLOR */\n}\n/* ADJUSTMENT FOR MOBILE DEVICES */\n.mobile .card { color: black; background-color: #FDFBF6; } \n.mobile .tags:hover { opacity: 1; position: relative;}\n.mobile .card img:active { width: inherit; max-height: none;}\n",
+            "flds": [
+                {
+                    "font": "Helvetica",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Helvetica",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 18,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Lecture Notes",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Missed Questions",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Pathoma",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Boards and Beyond",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "First Aid",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Sketchy",
+                    "ord": 7,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Physeo",
+                    "ord": 8,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Additional Resources",
+                    "ord": 9,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze-AnKingMaster(First_Aid_Color_Match)-8f6e2",
+            "sortf": 0,
+            "tags": [
+                "^Kashmoney"
+            ],
+            "tmpls": [
+                {
+                    "afmt": " <div id=\"kard\">  \n {{cloze:Text}}\n    <div>&nbsp;</div>\n    <div id='extra'>{{Extra}}</div>\n</div>\n<br>\n\n{{#First Aid}}\n <a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint1').style.display='inline-block';return false\";> <font color=\"#993330\">First Aid</a></font><div id=\"hint1\" class=hint style=\"display: none\">{{First Aid}}</div>\n{{/First Aid}}\n\n{{#Boards and Beyond}}\n<a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint2').style.display='';return false\";> <font color=\"#306299\">B&B</a></font><div id=\"hint2\" class=hint style=\"display: none\">{{Boards and Beyond}}</div>\n{{/Boards and Beyond}}\n\n{{#Pathoma}}\n<a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint3').style.display='';return false\";> <font color=\"#008800\">Pathoma/Robbins</a></font><div id=\"hint3\" class=hint style=\"display: none\">{{Pathoma}}</div>\n{{/Pathoma}}\n\n\n{{#Sketchy}}\n<a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint5').style.display='';return false\";> <font color=\"#660033\">Sketchy</a></font><div id=\"hint5\" class=hint style=\"display: none\">{{Sketchy}}</div>\n{{/Sketchy}}\n\n{{#Physeo}}\n <a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint7').style.display='inline-block';return false\";> <font color=\"#1144ff\">Physeo</a></font><div id=\"hint7\" class=hint style=\"display: none\">{{Physeo}}</div>\n{{/Physeo}}\n\n{{#Missed Questions}}\n<a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint4').style.display='';return false\";> <font color=\"#996600\">Missed Questions</a></font><div id=\"hint4\" class=hint style=\"display: none\">{{Missed Questions}}</div>\n{{/Missed Questions}}\n\n{{#Additional Resources}}\n<a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint6').style.display='';return false\";> <font color=\"#9900CC\">Additional Resources</a></font><div id=\"hint6\" class=hint style=\"display: none\">{{Additional Resources}}</div>\n{{/Additional Resources}}\n\n{{#Lecture Notes}}\n<a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint6').style.display='';return false\";> <font color=\"#00000\">Lecture Notes</a></font><div id=\"hint6\" class=hint style=\"display: none\">{{Lecture Notes}}</div>\n{{/Lecture Notes}}\n<br>\n\n{{#Tags}} <div class \"tags\" {{Tags}} </div>{{/Tags}}",
                     "bafmt": "",
                     "bfont": "Arial",
                     "bqfmt": "",
