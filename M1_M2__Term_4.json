@@ -45,6 +45,10 @@
                 "Screen Shot 2019-09-03 at 1.36.45 PM.png",
                 "Screen Shot 2019-09-03 at 1.45.23 PM.png",
                 "Screen Shot 2019-09-03 at 3.20.09 PM.png",
+                "Screen Shot 2019-09-03 at 6.10.11 PM.png",
+                "Screen Shot 2019-09-03 at 7.16.25 PM.png",
+                "Screen Shot 2019-09-03 at 9.09.56 PM.png",
+                "Screen Shot 2019-09-03 at 9.15.59 PM.png",
                 "Screen Shot 2019-09-03 at 9.21.41 AM.png",
                 "The-principle-of-immunocytochemistry-for-Ki-67-proliferation-marker-adapted-from.png",
                 "WhatsApp Image 2019-09-02 at 8.30.44 AM.jpeg",
@@ -98,7 +102,9 @@
                 "paste-58feb3a41b5e8a73a8bb3e3fd7ad0d2543ff98c5.jpg",
                 "paste-5d6013a4832f8b30dd2851bb079cb4100b131ee5.jpg",
                 "paste-60dd3fb1c7dae6b8dfe95948ec7c7129cfff93cc.jpg",
+                "paste-64db36211b4a3c823494b9ba7c5f451d34ae39f9.jpg",
                 "paste-6764573491611.jpg",
+                "paste-688b7df9d30c8b44d0977b5eeadfad5f94e21153.jpg",
                 "paste-6bd03c72be2029046b6ebb6a2a666553bdcd0cf0.jpg",
                 "paste-6cf99d371361e4d6a43823d465579a7811676d3c.jpg",
                 "paste-6e814accdc59f86de62b8dbc7c93b39b13400f72.jpg",
@@ -148,11 +154,15 @@
                 "paste-e06ac10296a89dfda746399022ab95c9456652a9.jpg",
                 "paste-e16ed5b1c7cab36ac0c0088528d4106d2d4a9d65.jpg",
                 "paste-e37074e0ccd50d75919acb5c0070c6176b1d8b88.jpg",
+                "paste-e3c22983f427c305ab4a5beeaacb85d05e88505c.jpg",
                 "paste-e7f1f2f322e9cf0aba7d7df107907374febe09e6.jpg",
+                "paste-ea7423f8be473d7da67c29f9bdc20c211f4fbf79.jpg",
                 "paste-ebb175c1281f7fcb696ed1d8115afe3f7731d8e8.jpg",
                 "paste-ebc0ed032b16289a9249fe0a5b8f76426f34bfd0.jpg",
+                "paste-ec8b5d26f47a9125eab2b35ef542314b74f7798b.jpg",
                 "paste-ede13ae8d33d2ab5c59e3a3a3db124349e0a163a.jpg",
                 "paste-f0edab44f99a40de443b908194d90e7cba5b97a2.jpg",
+                "paste-f34e97b76b21a98e229bf258a382e026aec0b902.jpg",
                 "paste-f7e62bf0e5eba0b3fd20f016c1377b945b208cae.jpg",
                 "paste-fd53a316dcdbae72a6961f5c3cc9a80112b440f3.jpg",
                 "paste-fffd50cb4cce5b66b05c7ce0b25945f7dc7a9cd6.jpg",
@@ -4032,7 +4042,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "<b>Polymicrobial</b> <u>necrotizing</u> <u>fasciitis</u> can be caused by <b>anaerobes</b> such as&nbsp; {{c1::<i>bacteroides</i>}}&nbsp;or {{c2::<i>peptostreptococcus</i>}}",
+                        "<b>Polymicrobial</b> <u>necrotizing</u> <u>fasciitis</u> can be caused by <b>anaerobes</b> such as {{c1::<i>bacteroides</i>}}&nbsp;or {{c2::<i>peptostreptococcus</i>}}",
                         "",
                         "<img src=\"paste-7545aae7307b1af6b68ec7215041917f5b0c19e7.jpg\">",
                         "",
@@ -4150,7 +4160,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "{{c1::<u>Dematiaceous</u>}} fungi presents as<b> wart-like lesions</b> with crusting<br>abscesses <b>extend along the lymphatics</b><br>",
+                        "{{c1::<u>Dematiaceous</u>}} fungi present as<b> wart-like lesions</b> with crusting<br>abscesses <b>extending along the lymphatics</b><br>",
                         "",
                         "<img src=\"paste-bb9158d07abbfef6fda2d4b313a56331a266e19f.jpg\"><br>",
                         "",
@@ -4165,7 +4175,8 @@
                     "guid": "Fpp:`;xaeS",
                     "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
                     "tags": [
-                        "Microlecture2"
+                        "Term4::week4::microbiology::lecture31",
+                        "^Kashmoney"
                     ]
                 },
                 {
@@ -4231,8 +4242,9 @@
                     ],
                     "flags": 0,
                     "guid": "dK?v}:;&zR",
-                    "note_model_uuid": "1c21add0-ccdc-11e9-a618-8c8590d022f5",
+                    "note_model_uuid": "9c22b31c-ceb2-11e9-a8c6-dca9046e43a6",
                     "tags": [
+                        "Term4::week4::microbiology::lecture31",
                         "^Kashmoney"
                     ]
                 },
@@ -4253,7 +4265,7 @@
                     ],
                     "flags": 0,
                     "guid": "z1p#i:p5xN",
-                    "note_model_uuid": "1c21add0-ccdc-11e9-a618-8c8590d022f5",
+                    "note_model_uuid": "9c22b31c-ceb2-11e9-a8c6-dca9046e43a6",
                     "tags": [
                         "Term4::week4::microbiology::lecture31",
                         "^Kashmoney"
@@ -4276,9 +4288,194 @@
                     ],
                     "flags": 0,
                     "guid": "eU30{!2c43",
-                    "note_model_uuid": "1c21add0-ccdc-11e9-a618-8c8590d022f5",
+                    "note_model_uuid": "9c22b31c-ceb2-11e9-a8c6-dca9046e43a6",
                     "tags": [
+                        "Term4::week4::microbiology::lecture31",
                         "^Kashmoney"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What is the long term effect of drugs such as <b>flutamide</b> and <b>goserelin</b> on <u>testosterone</u>?<div><br></div><div>{{c1::Decreased}}<br></div>",
+                        "GnRH analogs can drop testosterone as much as 10% in the first month",
+                        "<img src=\"Screen Shot 2019-08-29 at 9.27.37 AM.png\"><br><div><img src=\"paste-e3c22983f427c305ab4a5beeaacb85d05e88505c.jpg\"></div>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "hY.kS`5VR9",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week3::pharmacology",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What is the most common adverse effect caused by <b>anticancer</b> drugs?<div><br></div><div>{{c1::Nausea and Vomiting}}<br></div>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "c:LcP=JuuE",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week3::pharmacology",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div> <div> <div> <div> <div>What is the main cause of multi-drug resistance?</div><div><br></div><div>{{c1::Overexpression of P-glycoprotein}}</div> </div> </div> </div></div>",
+                        "<img src=\"paste-688b7df9d30c8b44d0977b5eeadfad5f94e21153.jpg\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "bqHnULzj]2",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week3::pharmacology",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<i>Erysipelothrix rhusiopathia</i> is {{c1::non-motile::motil or non-motil}}",
+                        "<img src=\"paste-ec8b5d26f47a9125eab2b35ef542314b74f7798b.jpg\">",
+                        "<img src=\"Screen Shot 2019-09-03 at 6.10.11 PM.png\"><br>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"Screen Shot 2019-09-03 at 9.09.56 PM.png\"><br>",
+                        "<img src=\"Screen Shot 2019-09-03 at 7.16.25 PM.png\"><br>"
+                    ],
+                    "flags": 0,
+                    "guid": "jST|/*H|?J",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week4::microbiology::lecture31",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What <b>demographic</b> is&nbsp;<i>Erysipelothrix rhusiopathia </i>most likely to be seen in?<div><br></div><div>{{c1::Meat handlers}}<br></div>",
+                        "<img src=\"paste-ea7423f8be473d7da67c29f9bdc20c211f4fbf79.jpg\">",
+                        "<img src=\"Screen Shot 2019-09-03 at 6.10.11 PM.png\"><br>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"Screen Shot 2019-09-03 at 9.09.56 PM.png\"><br>",
+                        "<img src=\"Screen Shot 2019-09-03 at 7.16.25 PM.png\"><br>"
+                    ],
+                    "flags": 0,
+                    "guid": "u,RqD<[-Cn",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week4::microbiology::lecture31",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Is&nbsp;<i>Erysipelothrix rhusiopathia </i>encapsulated?<div><br></div><div>{{c1::Yes}}<br></div>",
+                        "<img src=\"Screen Shot 2019-09-03 at 9.15.59 PM.png\"><br>",
+                        "<img src=\"Screen Shot 2019-09-03 at 6.10.11 PM.png\"><br>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"Screen Shot 2019-09-03 at 9.09.56 PM.png\"><br>",
+                        "<img src=\"Screen Shot 2019-09-03 at 7.16.25 PM.png\"><br>"
+                    ],
+                    "flags": 0,
+                    "guid": "dQ!gNc.QoI",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week4::microbiology::lecture31",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<i>Erysipelothrix rhusiopathia</i>&nbsp;is a gram&nbsp;{{c1::positive::+/-}} rod",
+                        "<div><i>E. <font color=\"#993333\">rhus</font>io<font color=\"#993333\">path</font>ia</i></div><img src=\"paste-f34e97b76b21a98e229bf258a382e026aec0b902.jpg\">",
+                        "<img src=\"Screen Shot 2019-09-03 at 6.10.11 PM.png\"><br>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"Screen Shot 2019-09-03 at 9.09.56 PM.png\"><br>",
+                        "<img src=\"Screen Shot 2019-09-03 at 7.16.25 PM.png\"><br>"
+                    ],
+                    "flags": 0,
+                    "guid": "cah_TVTRWm",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week4::microbiology::lecture31",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<i>Erysipelothrix rhusiopathia </i>may present with {{c1::erysipleoid}} of the hand due to improper handling of raw meat",
+                        "<img src=\"paste-64db36211b4a3c823494b9ba7c5f451d34ae39f9.jpg\">",
+                        "<img src=\"Screen Shot 2019-09-03 at 6.10.11 PM.png\"><br>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"Screen Shot 2019-09-03 at 9.09.56 PM.png\"><br>",
+                        "<img src=\"Screen Shot 2019-09-03 at 7.16.25 PM.png\"><br>"
+                    ],
+                    "flags": 0,
+                    "guid": "fMC>UZ,#dS",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week4::microbiology::lecture31",
+                        "^Banki"
                     ]
                 }
             ]
@@ -38795,7 +38992,7 @@
                     "ord": 2,
                     "rtl": false,
                     "size": 20,
-                    "sticky": false
+                    "sticky": true
                 },
                 {
                     "font": "Arial",
@@ -38849,7 +39046,7 @@
                     "ord": 8,
                     "rtl": false,
                     "size": 20,
-                    "sticky": false
+                    "sticky": true
                 },
                 {
                     "font": "Arial",
@@ -38858,7 +39055,7 @@
                     "ord": 9,
                     "rtl": false,
                     "size": 20,
-                    "sticky": false
+                    "sticky": true
                 }
             ],
             "latexPost": "\\end{document}",
@@ -38866,8 +39063,7 @@
             "name": "Cloze-E-z-A-Pathology",
             "sortf": 0,
             "tags": [
-                "Robbins::Chapter_04",
-                "Term4::week4::pathology::lecture30",
+                "Term4::week4::microbiology::lecture31",
                 "^Banki"
             ],
             "tmpls": [
@@ -38888,8 +39084,8 @@
         },
         {
             "__type__": "NoteModel",
-            "crowdanki_uuid": "1c21add0-ccdc-11e9-a618-8c8590d022f5",
-            "css": "/* Profile: Ultrazanki FA || Satus: Saved */ \nhtml { overflow: scroll; overflow-x: hidden; }\n/* CONTAINER FOR YOUR CARDS */\n#kard {\n    padding: 0px 0px;\n    max-width: 950px; /* CHANGE CARD SIZE HERE */\n    margin: 0 auto; /* CENTERS THE CARD IN THE MIDDLE OF THE WINDOW */\n    word-wrap: break-word; /* BREAKS UP LONG WORKS */\n}\n\n\n/* APPLIES TO THE WHOLE CARD */\n.card {\n    font-family: Vernada;\n    font-size: 28px; /* FONT SIZE */\n    text-align: center; /* ALIGN TEXT */\n    color: black; /* FONT COLOR */\n    line-height: 1.2em;\n    background-color: #FEFCF9; /* BACKGROUND COLOR Orange FDFBF6 blue/white FAFAFA  */\n}\n/* STYLE FOR CLOZE DELETIONS */\n.cloze, .cloze b, .cloze u, .cloze i { font-weight: bold; color: #993330 !important;}\n\n.night_mode .cloze  { font-weight: bold; color: MediumSeaGreen !important;}\n.night_mode .cloze b { font-weight: bold; color: MediumSeaGreen !important;}\n.night_mode .cloze u { font-weight: bold; color: MediumSeaGreen !important;}\n.night_mode .cloze i { font-weight: bold; color: MediumSeaGreen !important;}\n\n\n/* STYLE FOR EXTRA PORTION ON BACK OF CARD */\n#extra { font-size: 26px; color: black; font-style: italic;  }\n#extra i { font-size: 26px; color: black; font-style: italic;  }\n\n.night_mode #extra { font-size: 26px; color: white !important; font-style: italic; }\n.night_mode #extra i { font-size: 26px; color: white !important; font-style: italic; }\n\n/* STYLE TAGS TO APPEAR WHEN HOVERING OVER TOP OF CARD */\n.tags { \n    color: #A6ABB9;\n    opacity: 0;\n    font-size: 10px; \n    width: 100%;\n    text-align: center;\n    text-transform: uppercase; \n    position: fixed; \n    padding: 0; \n    top:0;  \n    right: 0;}\n.tags:hover { opacity: 1; position: fixed;}\n\n\n/* IMAGE STYLE */\nimg { display: block; max-width: 100%; max-height: 650px; margin-center: auto; margin: 10px auto 0 auto;\nbox-shadow: 3px 6px 15px 1px rgba(0, 0, 0, 0.2), 3px 1px 20px 1px rgba(0, 0, 0, 0.19)\n}\n\nimg:active { \n\twidth: 100%; \n\theight: 100%;\n}\n\ntr {font-size: 12px; }\n\n\n/* COLOR ACCENTS FOR BOLD-ITALICS-UNDERLINE */\nb {color: #306299; !important; } /* BOLD STYLE */\nu { text-decoration: none; color: #D18835 ;} /* UNDERLINE STYLE */\ni  { color: #309699; } /* ITALICS STYLE */\na { color: LightGray !important; text-decoration: none; font-size: 10px; font-style: normal; } /* LINK STYLE */\n\n.night_mode b { color: #C695C6; !important; } /* BOLD STYLE */\n.night_mode u { text-decoration: none !important; color: #5EB3B3; !important;} /* UNDERLINE STYLE */\n.night_mode i  { color: IndianRed !important; } /* ITALICS STYLE */\n.night_mode a { color: LightGray !important; text-decoration: none; font-size: 10px; font-style: normal; }\n\n\n\n.hint {  \nfont-family: Vernada;\n    font-size: 22px; /* FONT SIZE */\n    text-align: center; /* ALIGN TEXT */\n    color: black; /* FONT COLOR */\n}\n.night_mode .hint {  \nfont-family: Vernada;\n    font-size: 22px; /* FONT SIZE */\n    text-align: center; /* ALIGN TEXT */\n    color: black; /* FONT COLOR */\n}\n/* ADJUSTMENT FOR MOBILE DEVICES */\n.mobile .card { color: black; background-color: #FDFBF6; } \n.mobile .tags:hover { opacity: 1; position: relative;}\n.mobile .card img:active { width: inherit; max-height: none;}\n",
+            "crowdanki_uuid": "9c22b31c-ceb2-11e9-a8c6-dca9046e43a6",
+            "css": "/* Profile: Ultrazanki FA || Satus: Saved */ \n\nhtml { overflow: scroll; overflow-x: hidden; }\n/* CONTAINER FOR YOUR CARDS */\n#kard {\n    padding: 0px 0px;\n    max-width: 950px; /* CHANGE CARD SIZE HERE */\n    margin: 0 auto; /* CENTERS THE CARD IN THE MIDDLE OF THE WINDOW */\n    word-wrap: break-word; /* BREAKS UP LONG WORKS */\n}\n\n\n/* APPLIES TO THE WHOLE CARD */\n.card {\n    font-family: Vernada;\n    font-size: 28px; /* FONT SIZE */\n    text-align: center; /* ALIGN TEXT */\n    color: black; /* FONT COLOR */\n    line-height: 1.2em;\n    background-color: #FEFCF9; /* BACKGROUND COLOR Orange FDFBF6 blue/white FAFAFA  */\n}\n\n.list {\n    font-family: Vernada;\n    font-size: 28px; /* FONT SIZE */\n    text-align: left; /* ALIGN TEXT */\n    margin-left: auto;\n    margin-right: auto;\n    width: 8em\n    color: black; /* FONT COLOR */\n    line-height: 1.2em;\n    background-color: #FEFCF9; /* BACKGROUND COLOR Orange FDFBF6 blue/white FAFAFA  */\n}\n\n/* STYLE FOR CLOZE DELETIONS */\n.cloze, .cloze b, .cloze u, .cloze i { font-weight: bold; color: #993330 !important;}\n\n.night_mode .cloze  { font-weight: bold; color: MediumSeaGreen !important;}\n.night_mode .cloze b { font-weight: bold; color: MediumSeaGreen !important;}\n.night_mode .cloze u { font-weight: bold; color: MediumSeaGreen !important;}\n.night_mode .cloze i { font-weight: bold; color: MediumSeaGreen !important;}\n\n\n/* STYLE FOR EXTRA PORTION ON BACK OF CARD */\n#extra { font-size: 26px; color: black; font-style: italic;  }\n#extra i { font-size: 26px; color: black; font-style: italic;  }\n\n.night_mode #extra { font-size: 26px; color: white !important; font-style: italic; }\n.night_mode #extra i { font-size: 26px; color: white !important; font-style: italic; }\n\n\n/* STYLE TAGS TO APPEAR WHEN HOVERING OVER TOP OF CARD */\n.tags { \n    color: #A6ABB9;\n    opacity: 0;\n    font-size: 10px; \n    width: 100%;\n    text-align: left;\n    text-transform: uppercase; \n    position: fixed; \n    padding: 0; \n    bottom:0;  \n    right: 0;}\n.tags:hover { opacity: 1; position: fixed;}\n\n\n/* IMAGE STYLE */\nimg { display: block; max-width: 950px; max-height: 600px; margin-center: auto; margin: 10px auto 0 auto;\nbox-shadow: 3px 6px 15px 1px rgba(0, 0, 0, 0.2), 3px 1px 20px 1px rgba(0, 0, 0, 0.19)\n}\n\nimg:active { \n\ttransform: scale(1.3); /* (130% zoom - Note: if the zoom is too large, it will go outside of the viewport) */\n}\n\n.hint img { display: block; max-width: 925px; max-height: 100%; margin-center: auto; margin: 10px auto 0 auto;\nbox-shadow: 3px 6px 15px 1px rgba(0, 0, 0, 0.2), 3px 1px 20px 1px rgba(0, 0, 0, 0.19)\n}\n\ntr {font-size: 12px; }\n\n\n/* COLOR ACCENTS FOR BOLD-ITALICS-UNDERLINE */\nb {color: #306299; !important; } /* BOLD STYLE */\nu { text-decoration: none; color: #D18835 ;} /* UNDERLINE STYLE */\ni  { color: #309699; } /* ITALICS STYLE */\na { color: blue !important; text-decoration: none; font-size: 20px; font-style: normal; } /* LINK STYLE */\n\n.night_mode b { color: #C695C6; !important; } /* BOLD STYLE */\n.night_mode u { text-decoration: none !important; color: #5EB3B3; !important;} /* UNDERLINE STYLE */\n.night_mode i  { color: IndianRed !important; } /* ITALICS STYLE */\n.night_mode a { color: LightGray !important; text-decoration: none; font-size: 10px; font-style: normal; }\n\n.note {\n\tmargin-left: auto;\n   \tmargin-right: auto;\n    \twidth: 8em\n\tfont-family: Vernada;\n\tfont-size: 22px; \n\ttext-align: left; \n\tcolor: black; \n}\n.note img { display: block; max-width: 925px; max-height: 100%; margin-center: auto; margin: 10px auto 0 auto;\nbox-shadow: 3px 6px 15px 1px rgba(0, 0, 0, 0.2), 3px 1px 20px 1px rgba(0, 0, 0, 0.19)\n}\n\n.night_mode .note {\n\tmax-width: 600px;\n\tfont-family: Vernada;\n\tfont-size: 22px; /* FONT SIZE */\n\ttext-align: left; /* ALIGN TEXT */\n\tcolor: white; \n}\n\n.hint {  \nfont-family: Vernada;\n    font-size: 22px; /* FONT SIZE */\n    text-align: center; /* ALIGN TEXT */\n    color: black; /* FONT COLOR */\n}\n.night_mode .hint {  \nfont-family: Vernada;\n    font-size: 22px; /* FONT SIZE */\n    text-align: center; /* ALIGN TEXT */\n    color: white; /* FONT COLOR */\n}\n/* ADJUSTMENT FOR MOBILE DEVICES */\n.mobile .card { color: black; background-color: #FDFBF6; } \n.mobile .tags:hover { opacity: 1; position: relative;}\n.mobile .card img:active { width: inherit; max-height: none;}\n.mobile .card img { max-width: 100%; max-height: 650px;}",
             "flds": [
                 {
                     "font": "Helvetica",
@@ -38984,14 +39180,14 @@
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Cloze-AnKingMaster(First_Aid_Color_Match)-8f6e2",
+            "name": "Cloze-AnKingMaster(First_Aid_Color_Match)",
             "sortf": 0,
             "tags": [
-                "^Kashmoney"
+                "^Banki"
             ],
             "tmpls": [
                 {
-                    "afmt": " <div id=\"kard\">  \n {{cloze:Text}}\n    <div>&nbsp;</div>\n    <div id='extra'>{{Extra}}</div>\n</div>\n<br>\n\n{{#First Aid}}\n <a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint1').style.display='inline-block';return false\";> <font color=\"#993330\">First Aid</a></font><div id=\"hint1\" class=hint style=\"display: none\">{{First Aid}}</div>\n{{/First Aid}}\n\n{{#Boards and Beyond}}\n<a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint2').style.display='';return false\";> <font color=\"#306299\">B&B</a></font><div id=\"hint2\" class=hint style=\"display: none\">{{Boards and Beyond}}</div>\n{{/Boards and Beyond}}\n\n{{#Pathoma}}\n<a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint3').style.display='';return false\";> <font color=\"#008800\">Pathoma/Robbins</a></font><div id=\"hint3\" class=hint style=\"display: none\">{{Pathoma}}</div>\n{{/Pathoma}}\n\n\n{{#Sketchy}}\n<a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint5').style.display='';return false\";> <font color=\"#660033\">Sketchy</a></font><div id=\"hint5\" class=hint style=\"display: none\">{{Sketchy}}</div>\n{{/Sketchy}}\n\n{{#Physeo}}\n <a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint7').style.display='inline-block';return false\";> <font color=\"#1144ff\">Physeo</a></font><div id=\"hint7\" class=hint style=\"display: none\">{{Physeo}}</div>\n{{/Physeo}}\n\n{{#Missed Questions}}\n<a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint4').style.display='';return false\";> <font color=\"#996600\">Missed Questions</a></font><div id=\"hint4\" class=hint style=\"display: none\">{{Missed Questions}}</div>\n{{/Missed Questions}}\n\n{{#Additional Resources}}\n<a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint6').style.display='';return false\";> <font color=\"#9900CC\">Additional Resources</a></font><div id=\"hint6\" class=hint style=\"display: none\">{{Additional Resources}}</div>\n{{/Additional Resources}}\n\n{{#Lecture Notes}}\n<a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint6').style.display='';return false\";> <font color=\"#00000\">Lecture Notes</a></font><div id=\"hint6\" class=hint style=\"display: none\">{{Lecture Notes}}</div>\n{{/Lecture Notes}}\n<br>\n\n{{#Tags}} <div class \"tags\" {{Tags}} </div>{{/Tags}}",
+                    "afmt": "<div id=\"kard\">\n{{cloze:Text}} \n    <div>&nbsp;</div>\n    <div id='extra'>{{Extra}}</div>\n</div>\n<br>\n\n{{#First Aid}}\n <a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint1').style.display='inline-block';return false\";> <font color=\"#993330\">First Aid</a></font><div id=\"hint1\" class=hint style=\"display: none\">{{First Aid}}</div>\n{{/First Aid}}\n\n{{#Boards and Beyond}}\n<a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint2').style.display='';return false\";> <font color=\"#306299\">B&B</a></font><div id=\"hint2\" class=hint style=\"display: none\">{{Boards and Beyond}}</div>\n{{/Boards and Beyond}}\n\n{{#Pathoma}}\n<a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint3').style.display='';return false\";> <font color=\"#008800\">Pathoma/Robbins</a></font><div id=\"hint3\" class=hint style=\"display: none\">{{Pathoma}}</div>\n{{/Pathoma}}\n\n\n{{#Sketchy}}\n<a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint4').style.display='';return false\";> <font color=\"#660033\">Sketchy</a></font><div id=\"hint4\" class=hint style=\"display: none\">{{Sketchy}}</div>\n{{/Sketchy}}\n\n{{#Physeo}}\n <a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint5').style.display='inline-block';return false\";> <font color=\"#1144ff\">Physeo</a></font><div id=\"hint5\" class=hint style=\"display: none\">{{Physeo}}</div>\n{{/Physeo}}\n\n{{#Missed Questions}}\n<a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint6').style.display='';return false\";> <font color=\"#996600\">Missed Questions</a></font><div id=\"hint6\" class=hint style=\"display: none\">{{Missed Questions}}</div>\n{{/Missed Questions}}\n\n{{#Additional Resources}}\n<a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint7').style.display='';return false\";> <font color=\"#9900CC\">Additional Resources</a></font><div id=\"hint7\" class=hint style=\"display: none\">{{Additional Resources}}</div>\n{{/Additional Resources}}\n\n{{#Lecture Notes}}\n<a class=hint href=\"#\"onclick=\"this.style.display='none';document.getElementById('hint8').style.display='';return false\";> <font color=\"#D56868\">Lecture Notes</a></font><div id=\"hint8\" class=note style=\"display: none\">{{Lecture Notes}}</div>\n{{/Lecture Notes}}\n<br>\n\n",
                     "bafmt": "",
                     "bfont": "Arial",
                     "bqfmt": "",
@@ -38999,7 +39195,8 @@
                     "did": null,
                     "name": "Cloze",
                     "ord": 0,
-                    "qfmt": "<div id=\"kard\">\n{{cloze:Text}}\n<br>\n<br>\n"
+                    "qfmt": "<div id=\"kard\">\n<div class=\"tags\">{{Tags}}</div>\n{{cloze:Text}} \n</div>\n",
+                    "scratchPad": false
                 }
             ],
             "type": 1,
