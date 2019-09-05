@@ -16,6 +16,7 @@
                 "CellulitisJmh649.JPG",
                 "F1.large (2).jpg",
                 "Jmhc-17-1120-Fig1.png",
+                "No cat.png",
                 "Screen Shot 2017-03-05 at 8.52.46 PM.png",
                 "Screen Shot 2019-08-14 at 8.43.06 AM.png",
                 "Screen Shot 2019-08-15 at 10.47.22 AM.png",
@@ -50,10 +51,12 @@
                 "Screen Shot 2019-09-03 at 9.09.56 PM.png",
                 "Screen Shot 2019-09-03 at 9.15.59 PM.png",
                 "Screen Shot 2019-09-03 at 9.21.41 AM.png",
+                "Screen Shot 2019-09-05 at 10.12.45 AM.png",
                 "The-principle-of-immunocytochemistry-for-Ki-67-proliferation-marker-adapted-from.png",
                 "WhatsApp Image 2019-09-02 at 8.30.44 AM.jpeg",
                 "a-Showing-exophytic-ulcerative-tumor-14-9-cm-2-in-the-back-of-the-hand-arm-b.png",
                 "paste-04d5cf60d11cdd6ed7659af238aa53ab2b209d09.jpg",
+                "paste-06a933629febdabaa5920f1ed87e6c1ae611e477.jpg",
                 "paste-0d062346a32ffa2d5258b8789ac378e5957ff313.jpg",
                 "paste-0d6d6086f98aea09467876ce9c8bc181619c6fba.jpg",
                 "paste-0e3c8e006b45b4e473e05642259b41fb7fc2d3f4.jpg",
@@ -98,11 +101,14 @@
                 "paste-41f30fb65ecb4ffa3137777471d451334ba74178.jpg",
                 "paste-4354710bdaa8d50aed7453b4f391c7732ad85efb.jpg",
                 "paste-45510e30a8da8757efde60ab0a3748d3af735a94.jpg",
+                "paste-472117752e95fc5ee248a74639d58af11d4053cd.jpg",
                 "paste-4915ac751b67078512b83209918932fadc297b73.jpg",
                 "paste-49950469652881.jpg",
                 "paste-4c3416c02e6fb3c23e6ab55968e3e63f1088f587.jpg",
+                "paste-4c6e219da3f4498bce91d5c750784ba5e6b5d1e5.jpg",
                 "paste-4e313587154a4b8af63bada6ebf4d565da744eaf.jpg",
                 "paste-4e9dbc1d944f1e8e53824c93e198b2c595613c58.jpg",
+                "paste-4fd258b2d04db83f3a312a760825ef95202c8347.jpg",
                 "paste-503889a95ae37a0b46d8480db614087891139f58.jpg",
                 "paste-552946974588931.jpg",
                 "paste-58feb3a41b5e8a73a8bb3e3fd7ad0d2543ff98c5.jpg",
@@ -125,6 +131,7 @@
                 "paste-80628474ce0b338d8b2613869b16925755042705.jpg",
                 "paste-85e63198427ad399126a1183df46903987e5e78e.jpg",
                 "paste-8641474200049.jpg",
+                "paste-8b8d14978e06e2073b955e4a1d4ccbfe177c4a98.jpg",
                 "paste-8f780983e924783679adb1a90ca994a01d367c33.jpg",
                 "paste-905648b4e7154ddb7ab98dcdb6e300c7fe67e7b5.jpg",
                 "paste-90a7b2a801b2724d3a5ba27fa10ba8da6648cd4b.jpg",
@@ -134,6 +141,7 @@
                 "paste-a2342f7d994dd5c026ade9bfdb178a04c1658e1d.jpg",
                 "paste-a2694055843478f5613a0e6ee5d4a52309473220.jpg",
                 "paste-a3b7c8c33baf2db383825a5321df090c12d4d4b7.jpg",
+                "paste-a4a46b5665e9693eb38001eb88db3644694ed8ad.jpg",
                 "paste-a6659a76b1e09eb11bb3a8032b0e3f2f1e2e1503.jpg",
                 "paste-a6b8f4283aabd88ed65821928a6bcc2387d702df.jpg",
                 "paste-aa5b7d4bfb463b1a9e07e973d0c8f50a2704e943.jpg",
@@ -158,6 +166,7 @@
                 "paste-d7fa3327f20becf43311f239c9b0878356210c6f.jpg",
                 "paste-d85e279242802d3272343d7bb7aacc960f3e6f50.jpg",
                 "paste-d8bb3f834b7b9370df9ad8e708a1ce9765cba6db.jpg",
+                "paste-d932b6b34ad5ab14948600f92cc76aadfc262a53.jpg",
                 "paste-e06ac10296a89dfda746399022ab95c9456652a9.jpg",
                 "paste-e0dbc86fc9a4fb5adfeb1b09b0daa9045edea261.jpg",
                 "paste-e16ed5b1c7cab36ac0c0088528d4106d2d4a9d65.jpg",
@@ -3584,7 +3593,7 @@
                     "data": "",
                     "fields": [
                         "<u>Increased</u> <b>hydrostatic</b> pressure can cause {{c1::transudate::transudate or&nbsp;exudate}} ultrafiltrate<br>",
-                        "",
+                        "Examples that cause this: <b>Congestive heart failure</b> (transudate would be seen in the lung)",
                         "",
                         "<img src=\"paste-4354710bdaa8d50aed7453b4f391c7732ad85efb.jpg\"><br>",
                         "",
@@ -4739,6 +4748,190 @@
                         "Term4::week4::microbiology::lecture33",
                         "^Banki"
                     ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Do <b>venous</b> thrombosis embolize?<div><br></div><div>{{c1::Rarely}}<br></div>",
+                        "",
+                        "<img src=\"paste-4c6e219da3f4498bce91d5c750784ba5e6b5d1e5.jpg\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "E!SETN}Tzv",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week4::pathology::lecture34",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Which type of <b>thrombi</b> will have <u>fibrin</u> within itself?<div><br></div><div>{{c1::Arterial thrombus::Arterial or Venous}}<br></div>",
+                        "Venous will be more gelatinous due to the slugish nature of venous flow.&nbsp;",
+                        "<img src=\"paste-d932b6b34ad5ab14948600f92cc76aadfc262a53.jpg\">",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"paste-a4a46b5665e9693eb38001eb88db3644694ed8ad.jpg\">",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "rGmu,V.FVa",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week4::pathology::lecture34",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<b>Venous</b> thrombi usually&nbsp;{{c1::do::do/don't}} attach to the underlying vessel wall",
+                        "Distinguishing feature from post-mortem clots",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"paste-4fd258b2d04db83f3a312a760825ef95202c8347.jpg\">",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "v|Ay)?6HNr",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week4::pathology::lecture34",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What type of&nbsp;<u>infarct</u>&nbsp;occurs with&nbsp;<b>arterial occulusion</b>&nbsp;of solid oragns (e.g. kidney, spleen heart)?<div><br></div><div>{{c1::White (pale) infarcts}}<br></div>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"Screen Shot 2019-09-03 at 1.45.23 PM.png\">",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "w0L<!7Kle`",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week4::pathology::lecture34",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::Smallpox::Smallpox or Chickenpox}} viral lesions are <b>synchronous</b>",
+                        "Chickenpox (VZV) however is asynchronous",
+                        "<img src=\"paste-472117752e95fc5ee248a74639d58af11d4053cd.jpg\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "oR{#x+6Y9g",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week4::microbiology::lecture33",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::Chickenpox::Smallpox or Chickenpox}} viral lesions are <b>asynchronous</b>",
+                        "Smallpox will be synchronous",
+                        "<img src=\"paste-06a933629febdabaa5920f1ed87e6c1ae611e477.jpg\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "Q0(On&P4US",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week4::microbiology::lecture33",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Is shingles <b>contagious</b>?<div><br></div><div>{{c1::<img src=\"No cat.png\">}}</div>",
+                        "This is because it is a <b>reactivation</b>&nbsp;of a previous infection",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "CTYrM$[mC/",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week4::microbiology::lecture33",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "HHV-6 replicates in leukocytes and salivary glands by binding to the&nbsp;{{c1::CD46}} receptor protein.&nbsp;",
+                        "<b>CD46</b> is on <b><u>a lot</u></b> of different cells therefore, it is a very widespread infection: <a href=\"https://www.proteinatlas.org/ENSG00000117335-CD46/tissue\">Cool Link</a>",
+                        "<img src=\"paste-8b8d14978e06e2073b955e4a1d4ccbfe177c4a98.jpg\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<a href=\"https://www.proteinatlas.org/ENSG00000117335-CD46/tissue\">Cool Link</a>&nbsp;<div><img src=\"Screen Shot 2019-09-05 at 10.12.45 AM.png\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "jBYW2x4!AI",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week4::microbiology::lecture33",
+                        "^Banki"
+                    ]
                 }
             ]
         },
@@ -4822,7 +5015,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "_______ is the single leading global cause of health loss (defined as morbidity and premature death) <br><br>{{c1::Undernutrition}}",
+                        "{{c1::Undernutrition}}&nbsp;is the single leading global cause of health loss (defined as morbidity and premature death) <br>",
                         "",
                         "",
                         "",
@@ -4845,7 +5038,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "In developing countries, 5 of the 10 leading causes of death are ____ <br><br>{{c1::Infectious diseases}}",
+                        "In developing countries, 5 of the 10 leading causes of death are {{c1::Infectious diseases}}",
                         "",
                         "",
                         "",
@@ -4868,7 +5061,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "In the postnatal period, about 50% of all deaths in children younger than 5 years of age are attributed to_______, _______ & _________ <br><br>{{c1::- Pneumonia<br>- Diarrheal diseases<br>- Malaria}}",
+                        "In the postnatal period, about 50% of all deaths in children younger than 5 years of age are attributed to {{c2::Pneumonia}}, {{c1::Diarrheal diseases}}&nbsp;&amp; {{c3::Malaria}}<br>",
                         "",
                         "",
                         "",
@@ -4891,7 +5084,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "Without immediate action, {{c1::climate change}}&nbsp;stands to become the preeminent GLOBAL cause of environmental disease in the twenty-first century and beyond. <br><br><br>",
+                        "Without immediate action, {{c1::climate change}}&nbsp;stands to become the preeminent GLOBAL cause of environmental disease in the twenty-first century and beyond. <br><br>",
                         "",
                         "",
                         "",
@@ -4914,7 +5107,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "The 3 cause of climate change is the rising amounts of 3 greenhouse gases <br><br>{{c1::1. Carbon dioxide<br>2. Ozone<br>3. Methane}}",
+                        "The 3 cause of climate change is the rising amounts of 3 greenhouse gases <br><br>{{c1::1. Carbon dioxide}}<br>{{c1::2. Ozone}}<br>{{c1::3. Methane}}",
                         "",
                         "",
                         "",
@@ -4937,7 +5130,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "3 disease worsened by heat waves and air pollution are <br><br>{{c1::1. Cardiovascular<br>2. Cerebrovascular<br>3. Respiratory diseases}}",
+                        "3 disease worsened by heat waves and air pollution are:&nbsp;<br><br>{{c1::1. Cardiovascular}}<br>{{c1::2. Cerebrovascular}}<br>{{c1::3. Respiratory diseases}}",
                         "",
                         "",
                         "",
@@ -5029,7 +5222,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "Drug metabolizing enzymes has 2 groups. What phase does chemicals undergo hydrolysis, oxidation or reduction ?? _______ <br><br>{{c1::Phase I reactions}}",
+                        "Drug metabolizing enzymes has <b>2 groups</b>. What phase does chemicals undergo hydrolysis, oxidation or reduction?<br><br>{{c1::Phase I reactions}}",
                         "",
                         "",
                         "",
@@ -5099,7 +5292,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "Which *enzyme* catalyzes reactions that either detoxify xenobiotics or, less commonly, convert xenobiotics into active compounds that cause cellular injury? <br><br>{{c1::Cytochrome P-450 enzyme (CYP)}}",
+                        "Which <i>enzyme</i>&nbsp;catalyzes reactions that either detoxify xenobiotics or, less commonly, convert xenobiotics into active compounds that cause cellular injury? <br><br>{{c1::Cytochrome P-450 enzyme (CYP)}}",
                         "",
                         "",
                         "",
@@ -5193,7 +5386,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "{{c1::Ground level ozone}} is one of the most pernicious air pollutants <br><br><br>",
+                        "{{c1::Ground level ozone}} is one of the most pernicious air pollutants <br>",
                         "",
                         "",
                         "",
@@ -5263,7 +5456,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "A nonirritating, colorless, tasteless, odorless gas that is a systemic asphyxiant; important cause of accidental and suicide death is&nbsp;<br>{{c1::Carbon Monoxide (CO)}}",
+                        "A nonirritating, colorless, tasteless, odorless gas that is a systemic asphyxiant; important cause of accidental and suicide death is&nbsp;{{c1::Carbon Monoxide (CO)}}",
                         "",
                         "",
                         "",
@@ -5309,7 +5502,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "___________ has 200-fold greater affinity for *carbonmonoxide* than for *oxygen* <br><br>{{c1::Hemoglobin}}",
+                        "{{c1::Hemoglobin}}&nbsp;has 200-fold greater affinity for *carbonmonoxide* than for *oxygen* <br><br><br>",
                         "",
                         "",
                         "",
@@ -5379,7 +5572,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "4 indoor air pollutants <br><br>{{c1::- Tobacco smoke<br>- CO<br>- Nitrogen dioxide<br>- Asbestos}}",
+                        "4 indoor air pollutants <br><br>{{c1::Tobacco smoke}}<br>{{c2::CO}}<br>{{c2::Nitrogen dioxide}}<br>{{c1::Asbestos}}",
                         "",
                         "",
                         "",
@@ -5402,7 +5595,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "{{c1::Wood smoke}}&nbsp;is an irritant that may predispose to lung infections. May contain POLYCYCLIC hydrocarbons, important carcinogens <br><br><br>",
+                        "{{c1::Wood smoke}}&nbsp;is an irritant that may predispose to lung infections. May contain POLYCYCLIC hydrocarbons, important carcinogens <br>",
                         "",
                         "",
                         "",
@@ -5494,7 +5687,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "4 heavy Metals that are most commonly associated with harmful effects in humans are <br><br>{{c1::1. Lead<br>2. Mercury<br>3. Arsenic<br>4. Cadmium}}",
+                        "4 heavy Metals that are most commonly associated with harmful effects in humans are <br><br>{{c1::1. Lead}}<br>{{c1::2. Mercury}}<br>{{c1::3. Arsenic}}<br>{{c1::4. Cadmium}}",
                         "",
                         "",
                         "",
@@ -5517,7 +5710,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "A readily absorbed metal that binds to proteins and interferes with *calcium metabolism* is {{c1::Lead}}",
+                        "A readily absorbed <u>metal</u> that binds to proteins and interferes with <b>calcium metabolism</b>&nbsp;is {{c1::lead}}",
                         "",
                         "",
                         "",
@@ -5564,7 +5757,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "High levels of lead will lead to what disease in adults??? <br><br>{{c1::Peripheral neuropathies}}",
+                        "High levels of lead will lead to what disease in adults?<br><br>{{c1::Peripheral neuropathies}}",
                         "",
                         "",
                         "",
@@ -5588,7 +5781,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "What kind of anemia does LEAD leads to ? <br><br>{{c1::Microcytic hypochromic anemia}}",
+                        "What kind of <b>anemia</b> does LEAD leads to? <br><br>{{c1::Microcytic hypochromic anemia}}",
                         "",
                         "",
                         "",
@@ -5612,7 +5805,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "Small RBCs, a result of less hemoglobin is called {{c1::Microcytic}}",
+                        "Small RBCs, a result of less hemoglobin is called {{c1::microcytic}}",
                         "",
                         "",
                         "",
@@ -5635,7 +5828,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "RBCs taking up less stain as a result of less hemoglobin is called {{c1::Hypochromic}}",
+                        "RBCs taking up less stain as a result of less hemoglobin is called {{c1::hypochromic}}",
                         "",
                         "",
                         "",
@@ -5658,7 +5851,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "A reduction of the total circulating RED BLOOD CELL mass below normal limits is {{c1::Anemia}}",
+                        "A reduction of the total circulating RED BLOOD CELL mass below normal limits is {{c1::anemia}}",
                         "",
                         "",
                         "",
@@ -5704,7 +5897,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "Common poisoning among *hat makers* is {{c1::Mercury}}",
+                        "Common <u>poisoning</u> among <b>hat makers</b>&nbsp;is {{c1::Mercury}}",
                         "",
                         "",
                         "",
@@ -17243,7 +17436,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "Which *cells* of the IMMUNE SYSTEM are *directed* against *parietal cell* components (autoantibodies may be present for) in Autoimmune Gastritis? <br><br>{{c1::CD4+ T cells}}",
+                        "Which <b>cells</b>&nbsp;of the IMMUNE SYSTEM are *directed* against *parietal cell* components (autoantibodies may be present for) in Autoimmune Gastritis? <br><br>{{c1::CD4+ T cells}}",
                         "",
                         "",
                         "",
@@ -24030,7 +24223,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "A *poxvirus infection* of skin and mucous membranes most often sexually transmitted. After a 6-week incubation period, characteristic *dimpled, dome-shaped lesions* <br><br>{{c1::Molluscum contagiosum}}",
+                        "A <b>poxvirus infection</b>&nbsp;of skin and mucous membranes most often sexually transmitted. After a 6-week incubation period, characteristic <u>dimpled, dome-shaped lesions</u><br><br>{{c1::Molluscum contagiosum}}",
                         "",
                         "",
                         "",
@@ -27185,7 +27378,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "A tumor of *CD4+ helper T cells* that home to the *skin* is _______ or _____ <br><br>{{c1::Mycosis fungoides or Sezary Syndrome}}",
+                        "A tumor of <u>CD4+ helper T cells</u>&nbsp;that home to the <b>skin</b>&nbsp;is&nbsp;{{c1::Mycosis fungoides}} or {{c1::Sezary Syndrome}}",
                         "",
                         "",
                         "",
@@ -31529,8 +31722,8 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "Which syndrome occurs with Massive <b>adrenal hemorrhages</b>&nbsp;/ adrenal gland failure due to bleeding into the adrenal gland? <br><br>{{c1::Waterhouse-Friderichsen syndrome}}",
-                        "Due to DIC",
+                        "Which syndrome occurs with massive <b>adrenal hemorrhages</b>&nbsp;/ adrenal gland failure due to bleeding into the adrenal gland? <br><br>{{c1::Waterhouse-Friderichsen syndrome}}",
+                        "Due to <u>DIC</u>",
                         "",
                         "",
                         "",
@@ -33465,7 +33658,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "Raised, red-blue area, *Fibrinous exudate on pleural surface*, hemolysis; *hemosiderin production*, *Pale, red-brown appearance*, fibrous replacement, Gray-white peripheral zone and Scar contraction are Classic presentation of what disease? <br><br>{{c1::Pulmonary Embolism and Infarction}}",
+                        "Raised, red-blue area, <b>Fibrinous exudate on pleural surface</b>, hemolysis; <u>hemosiderin production</u>, Pale, red-brown appearance, fibrous replacement, Gray-white peripheral zone and Scar contraction are Classic presentation of what disease? <br><br>{{c1::Pulmonary Embolism and Infarction}}",
                         "",
                         "",
                         "",
@@ -33481,6 +33674,7 @@
                     "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
                     "tags": [
                         "Robbins::Chapter_15",
+                        "Term4::week4::pathology::lecture34",
                         "^Banki",
                         "^Pimp"
                     ]
@@ -36971,7 +37165,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "Blood loss greater than 20% may lead to what kind of shock ?<div><br.<br><br></br.<br></div><div><br.<br>{{c1::Hemorrhagic (hypovolemic) shock}}</br.<br></div>",
+                        "Blood loss greater than <b>20%</b> may lead to what kind of shock?<div><br.<br><br></br.<br></div><div><br.<br>{{c1::Hemorrhagic (hypovolemic) shock}}</br.<br></div>",
                         "",
                         "",
                         "",
@@ -38918,7 +39112,7 @@
                     7
                 ],
                 "order": 1,
-                "perDay": 150,
+                "perDay": 175,
                 "retirementActions": {
                     "delete": false,
                     "move": false,
@@ -39329,7 +39523,7 @@
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "9c22b31c-ceb2-11e9-a8c6-dca9046e43a6",
-            "css": "/* Profile: Ultrazanki FA || Satus: Saved */ \n\nhtml { overflow: scroll; overflow-x: hidden; }\n/* CONTAINER FOR YOUR CARDS */\n#kard {\n    padding: 0px 0px;\n    max-width: 950px; /* CHANGE CARD SIZE HERE */\n    margin: 0 auto; /* CENTERS THE CARD IN THE MIDDLE OF THE WINDOW */\n    word-wrap: break-word; /* BREAKS UP LONG WORKS */\n}\n\n\n/* APPLIES TO THE WHOLE CARD */\n.card {\n    font-family: Vernada;\n    font-size: 28px; /* FONT SIZE */\n    text-align: center; /* ALIGN TEXT */\n    color: black; /* FONT COLOR */\n    line-height: 1.2em;\n    background-color: #FEFCF9; /* BACKGROUND COLOR Orange FDFBF6 blue/white FAFAFA  */\n}\n\n.list {\n    font-family: Vernada;\n    font-size: 28px; /* FONT SIZE */\n    margin-left: auto;\n    margin-right: auto;\n    text-align: left; /* ALIGN TEXT */\n    width: 8em\n    color: black; /* FONT COLOR */\n    line-height: 1.2em;\n}\n\n/* STYLE FOR CLOZE DELETIONS */\n.cloze, .cloze b, .cloze u, .cloze i { font-weight: bold; color: #993330 !important;}\n\n.night_mode .cloze  { font-weight: bold; color: MediumSeaGreen !important;}\n.night_mode .cloze b { font-weight: bold; color: MediumSeaGreen !important;}\n.night_mode .cloze u { font-weight: bold; color: MediumSeaGreen !important;}\n.night_mode .cloze i { font-weight: bold; color: MediumSeaGreen !important;}\n\n\n/* STYLE FOR EXTRA PORTION ON BACK OF CARD */\n#extra { font-size: 26px; color: black; font-style: italic;  }\n#extra i { font-size: 26px; color: black; font-style: italic;  }\n\n.night_mode #extra { font-size: 26px; color: white !important; font-style: italic; }\n.night_mode #extra i { font-size: 26px; color: white !important; font-style: italic; }\n\n\n/* STYLE TAGS TO APPEAR WHEN HOVERING OVER TOP OF CARD */\n.tags { \n    color: #A6ABB9;\n    opacity: 0;\n    font-size: 10px; \n    width: 100%;\n    text-align: left;\n    text-transform: uppercase; \n    position: fixed; \n    padding: 0; \n    bottom:0;  \n    right: 0;}\n.tags:hover { opacity: 1; position: fixed;}\n\n\n/* IMAGE STYLE */\nimg { display: block; max-width: 950px; max-height: 600px; margin-center: auto; margin: 10px auto 0 auto;\nbox-shadow: 3px 6px 15px 1px rgba(0, 0, 0, 0.2), 3px 1px 20px 1px rgba(0, 0, 0, 0.19)\n}\n\nimg:active { \n\ttransform: scale(1.3); /* (130% zoom - Note: if the zoom is too large, it will go outside of the viewport) */\n}\n\n.hint img { display: block; max-width: 925px; max-height: 100%; margin-center: auto; margin: 10px auto 0 auto;\nbox-shadow: 3px 6px 15px 1px rgba(0, 0, 0, 0.2), 3px 1px 20px 1px rgba(0, 0, 0, 0.19)\n}\n\ntr {font-size: 12px; }\n\n\n/* COLOR ACCENTS FOR BOLD-ITALICS-UNDERLINE */\nb {color: #306299; !important; } /* BOLD STYLE */\nu { text-decoration: none; color: #D18835 ;} /* UNDERLINE STYLE */\ni  { color: #309699; } /* ITALICS STYLE */\na { color: blue !important; text-decoration: none; font-size: 20px; font-style: normal; } /* LINK STYLE */\n\n.night_mode b { color: #C695C6; !important; } /* BOLD STYLE */\n.night_mode u { text-decoration: none !important; color: #5EB3B3; !important;} /* UNDERLINE STYLE */\n.night_mode i  { color: IndianRed !important; } /* ITALICS STYLE */\n.night_mode a { color: LightGray !important; text-decoration: none; font-size: 10px; font-style: normal; }\n\n.note {\n\tmargin-left: auto;\n   \tmargin-right: auto;\n    \twidth: 8em\n\tfont-family: Vernada;\n\tfont-size: 22px; \n\ttext-align: left; \n\tcolor: black; \n}\n.note img { display: block; max-width: 925px; max-height: 100%; margin-center: auto; margin: 10px auto 0 auto;\nbox-shadow: 3px 6px 15px 1px rgba(0, 0, 0, 0.2), 3px 1px 20px 1px rgba(0, 0, 0, 0.19)\n}\n\n.night_mode .note {\n\tmax-width: 600px;\n\tfont-family: Vernada;\n\tfont-size: 22px; /* FONT SIZE */\n\ttext-align: left; /* ALIGN TEXT */\n\tcolor: white; \n}\n\n.hint {  \nfont-family: Vernada;\n    font-size: 22px; /* FONT SIZE */\n    text-align: center; /* ALIGN TEXT */\n    color: black; /* FONT COLOR */\n}\n.night_mode .hint {  \nfont-family: Vernada;\n    font-size: 22px; /* FONT SIZE */\n    text-align: center; /* ALIGN TEXT */\n    color: white; /* FONT COLOR */\n}\n/* ADJUSTMENT FOR MOBILE DEVICES */\n.mobile .card { color: black; background-color: #FDFBF6; } \n.mobile .tags:hover { opacity: 1; position: relative;}\n.mobile .card img:active { width: inherit; max-height: none;}\n.mobile .card img { max-width: 100%; max-height: 650px;}",
+            "css": "/* Profile: Ultrazanki FA || Satus: Saved */ \n\nhtml { overflow: scroll; overflow-x: hidden; }\n/* CONTAINER FOR YOUR CARDS */\n#kard {\n    padding: 0px 0px;\n    max-width: 950px; /* CHANGE CARD SIZE HERE */\n    margin: 0 auto; /* CENTERS THE CARD IN THE MIDDLE OF THE WINDOW */\n    word-wrap: break-word; /* BREAKS UP LONG WORKS */\n}\n\n\n/* APPLIES TO THE WHOLE CARD */\n.card {\n    font-family: Vernada;\n    font-size: 28px; /* FONT SIZE */\n    text-align: center; /* ALIGN TEXT */\n    color: black; /* FONT COLOR */\n    line-height: 1.2em;\n    background-color: #FEFCF9; /* BACKGROUND COLOR Orange FDFBF6 blue/white FAFAFA  */\n}\n\n.list {\n    font-family: Vernada;\n    font-size: 28px; /* FONT SIZE */\n    margin-left: auto;\n    margin-right: auto;\n    text-align: left; /* ALIGN TEXT */\n    width: 8em\n    color: black; /* FONT COLOR */\n    line-height: 1.2em;\n}\n\n/* STYLE FOR CLOZE DELETIONS */\n.cloze, .cloze b, .cloze u, .cloze i { font-weight: bold; color: #993330 !important;}\n\n.night_mode .cloze  { font-weight: bold; color: MediumSeaGreen !important;}\n.night_mode .cloze b { font-weight: bold; color: MediumSeaGreen !important;}\n.night_mode .cloze u { font-weight: bold; color: MediumSeaGreen !important;}\n.night_mode .cloze i { font-weight: bold; color: MediumSeaGreen !important;}\n\n\n/* STYLE FOR EXTRA PORTION ON BACK OF CARD */\n#extra { font-size: 26px; color: black; font-style: italic;  }\n#extra i { font-size: 26px; color: black; font-style: italic;  }\n\n.night_mode #extra { font-size: 26px; color: white !important; font-style: italic; }\n.night_mode #extra i { font-size: 26px; color: white !important; font-style: italic; }\n\n\n/* STYLE TAGS TO APPEAR WHEN HOVERING OVER TOP OF CARD */\n.tags { \n    color: #A6ABB9;\n    opacity: 0;\n    font-size: 10px; \n    width: 100%;\n    text-align: left;\n    text-transform: uppercase; \n    position: fixed; \n    padding: 0; \n    bottom:0;  \n    right: 0;}\n.tags:hover { opacity: 1; position: fixed;}\n\n\n/* IMAGE STYLE */\nimg { display: block; max-width: 950px; max-height: 600px; margin-center: auto; margin: 10px auto 0 auto;\nbox-shadow: 3px 6px 15px 1px rgba(0, 0, 0, 0.2), 3px 1px 20px 1px rgba(0, 0, 0, 0.19)\n}\n\nimg:active { \n\ttransform: scale(1.3); /* (130% zoom - Note: if the zoom is too large, it will go outside of the viewport) */\n}\n\n.hint img { display: block; max-width: 925px; max-height: 100%; margin-center: auto; margin: 10px auto 0 auto;\nbox-shadow: 3px 6px 15px 1px rgba(0, 0, 0, 0.2), 3px 1px 20px 1px rgba(0, 0, 0, 0.19)\n}\n\ntr {font-size: 12px; }\n\n\n/* COLOR ACCENTS FOR BOLD-ITALICS-UNDERLINE */\nb {color: #306299; !important; } /* BOLD STYLE */\nu { text-decoration: none; color: #D18835 ;} /* UNDERLINE STYLE */\ni  { color: #309699; } /* ITALICS STYLE */\na { color: blue !important; text-decoration: none; font-size: 20px; font-style: normal; } /* LINK STYLE */\n\n.night_mode b { color: #C695C6; !important; } /* BOLD STYLE */\n.night_mode u { text-decoration: none !important; color: #5EB3B3; !important;} /* UNDERLINE STYLE */\n.night_mode i  { color: IndianRed !important; } /* ITALICS STYLE */\n.night_mode a { color: LightGray !important; text-decoration: none; font-size: 10px; font-style: normal; }\n\n.note {\n\tmargin-left: auto;\n   \tmargin-right: auto;\n    \twidth: 8em\n\tfont-family: Vernada;\n\tfont-size: 22px; \n\tcolor: black; \n}\n.note img { display: block; max-width: 925px; max-height: 100%; margin-center: auto; margin: 10px auto 0 auto;\nbox-shadow: 3px 6px 15px 1px rgba(0, 0, 0, 0.2), 3px 1px 20px 1px rgba(0, 0, 0, 0.19)\n}\n\n.night_mode .note {\n\tmax-width: 600px;\n\tfont-family: Vernada;\n\tfont-size: 22px; /* FONT SIZE */\n\ttext-align: left; /* ALIGN TEXT */\n\tcolor: white; \n}\n\n.hint {  \nfont-family: Vernada;\n    font-size: 22px; /* FONT SIZE */\n    text-align: center; /* ALIGN TEXT */\n    color: black; /* FONT COLOR */\n}\n.night_mode .hint {  \nfont-family: Vernada;\n    font-size: 22px; /* FONT SIZE */\n    text-align: center; /* ALIGN TEXT */\n    color: white; /* FONT COLOR */\n}\n/* ADJUSTMENT FOR MOBILE DEVICES */\n.mobile .card { color: black; background-color: #FDFBF6; } \n.mobile .tags:hover { opacity: 1; position: relative;}\n.mobile .card img:active { width: inherit; max-height: none;}\n.mobile .card img { max-width: 100%; max-height: 650px;}",
             "flds": [
                 {
                     "font": "Helvetica",
