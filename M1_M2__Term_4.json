@@ -56,6 +56,7 @@
                 "paste-04d5cf60d11cdd6ed7659af238aa53ab2b209d09.jpg",
                 "paste-0d062346a32ffa2d5258b8789ac378e5957ff313.jpg",
                 "paste-0d6d6086f98aea09467876ce9c8bc181619c6fba.jpg",
+                "paste-0e3c8e006b45b4e473e05642259b41fb7fc2d3f4.jpg",
                 "paste-100227356819457.jpg",
                 "paste-100734162960385.jpg",
                 "paste-100815767339009.jpg",
@@ -74,7 +75,9 @@
                 "paste-12455405158401_1544830391401.jpg",
                 "paste-12d14b20bd82b82ac03ee2a7eee080c7550649d6.jpg",
                 "paste-14ee7e92fb1454dbca19bb8931b0cf4ded88dc0b.jpg",
+                "paste-15a6d313da1194d534f938a3afe403a5275187cf.jpg",
                 "paste-16080357556725.jpg",
+                "paste-1c6958cea0ea2dfa95c9aa93bc7bcbd10fa92c0b.jpg",
                 "paste-1de8354a89b636e756678cd5a0caf6595059f296.jpg",
                 "paste-207824877518851.jpg",
                 "paste-211007448285185.jpg",
@@ -85,18 +88,21 @@
                 "paste-30803505446913.jpg",
                 "paste-3091df40619cd8b1b83b9ba5a56b917fcc2032dd.jpg",
                 "paste-32800b48d2bde513b64ec10d71c2d62d1e31cb7d.jpg",
+                "paste-332709641584891.jpg",
                 "paste-381625024118785.jpg",
                 "paste-3912715207153.jpg",
                 "paste-397821345792562.jpg",
                 "paste-3fa10c8c312b4ce1dd13bd95301482f91377d8e1.jpg",
                 "paste-40d8240fdedaa7ea5e6814ed43672933d5f718cf.jpg",
                 "paste-415593920463326.jpg",
+                "paste-41f30fb65ecb4ffa3137777471d451334ba74178.jpg",
                 "paste-4354710bdaa8d50aed7453b4f391c7732ad85efb.jpg",
                 "paste-45510e30a8da8757efde60ab0a3748d3af735a94.jpg",
                 "paste-4915ac751b67078512b83209918932fadc297b73.jpg",
                 "paste-49950469652881.jpg",
                 "paste-4c3416c02e6fb3c23e6ab55968e3e63f1088f587.jpg",
                 "paste-4e313587154a4b8af63bada6ebf4d565da744eaf.jpg",
+                "paste-4e9dbc1d944f1e8e53824c93e198b2c595613c58.jpg",
                 "paste-503889a95ae37a0b46d8480db614087891139f58.jpg",
                 "paste-552946974588931.jpg",
                 "paste-58feb3a41b5e8a73a8bb3e3fd7ad0d2543ff98c5.jpg",
@@ -119,6 +125,7 @@
                 "paste-80628474ce0b338d8b2613869b16925755042705.jpg",
                 "paste-85e63198427ad399126a1183df46903987e5e78e.jpg",
                 "paste-8641474200049.jpg",
+                "paste-8f780983e924783679adb1a90ca994a01d367c33.jpg",
                 "paste-905648b4e7154ddb7ab98dcdb6e300c7fe67e7b5.jpg",
                 "paste-90a7b2a801b2724d3a5ba27fa10ba8da6648cd4b.jpg",
                 "paste-9969b5e92be11c1577b275bc1cb8a1685bc5c335.jpg",
@@ -152,6 +159,7 @@
                 "paste-d85e279242802d3272343d7bb7aacc960f3e6f50.jpg",
                 "paste-d8bb3f834b7b9370df9ad8e708a1ce9765cba6db.jpg",
                 "paste-e06ac10296a89dfda746399022ab95c9456652a9.jpg",
+                "paste-e0dbc86fc9a4fb5adfeb1b09b0daa9045edea261.jpg",
                 "paste-e16ed5b1c7cab36ac0c0088528d4106d2d4a9d65.jpg",
                 "paste-e37074e0ccd50d75919acb5c0070c6176b1d8b88.jpg",
                 "paste-e3c22983f427c305ab4a5beeaacb85d05e88505c.jpg",
@@ -164,6 +172,7 @@
                 "paste-f0edab44f99a40de443b908194d90e7cba5b97a2.jpg",
                 "paste-f34e97b76b21a98e229bf258a382e026aec0b902.jpg",
                 "paste-f7e62bf0e5eba0b3fd20f016c1377b945b208cae.jpg",
+                "paste-f8c9a941356658a826515aa3b97c800256c293ef.jpg",
                 "paste-fd53a316dcdbae72a6961f5c3cc9a80112b440f3.jpg",
                 "paste-fffd50cb4cce5b66b05c7ce0b25945f7dc7a9cd6.jpg",
                 "pleural-effusion.jpg"
@@ -4089,7 +4098,7 @@
                     "data": "",
                     "fields": [
                         "What <b>two</b> lab values are <u>decreased</u> in DIC?<div><br></div><div>{{c1::Platelets}}<br></div><div>{{c2::Fibrinogen}}<br></div>",
-                        "",
+                        "All others (ex:D-Dimers) will be <b>increased</b>",
                         "",
                         "",
                         "",
@@ -4477,6 +4486,259 @@
                         "Term4::week4::microbiology::lecture31",
                         "^Banki"
                     ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What causes the <b>cold</b> and <b>clammy</b> feeling in <u>hypovolemic</u> or <u>cardiogenic</u> shock?<div><br></div><div>{{c1::Massive Vaso<i>constriction</i>}}<br></div>",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"paste-332709641584891.jpg\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "m--AL!f)SY",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week4::pathology::lecture32",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "When does <b>shock</b> become <u>irreversible</u>?<div><br></div><div>{{c1::Multiple organ failure}}<br></div>",
+                        "",
+                        "Widespread necrosis in any organ due to <b>ischemia</b>&nbsp;",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"Screen Shot 2019-09-03 at 3.20.09 PM.png\"><br>",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "m_LY>Y6A-d",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week4::pathology::lecture32",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What lab value <b>elevation</b> would indicate a <u>progressive</u> stage of <u>shock</u>?<div><br></div><div>{{c1::Lactic acid}}</div>",
+                        "",
+                        "<img src=\"paste-41f30fb65ecb4ffa3137777471d451334ba74178.jpg\">",
+                        "",
+                        "<img src=\"paste-332709641584891.jpg\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "c{6d0x$xOT",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week4::pathology::lecture32",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<b>Septic shock</b> is most commonly caused by gram&nbsp;{{c1::positive}} bacteria",
+                        "However, any infection can lead to septic shock, Gram negative included. Gram positive is just the most common",
+                        "<img src=\"paste-1c6958cea0ea2dfa95c9aa93bc7bcbd10fa92c0b.jpg\">",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"Screen Shot 2019-09-03 at 3.20.09 PM.png\"><br>",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "G.67YPP-.J",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week4::pathology::lecture32",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What is a <b>clinically</b> useful indicator for <u>septic shock</u>?<div><br></div><div>{{c1::Procalcitonin}}<br></div>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<div><img src=\"paste-e0dbc86fc9a4fb5adfeb1b09b0daa9045edea261.jpg\"><br></div><img src=\"Screen Shot 2019-09-03 at 3.20.09 PM.png\"><br>",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "F=c2Nfn#.e",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week4::pathology::lecture32",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<b>Ischemia</b> in <u>septic shock</u> is due to massive vasodilation and&nbsp;{{c1::hypo}}perfusion",
+                        "",
+                        "<img src=\"paste-0e3c8e006b45b4e473e05642259b41fb7fc2d3f4.jpg\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "M^f,Gnm}u#",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week4::pathology::lecture32",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<i>Mycobacterium&nbsp;</i>{{c1::<i>fortuitum</i>}}&nbsp;is commonly found in&nbsp;<b>surgical-site</b> infections&nbsp;",
+                        "",
+                        "<img src=\"paste-4e9dbc1d944f1e8e53824c93e198b2c595613c58.jpg\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "C.D`%-9MCf",
+                    "note_model_uuid": "9c22b31c-ceb2-11e9-a8c6-dca9046e43a6",
+                    "tags": [
+                        "^Banki",
+                        "Term4::week4::microbiology::lecture33"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What type of <u>mycobacterium</u> presents with <b>ulcerations</b>?<div><br></div><div>{{c1::<i>Mycobacterium ulcerans</i>}}<br></div>",
+                        "....oh really?",
+                        "<img src=\"paste-15a6d313da1194d534f938a3afe403a5275187cf.jpg\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "L;tM@jS+3s",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week4::microbiology::lecture33",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What <b>toxin</b>&nbsp;secreated by a specific <i>mycobacterium spp</i>. is responsible for a <b>buruli</b> ulcer?<div><br></div><div>{{c1::Mycolactone}}<br></div>",
+                        "The specific mycobacterium in this case in <b>mycobacterium ulcerans</b>",
+                        "<img src=\"paste-15a6d313da1194d534f938a3afe403a5275187cf.jpg\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<div>Wikipedia:</div><div>In humans, mycolactone is the toxin responsible for Buruli ulcers, doing so by damaging tissues and inhibiting the immune response.<br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "b|zob9zN)Z",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week4::microbiology::lecture33",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<i>Mycobacterium&nbsp;</i>{{c1::<i>chelonae</i>}}&nbsp;may present with a <b>non-healing wound</b> or infection in the lungs, eye, or joints",
+                        "Patients are often immonosuppressed which allows for the lesions to spread throughout the body",
+                        "<img src=\"paste-f8c9a941356658a826515aa3b97c800256c293ef.jpg\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "Lw[F<b6+~?",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week4::microbiology::lecture33",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What is the <b><u>most&nbsp;</u>common reservoir</b> for non-tuberculosis&nbsp;<i>mycobacterium spp.</i>?<div><br></div><div>{{c1::Water}}<br></div>",
+                        "<u>Environment</u> is the general cue. Water is common in many.<div><br></div><div> <div> <div> <div> <div><i>Mycobacterium marinum</i>: \"<u>Fish tank</u> granulomas\"</div><div> <div> <div> <div> <div><i>Mycobacterium ulcerans</i>: Central and West Africa around areas of lush vegetation and <u>swamps (aka dirty water)</u><br><div> <div> <div> <div> <div><i>Mycobacterium chelonae</i>: Water&nbsp;</div> </div> </div> </div></div></div><div><div> <div> <div> <div> <div>Mycobacterium fortuitum: Water and dirt&nbsp;</div> </div> </div> </div></div></div> </div> </div> </div></div> </div> </div> </div></div>",
+                        "<img src=\"paste-8f780983e924783679adb1a90ca994a01d367c33.jpg\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "t=Cp[&;WU.",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::week4::microbiology::lecture33",
+                        "^Banki"
+                    ]
                 }
             ]
         },
@@ -4530,10 +4792,13 @@
             "extendRev": 50,
             "media_files": [
                 "Screen Shot 2019-08-16 at 5.30.08 PM.png",
+                "Screen Shot 2019-09-02 at 4.30.44 PM.png",
                 "Screen Shot 2019-09-03 at 1.45.23 PM.png",
                 "Screen Shot 2019-09-03 at 8.11.48 AM.png",
                 "Screen Shot 2019-09-03 at 8.19.08 AM.png",
                 "Screen Shot 2019-09-03 at 8.38.11 AM.png",
+                "Screen Shot 2019-09-03 at 8.42.33 AM.png",
+                "Screen Shot 2019-09-04 at 9.20.27 PM.png",
                 "paste-0bcdd2e981467afb38a5c4d63c6119df8c4fc92e.jpg",
                 "paste-517ad4c8f76575ae7be4e205b94c6253323b963e.jpg",
                 "paste-8b106ca89a7551ed418f66f0fba804bec6cd68d1.jpg",
@@ -11776,30 +12041,6 @@
                     "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
                     "tags": [
                         "Robbins::Chapter_11",
-                        "^Banki"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "{{c2::250}}-{{c2::320}} gm in females\n{{c1::300}}-{{c1::360}} gm in males <br><br>",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "flags": 0,
-                    "guid": "D=rWF=Lnqr",
-                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
-                    "tags": [
-                        "Robbins::Chapter_12",
-                        "Term4::week4::microbiology::lecture31",
                         "^Banki"
                     ]
                 },
@@ -24733,11 +24974,11 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "Tumor marker for ovarian tumor is <br><br>{{c1::CA-125}}",
+                        "Tumor marker for <b>ovarian</b> tumor is {{c1::CA-125}}",
                         "",
                         "",
                         "",
-                        "",
+                        "<img src=\"Screen Shot 2019-09-02 at 4.30.44 PM.png\">",
                         "",
                         "",
                         "",
@@ -24749,6 +24990,7 @@
                     "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
                     "tags": [
                         "Robbins::Chapter_23",
+                        "Term4::week3::pathology::lecture24",
                         "^Banki"
                     ]
                 },
@@ -31287,8 +31529,8 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "Which syndrome occurs with Massive *adrenal hemorrhages* / adrenal gland failure due to bleeding into the adrenal gland? <br><br>{{c1::Waterhouse-Friderichsen syndrome}}",
-                        "",
+                        "Which syndrome occurs with Massive <b>adrenal hemorrhages</b>&nbsp;/ adrenal gland failure due to bleeding into the adrenal gland? <br><br>{{c1::Waterhouse-Friderichsen syndrome}}",
+                        "Due to DIC",
                         "",
                         "",
                         "",
@@ -31303,6 +31545,7 @@
                     "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
                     "tags": [
                         "Robbins::Chapter_14",
+                        "Term4::week4::pathology::lecture32",
                         "^Banki",
                         "^Pimp"
                     ]
@@ -34593,11 +34836,11 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "What lung cancer can cause *paraneoplastic syndromes* _______________? <br><br>{{c1::Small cell lung carcinomas}}",
+                        "What lung cancer can cause <b>paraneoplastic</b> syndromes? <br><br>{{c1::Small cell lung carcinomas}}",
                         "",
                         "",
                         "",
-                        "",
+                        "<br/><img src=\"Screen Shot 2019-09-04 at 9.20.27 PM.png\">",
                         "",
                         "",
                         "",
@@ -36728,13 +36971,13 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "Blood loss greater than 20% may lead to what kind of shock ?_____________ <br.<br>{{c1::Hemorrhagic (hypovolemic) shock}}",
+                        "Blood loss greater than 20% may lead to what kind of shock ?<div><br.<br><br></br.<br></div><div><br.<br>{{c1::Hemorrhagic (hypovolemic) shock}}</br.<br></div>",
                         "",
                         "",
                         "",
                         "",
                         "",
-                        "",
+                        "<img src=\"Screen Shot 2019-09-03 at 8.42.33 AM.png\"><br>",
                         "",
                         "",
                         ""
@@ -36744,6 +36987,7 @@
                     "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
                     "tags": [
                         "Robbins::Chapter_04",
+                        "Term4::week4::pathology::lecture32",
                         "^Banki",
                         "^Pimp"
                     ]
@@ -36937,13 +37181,13 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "Which 2 abnormalities causes hypercoagulabilty <br.<br>{{c1::- Inherited (factor v leiden)<br>- Acquired (cancer)\n        <div><img src=\"quizlet-HRziXYPC6.18YFct6iDaYg_m.png\" /></div>\n        }}",
+                        "Which <u>two</u> abnormalities causes <b>hypercoagulabilty</b>?<div><br.<br><br></br.<br></div><div><br.<br>{{c1::- Inherited (factor v leiden)<br>- Acquired (cancer)</br.<br>}}</div>",
                         "",
                         "",
                         "",
                         "",
                         "",
-                        "",
+                        "<img src=\"quizlet-HRziXYPC6.18YFct6iDaYg_m.png\">",
                         "",
                         "",
                         ""
@@ -38992,7 +39236,7 @@
                     "ord": 2,
                     "rtl": false,
                     "size": 20,
-                    "sticky": true
+                    "sticky": false
                 },
                 {
                     "font": "Arial",
@@ -39046,7 +39290,7 @@
                     "ord": 8,
                     "rtl": false,
                     "size": 20,
-                    "sticky": true
+                    "sticky": false
                 },
                 {
                     "font": "Arial",
@@ -39055,7 +39299,7 @@
                     "ord": 9,
                     "rtl": false,
                     "size": 20,
-                    "sticky": true
+                    "sticky": false
                 }
             ],
             "latexPost": "\\end{document}",
@@ -39063,7 +39307,7 @@
             "name": "Cloze-E-z-A-Pathology",
             "sortf": 0,
             "tags": [
-                "Term4::week4::microbiology::lecture31",
+                "Term4::week4::microbiology::lecture33",
                 "^Banki"
             ],
             "tmpls": [
@@ -39085,7 +39329,7 @@
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "9c22b31c-ceb2-11e9-a8c6-dca9046e43a6",
-            "css": "/* Profile: Ultrazanki FA || Satus: Saved */ \n\nhtml { overflow: scroll; overflow-x: hidden; }\n/* CONTAINER FOR YOUR CARDS */\n#kard {\n    padding: 0px 0px;\n    max-width: 950px; /* CHANGE CARD SIZE HERE */\n    margin: 0 auto; /* CENTERS THE CARD IN THE MIDDLE OF THE WINDOW */\n    word-wrap: break-word; /* BREAKS UP LONG WORKS */\n}\n\n\n/* APPLIES TO THE WHOLE CARD */\n.card {\n    font-family: Vernada;\n    font-size: 28px; /* FONT SIZE */\n    text-align: center; /* ALIGN TEXT */\n    color: black; /* FONT COLOR */\n    line-height: 1.2em;\n    background-color: #FEFCF9; /* BACKGROUND COLOR Orange FDFBF6 blue/white FAFAFA  */\n}\n\n.list {\n    font-family: Vernada;\n    font-size: 28px; /* FONT SIZE */\n    text-align: left; /* ALIGN TEXT */\n    margin-left: auto;\n    margin-right: auto;\n    width: 8em\n    color: black; /* FONT COLOR */\n    line-height: 1.2em;\n    background-color: #FEFCF9; /* BACKGROUND COLOR Orange FDFBF6 blue/white FAFAFA  */\n}\n\n/* STYLE FOR CLOZE DELETIONS */\n.cloze, .cloze b, .cloze u, .cloze i { font-weight: bold; color: #993330 !important;}\n\n.night_mode .cloze  { font-weight: bold; color: MediumSeaGreen !important;}\n.night_mode .cloze b { font-weight: bold; color: MediumSeaGreen !important;}\n.night_mode .cloze u { font-weight: bold; color: MediumSeaGreen !important;}\n.night_mode .cloze i { font-weight: bold; color: MediumSeaGreen !important;}\n\n\n/* STYLE FOR EXTRA PORTION ON BACK OF CARD */\n#extra { font-size: 26px; color: black; font-style: italic;  }\n#extra i { font-size: 26px; color: black; font-style: italic;  }\n\n.night_mode #extra { font-size: 26px; color: white !important; font-style: italic; }\n.night_mode #extra i { font-size: 26px; color: white !important; font-style: italic; }\n\n\n/* STYLE TAGS TO APPEAR WHEN HOVERING OVER TOP OF CARD */\n.tags { \n    color: #A6ABB9;\n    opacity: 0;\n    font-size: 10px; \n    width: 100%;\n    text-align: left;\n    text-transform: uppercase; \n    position: fixed; \n    padding: 0; \n    bottom:0;  \n    right: 0;}\n.tags:hover { opacity: 1; position: fixed;}\n\n\n/* IMAGE STYLE */\nimg { display: block; max-width: 950px; max-height: 600px; margin-center: auto; margin: 10px auto 0 auto;\nbox-shadow: 3px 6px 15px 1px rgba(0, 0, 0, 0.2), 3px 1px 20px 1px rgba(0, 0, 0, 0.19)\n}\n\nimg:active { \n\ttransform: scale(1.3); /* (130% zoom - Note: if the zoom is too large, it will go outside of the viewport) */\n}\n\n.hint img { display: block; max-width: 925px; max-height: 100%; margin-center: auto; margin: 10px auto 0 auto;\nbox-shadow: 3px 6px 15px 1px rgba(0, 0, 0, 0.2), 3px 1px 20px 1px rgba(0, 0, 0, 0.19)\n}\n\ntr {font-size: 12px; }\n\n\n/* COLOR ACCENTS FOR BOLD-ITALICS-UNDERLINE */\nb {color: #306299; !important; } /* BOLD STYLE */\nu { text-decoration: none; color: #D18835 ;} /* UNDERLINE STYLE */\ni  { color: #309699; } /* ITALICS STYLE */\na { color: blue !important; text-decoration: none; font-size: 20px; font-style: normal; } /* LINK STYLE */\n\n.night_mode b { color: #C695C6; !important; } /* BOLD STYLE */\n.night_mode u { text-decoration: none !important; color: #5EB3B3; !important;} /* UNDERLINE STYLE */\n.night_mode i  { color: IndianRed !important; } /* ITALICS STYLE */\n.night_mode a { color: LightGray !important; text-decoration: none; font-size: 10px; font-style: normal; }\n\n.note {\n\tmargin-left: auto;\n   \tmargin-right: auto;\n    \twidth: 8em\n\tfont-family: Vernada;\n\tfont-size: 22px; \n\ttext-align: left; \n\tcolor: black; \n}\n.note img { display: block; max-width: 925px; max-height: 100%; margin-center: auto; margin: 10px auto 0 auto;\nbox-shadow: 3px 6px 15px 1px rgba(0, 0, 0, 0.2), 3px 1px 20px 1px rgba(0, 0, 0, 0.19)\n}\n\n.night_mode .note {\n\tmax-width: 600px;\n\tfont-family: Vernada;\n\tfont-size: 22px; /* FONT SIZE */\n\ttext-align: left; /* ALIGN TEXT */\n\tcolor: white; \n}\n\n.hint {  \nfont-family: Vernada;\n    font-size: 22px; /* FONT SIZE */\n    text-align: center; /* ALIGN TEXT */\n    color: black; /* FONT COLOR */\n}\n.night_mode .hint {  \nfont-family: Vernada;\n    font-size: 22px; /* FONT SIZE */\n    text-align: center; /* ALIGN TEXT */\n    color: white; /* FONT COLOR */\n}\n/* ADJUSTMENT FOR MOBILE DEVICES */\n.mobile .card { color: black; background-color: #FDFBF6; } \n.mobile .tags:hover { opacity: 1; position: relative;}\n.mobile .card img:active { width: inherit; max-height: none;}\n.mobile .card img { max-width: 100%; max-height: 650px;}",
+            "css": "/* Profile: Ultrazanki FA || Satus: Saved */ \n\nhtml { overflow: scroll; overflow-x: hidden; }\n/* CONTAINER FOR YOUR CARDS */\n#kard {\n    padding: 0px 0px;\n    max-width: 950px; /* CHANGE CARD SIZE HERE */\n    margin: 0 auto; /* CENTERS THE CARD IN THE MIDDLE OF THE WINDOW */\n    word-wrap: break-word; /* BREAKS UP LONG WORKS */\n}\n\n\n/* APPLIES TO THE WHOLE CARD */\n.card {\n    font-family: Vernada;\n    font-size: 28px; /* FONT SIZE */\n    text-align: center; /* ALIGN TEXT */\n    color: black; /* FONT COLOR */\n    line-height: 1.2em;\n    background-color: #FEFCF9; /* BACKGROUND COLOR Orange FDFBF6 blue/white FAFAFA  */\n}\n\n.list {\n    font-family: Vernada;\n    font-size: 28px; /* FONT SIZE */\n    margin-left: auto;\n    margin-right: auto;\n    text-align: left; /* ALIGN TEXT */\n    width: 8em\n    color: black; /* FONT COLOR */\n    line-height: 1.2em;\n}\n\n/* STYLE FOR CLOZE DELETIONS */\n.cloze, .cloze b, .cloze u, .cloze i { font-weight: bold; color: #993330 !important;}\n\n.night_mode .cloze  { font-weight: bold; color: MediumSeaGreen !important;}\n.night_mode .cloze b { font-weight: bold; color: MediumSeaGreen !important;}\n.night_mode .cloze u { font-weight: bold; color: MediumSeaGreen !important;}\n.night_mode .cloze i { font-weight: bold; color: MediumSeaGreen !important;}\n\n\n/* STYLE FOR EXTRA PORTION ON BACK OF CARD */\n#extra { font-size: 26px; color: black; font-style: italic;  }\n#extra i { font-size: 26px; color: black; font-style: italic;  }\n\n.night_mode #extra { font-size: 26px; color: white !important; font-style: italic; }\n.night_mode #extra i { font-size: 26px; color: white !important; font-style: italic; }\n\n\n/* STYLE TAGS TO APPEAR WHEN HOVERING OVER TOP OF CARD */\n.tags { \n    color: #A6ABB9;\n    opacity: 0;\n    font-size: 10px; \n    width: 100%;\n    text-align: left;\n    text-transform: uppercase; \n    position: fixed; \n    padding: 0; \n    bottom:0;  \n    right: 0;}\n.tags:hover { opacity: 1; position: fixed;}\n\n\n/* IMAGE STYLE */\nimg { display: block; max-width: 950px; max-height: 600px; margin-center: auto; margin: 10px auto 0 auto;\nbox-shadow: 3px 6px 15px 1px rgba(0, 0, 0, 0.2), 3px 1px 20px 1px rgba(0, 0, 0, 0.19)\n}\n\nimg:active { \n\ttransform: scale(1.3); /* (130% zoom - Note: if the zoom is too large, it will go outside of the viewport) */\n}\n\n.hint img { display: block; max-width: 925px; max-height: 100%; margin-center: auto; margin: 10px auto 0 auto;\nbox-shadow: 3px 6px 15px 1px rgba(0, 0, 0, 0.2), 3px 1px 20px 1px rgba(0, 0, 0, 0.19)\n}\n\ntr {font-size: 12px; }\n\n\n/* COLOR ACCENTS FOR BOLD-ITALICS-UNDERLINE */\nb {color: #306299; !important; } /* BOLD STYLE */\nu { text-decoration: none; color: #D18835 ;} /* UNDERLINE STYLE */\ni  { color: #309699; } /* ITALICS STYLE */\na { color: blue !important; text-decoration: none; font-size: 20px; font-style: normal; } /* LINK STYLE */\n\n.night_mode b { color: #C695C6; !important; } /* BOLD STYLE */\n.night_mode u { text-decoration: none !important; color: #5EB3B3; !important;} /* UNDERLINE STYLE */\n.night_mode i  { color: IndianRed !important; } /* ITALICS STYLE */\n.night_mode a { color: LightGray !important; text-decoration: none; font-size: 10px; font-style: normal; }\n\n.note {\n\tmargin-left: auto;\n   \tmargin-right: auto;\n    \twidth: 8em\n\tfont-family: Vernada;\n\tfont-size: 22px; \n\ttext-align: left; \n\tcolor: black; \n}\n.note img { display: block; max-width: 925px; max-height: 100%; margin-center: auto; margin: 10px auto 0 auto;\nbox-shadow: 3px 6px 15px 1px rgba(0, 0, 0, 0.2), 3px 1px 20px 1px rgba(0, 0, 0, 0.19)\n}\n\n.night_mode .note {\n\tmax-width: 600px;\n\tfont-family: Vernada;\n\tfont-size: 22px; /* FONT SIZE */\n\ttext-align: left; /* ALIGN TEXT */\n\tcolor: white; \n}\n\n.hint {  \nfont-family: Vernada;\n    font-size: 22px; /* FONT SIZE */\n    text-align: center; /* ALIGN TEXT */\n    color: black; /* FONT COLOR */\n}\n.night_mode .hint {  \nfont-family: Vernada;\n    font-size: 22px; /* FONT SIZE */\n    text-align: center; /* ALIGN TEXT */\n    color: white; /* FONT COLOR */\n}\n/* ADJUSTMENT FOR MOBILE DEVICES */\n.mobile .card { color: black; background-color: #FDFBF6; } \n.mobile .tags:hover { opacity: 1; position: relative;}\n.mobile .card img:active { width: inherit; max-height: none;}\n.mobile .card img { max-width: 100%; max-height: 650px;}",
             "flds": [
                 {
                     "font": "Helvetica",
@@ -39183,6 +39427,7 @@
             "name": "Cloze-AnKingMaster(First_Aid_Color_Match)",
             "sortf": 0,
             "tags": [
+                "Term4::week4::microbiology::lecture33",
                 "^Banki"
             ],
             "tmpls": [
