@@ -5036,14 +5036,35 @@
                 "Screen Shot 2019-09-12 at 2.10.06 PM.png",
                 "Screen Shot 2019-09-12 at 8.58.57 PM.png",
                 "Screen Shot 2019-09-13 at 7.55.20 PM.png",
+                "Screen Shot 2019-09-16 at 8.08.18 AM.png",
+                "Screen Shot 2019-09-16 at 8.32.22 AM.png",
+                "Screen Shot 2019-09-16 at 9.22.32 AM.png",
+                "Screen Shot 2019-09-16 at 9.30.06 AM.png",
+                "Screen Shot 2019-09-18 at 8.49.39 AM.png",
+                "Screen Shot 2019-09-18 at 9.00.12 AM.png",
                 "paste-1522c69770d445bbb121e8578d1b3c0ad10c5d26.jpg",
+                "paste-26cd03e5cb981fbc3636c926628e7a08659e5df4.png",
+                "paste-272026048660038.jpg",
                 "paste-29012504085062.jpg",
                 "paste-3415d07eee313a72b64bc78b44ce00735b68ede8.png",
+                "paste-365a1ef75bb3d5888bc56e9ec941dd3fd5395e58.png",
+                "paste-464c43417d7ceb7ed559b9e0cac35785b786fb17.png",
                 "paste-469b3f40b78742accfe3b00043574d34fe1ef2c8.png",
+                "paste-51b1c0bfdcc7b9b7d55422ee78575ad6e996f09b.png",
+                "paste-566dbca1d63197566b0b709ffd56983971e35121.png",
                 "paste-5b60da2dda5849e13ad498832e196d2b37cf21dc.jpg",
+                "paste-63894d6d2b7f7c68ce480be5cb275ff9a1aa8cf8.png",
+                "paste-71a36a0b876bc00e4fc1441c965a31e302009418.png",
+                "paste-76b70fc79c48b099ce5a47a37f88bb3b6975eec1.png",
+                "paste-7bc5c4c1fc04bfdd20079f5772cf4cab95473692.png",
+                "paste-8ef5892a3ecbabf421dd74bd22c28a3ff5b09802.png",
+                "paste-9a328e9d3ca7f7e0cee6af2937bf0e0d13669f6b.png",
+                "paste-ad91b2aaa6f21f9d67b9e5059ce640219ee2f98e.png",
                 "paste-b0d50aad9c279cbab27f4ffcab1cf4b652fb3744.png",
                 "paste-ccef8393e48be46b28ce385f0495bcce6de80d6e.png",
+                "paste-de336eba47f42602c927f4d47d48564bba1f5ee3.png",
                 "paste-dfad3b94b85eb922e0529d15c5e8e297af5b7752.png",
+                "paste-fdb4686ef345d7e4d43353a14281d96b41dc49eb.png",
                 "tmpAfAXVV.png",
                 "tmpHvEE4X.png",
                 "tmpaWSbB6.png"
@@ -5051,6 +5072,106 @@
             "mid": "1566767077263",
             "name": "(2)-Renal And Cardiovascular",
             "notes": [
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What is <b>malignant</b> hypertension? <br> <br> {{c1::BP &gt; 180/120::BP}}",
+                        "",
+                        "<img src=\"paste-76b70fc79c48b099ce5a47a37f88bb3b6975eec1.png\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "D5$rBe)g:C",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Robbins::Chapter_13(extra/alt)",
+                        "Term4::RC_module::week6::Pathology::lecture13",
+                        "^Banki",
+                        "^Pimp"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What <b>disease</b> presents with flea-bitten appearance of the kidney with pinpoint petechial hemorrhages, fibrinoid necrosis of small vessels, and hyperplastic arteriolosclerosis with onion skin appearance? <br> <br> {{c1::Malignant hypertension}}",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "r:4x[$,dlY",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Robbins::Chapter_13(extra/alt)",
+                        "Term4::RC_module::week6::Pathology::lecture13",
+                        "^Banki",
+                        "^Pimp"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What <b>gene</b> is defective in adult polycystic kidney disease? What <b>protein</b> does it encode? <br> <br> {{c1::PKD1 polycystin-1}}",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"Screen Shot 2019-09-18 at 8.49.39 AM.png\"><br>",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "I@S&,Qn.aF",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Robbins::Chapter_13(extra/alt)",
+                        "Term4::RC_module::week6::Pathology::lecture13",
+                        "^Banki",
+                        "^Pimp"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What gene is implicated in childhood polycystic kidney disease? What protein? <br> <br> {{c1::PKHD1 - fibrocystin}}",
+                        "",
+                        "<img src=\"paste-63894d6d2b7f7c68ce480be5cb275ff9a1aa8cf8.png\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "F}0S`L`keG",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Robbins::Chapter_13(extra/alt)",
+                        "Term4::RC_module::week6::Pathology::lecture13",
+                        "^Banki",
+                        "^Pimp"
+                    ]
+                },
                 {
                     "__type__": "Note",
                     "data": "",
@@ -5221,7 +5342,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "What is the general&nbsp;<b>pathogenesis</b> of pauci-immune glomerulonephritis?<div><br><div>{{c1::Anti-Neutrophil Cytoplasmic Antibody}}<br></div></div>",
+                        "What is the general&nbsp;<b>pathogenesis</b> of pauci-immune glomerulonephritis?<div><br><div>{{c1::Anti-Neutrophil Cytoplasmic Antibody (ANCA)}}<br></div></div>",
                         "<b>Pauci</b>-<b>immune</b>&nbsp;(<b>pauci</b>- Latin: few, little) vasculitis is a form of vasculitis that is associated with minimal evidence of hypersensitivity upon immunofluorescent staining for IgG.&nbsp;<div><br></div><div>A.K.A a kidney disorder that doesnt light up on immunoflourescence&nbsp;</div>",
                         "",
                         "",
@@ -5236,8 +5357,8 @@
                     "guid": "gpd2s.NU/X",
                     "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
                     "tags": [
-                        "Term4::RC_module::week5::Pathology",
-                        "^Banki"
+                        "^Banki",
+                        "Term4::RC_module::week5::Pathology"
                     ]
                 },
                 {
@@ -5308,6 +5429,420 @@
                         "Term4::RC_module::week5::Pharmacology::lecture8",
                         "^Banki"
                     ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div> <div> <div> <div> <div><b>Membranoproliferative glomerulonephritis</b> will have&nbsp;{{c1::decreased}} <u>complement</u> levels</div> </div> </div> </div></div>",
+                        "",
+                        "<img src=\"Screen Shot 2019-09-16 at 8.08.18 AM.png\"><br>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "luIRMomRF{",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::RC_module::week6::Pathology::lecture9",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div><i>Kidney (H&amp;E, IF)</i></div><div>What pathology is indicated by the slide below?</div><div><br></div><div>{{c1::IgA Nephropathy}}<br></div><img src=\"paste-26cd03e5cb981fbc3636c926628e7a08659e5df4.png\">",
+                        "",
+                        "<img src=\"paste-ad91b2aaa6f21f9d67b9e5059ce640219ee2f98e.png\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "O]I&28w7k!",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::RC_module::week6::Pathology::lecture9",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What <u>type</u> of <b>MPGN</b> presents with <b>subepithelial</b> deposits?<div><br></div><div>{{c1::Type III}}<br></div>",
+                        "",
+                        "<img src=\"Screen Shot 2019-09-16 at 8.32.22 AM.png\"><br>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "yM.;McvfBw",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::RC_module::week6::Pathology::lecture9",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What <u>class</u> of lupus nephritis presents with <i>minimal</i> mesangial deposits?<div><br></div><div>{{c1::Class I}}<br></div>",
+                        "",
+                        "<img src=\"paste-de336eba47f42602c927f4d47d48564bba1f5ee3.png\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "g5C2M~4#rt",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::RC_module::week6::Pathology::lecture9",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Which <u>class</u> of <b>lupus nephritis</b> is a mild form of the disease which rarely can lead to renal insufficiency?<div><br></div><div>{{c1::Class II}}<br></div>",
+                        "Something about IFa2? Idk look it up on the video later<div><br></div><div>Aka mesangial proliferative lupus nephritis</div>",
+                        "<img src=\"paste-de336eba47f42602c927f4d47d48564bba1f5ee3.png\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "q>0u^5SKmx",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::RC_module::week6::Pathology::lecture9",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Which <u>class</u> of lupus nephritis is classified by &lt;50% of the glomeruli affected?<div><br></div><div>{{c1::Class III}}<br></div>",
+                        "Aka&nbsp;<b>Focal segmental proliferative lupus nephritis</b>",
+                        "<img src=\"paste-71a36a0b876bc00e4fc1441c965a31e302009418.png\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "oEa7iU[9W&",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::RC_module::week6::Pathology::lecture9",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Which <u>class</u> of lupus nephritis is classified by &gt;50% of the glomeruli affected?<div><br></div><div>{{c1::Class IV}}<br></div>",
+                        "Aka <b>Diffuse proliferative lupus nephritis</b>",
+                        "<img src=\"paste-71a36a0b876bc00e4fc1441c965a31e302009418.png\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "w~CRzN?D8%",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::RC_module::week6::Pathology::lecture9",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What <u>class</u> of <b>lupus nephritis</b> will present with <b>subepithelial</b>&nbsp;immune complex deposits?<div><br></div><div>{{c1::Class V}}<br></div>",
+                        "Aka <b>membranous lupus nephritis</b>",
+                        "<img src=\"paste-9a328e9d3ca7f7e0cee6af2937bf0e0d13669f6b.png\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "J:5As.}GBX",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::RC_module::week6::Pathology::lecture9",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div><i>Sketchy Pharmacology: Respiratory (Antihistamines)</i></div><div><br></div><div><div>What&nbsp;<u>drug class</u>&nbsp;does&nbsp;<b>Certirixine</b>&nbsp;belong to?</div><div><br></div><div>{{c1::2nd generation H<sub>1</sub>&nbsp;receptor antagonists}}</div></div>",
+                        "<div>Can also be spelled as certirizine</div><img src=\"paste-272026048660038.jpg\">",
+                        "",
+                        "",
+                        "<img src=\"Screen Shot 2019-09-16 at 9.22.32 AM.png\"><br>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "oAgP8>e$|Z",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::RC_module::week6::Pharmacology::lecture10",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What <u>serious</u> adverse effect can <b>cisapride</b> cause?<div><br><div>{{c1::QT elongation}}<br></div></div>",
+                        "",
+                        "<img src=\"Screen Shot 2019-09-16 at 9.30.06 AM.png\"><br>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "Eo_{RP1U;e",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::RC_module::week6::Pharmacology::lecture10",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What can <u>potentiate</u> the adverse cardiac effects of <b>cisapride</b>?<div><br></div><div>{{c1::Drugs that inhibit CYP3A4}}<br></div>",
+                        "",
+                        "<img src=\"Screen Shot 2019-09-16 at 9.30.06 AM.png\"><br>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "DN>.,?K<S>",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::RC_module::week6::Pharmacology::lecture10",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What <b>drug</b> can be used in the <u>diagnosis</u> of variant angina by <b>provoking artery spasm?</b><div><br></div><div>{{c1::Ergonovine}}<br></div>",
+                        "<img src=\"paste-fdb4686ef345d7e4d43353a14281d96b41dc49eb.png\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "mV>C-3./CU",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::RC_module::week6::Pharmacology::lecture10",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<b>Epinephrine</b> is a {{c1::physiological antagonist}} of <b>histamine</b>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "N9tA|&`U/E",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::RC_module::week6::Pharmacology::lecture10",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div>What <b><u>receptor</u></b> is the <u>only</u> monoamine neurotransmitter receptor known to function as a <b>ligand-gated ion channel?&nbsp;</b></div><div><br></div>{{c1::5-HT<sub>3</sub>}}",
+                        "<b>Ondansetron</b>&nbsp;and&nbsp;<b>Vortioxetine </b>are both <u>antagonists</u><b>&nbsp;</b>of this channel<div><br><div>All other 5-HT are G-Protein-coupled receptors</div></div>",
+                        "<img src=\"paste-566dbca1d63197566b0b709ffd56983971e35121.png\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "IddF;`-p(]",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::RC_module::week6::Pharmacology::lecture10",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div><b>Benign nephrosclerosis</b> will present with a {{c1::decreased}} <b>GFR</b> and {{c1::increased}} <b>blood pressure</b></div>",
+                        "<div>This is a <u>clinical paradox</u></div>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<div><b><u>Goljan:</u></b></div><img src=\"paste-8ef5892a3ecbabf421dd74bd22c28a3ff5b09802.png\"><div><img src=\"paste-365a1ef75bb3d5888bc56e9ec941dd3fd5395e58.png\"></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "wCGqZ>Zt6A",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::RC_module::week6::Pathology::lecture13",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<b>Benign hypertensive nephrosclerosis</b> may develop into {{c1::FSGS}} as an adaptive response",
+                        "",
+                        "<img src=\"paste-464c43417d7ceb7ed559b9e0cac35785b786fb17.png\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<div><b><u>Goljan:</u></b></div><img src=\"paste-8ef5892a3ecbabf421dd74bd22c28a3ff5b09802.png\"><div><img src=\"paste-365a1ef75bb3d5888bc56e9ec941dd3fd5395e58.png\"></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "ntt*>*/X+3",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::RC_module::week6::Pathology::lecture13",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Which of the following presents with more severe renal failure and less pronounced CNS involvment?<div><br></div><div>{{c1::HUS::HUS/TPP}}<br></div>",
+                        "<img src=\"paste-51b1c0bfdcc7b9b7d55422ee78575ad6e996f09b.png\">",
+                        "<div><img src=\"Screen Shot 2019-09-18 at 9.00.12 AM.png\"></div><div><img src=\"paste-7bc5c4c1fc04bfdd20079f5772cf4cab95473692.png\"><br></div>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "PoiixAPx$a",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::RC_module::week6::Pathology::lecture13",
+                        "^Banki"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Which of the following presents with more severe CNS involvement and less pronounced renal failure?<div><br></div><div>{{c1::TPP::HUS/TPP}}<br></div>",
+                        "<img src=\"paste-51b1c0bfdcc7b9b7d55422ee78575ad6e996f09b.png\">",
+                        "<img src=\"paste-7bc5c4c1fc04bfdd20079f5772cf4cab95473692.png\"><div><img src=\"Screen Shot 2019-09-18 at 9.00.12 AM.png\"><br></div>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "v5;%jzA60X",
+                    "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
+                    "tags": [
+                        "Term4::RC_module::week6::Pathology::lecture13",
+                        "^Banki"
+                    ]
                 }
             ]
         },
@@ -5355,11 +5890,14 @@
                 "Screen Shot 2019-09-03 at 8.38.11 AM.png",
                 "Screen Shot 2019-09-03 at 8.42.33 AM.png",
                 "Screen Shot 2019-09-04 at 9.20.27 PM.png",
+                "Screen Shot 2019-09-17 at 8.33.18 AM.png",
+                "Screen Shot 2019-09-18 at 8.32.59 AM.png",
                 "paste-0bcdd2e981467afb38a5c4d63c6119df8c4fc92e.jpg",
                 "paste-517ad4c8f76575ae7be4e205b94c6253323b963e.jpg",
                 "paste-8b106ca89a7551ed418f66f0fba804bec6cd68d1.jpg",
                 "paste-c8eaf1ad6a2ad2e4bccc05d1d767c7e404157a24.jpg",
                 "paste-e19921b86c31d0e658042c7817c265d88fd2635a.jpg",
+                "paste-e6c4e43174fa010cbbce72cb07b944e55c4858d2.png",
                 "quizlet-7XHy9oSooFIPo7QLwMwxqQ_m.png",
                 "quizlet-HRziXYPC6.18YFct6iDaYg_m.png",
                 "quizlet-UiRcKcy5SeaabcOKDY0JXg_m.png",
@@ -10269,13 +10807,13 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "Focal, irregular thickening in medium and large muscular arteries wall due to intimal and medial hyperplasia leading to stenosis is ______ <br><br>{{c1::Fibromuscular dysplasia}}",
+                        "Focal, irregular thickening in medium and large muscular arteries wall due to intimal and medial hyperplasia leading to stenosis is {{c1::Fibromuscular dysplasia}}",
                         "",
                         "",
                         "",
                         "",
                         "",
-                        "",
+                        "<img src=\"Screen Shot 2019-09-18 at 8.32.59 AM.png\"><br>",
                         "",
                         "",
                         ""
@@ -10285,6 +10823,7 @@
                     "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
                     "tags": [
                         "Robbins::Chapter_11",
+                        "Term4::RC_module::week6::Pathology::lecture13",
                         "^Banki"
                     ]
                 },
@@ -10408,7 +10947,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "Epithelial sodium channels (ENaC) are tightly regulated by what system in the kidneys? ___________ <br><br>{{c1::Renin-angiotensin system}}",
+                        "Epithelial sodium channels (ENaC) are tightly regulated by what system in the kidneys?&nbsp;<br><br>{{c1::Renin-angiotensin system}}",
                         "",
                         "",
                         "",
@@ -10424,6 +10963,7 @@
                     "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
                     "tags": [
                         "Robbins::Chapter_11",
+                        "Term4::RC_module::week6::Pathology::lecture13",
                         "^Banki",
                         "^Pimp"
                     ]
@@ -10456,7 +10996,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "Dec in blood pressure causes the ______ to release _______ and it converts to _________, and to _______ and to ________ which leads to ___________ and adrenal gland releases __________ to inc _______ and resorb ___ & ___ <br><br>{{c1::- kidneys <br>- Renin <br>- Angiotensinogen<br>- Angiotensin I<br>- Angiotensin II <br>- Vasoconstriction and Inc in blood volume <br>- resorbs of H2O & NA}}",
+                        "Dec in blood pressure causes the {{c1::kidneys}} to release {{c1::renin}} and it converts to {{c1::Angiotensinogen}}, and to _______ and to ________ which leads to ___________ and adrenal gland releases __________ to inc _______ and resorb ___ &amp; ___ <br><br>{{c1::- kidneys <br>- Renin <br>- Angiotensinogen<br>- Angiotensin I<br>- Angiotensin II <br>- Vasoconstriction and Inc in blood volume <br>- resorbs of H2O &amp; NA}}",
                         "",
                         "",
                         "",
@@ -10595,7 +11135,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "Which arterioLOsclerosis causes *Severe malignant hypertension*, Vessels exhibit concentric laminated and Laminations are smooth muscle cells *(onion skin)* <br><br>{{c1::Hyperplastic ArterioLOsclerosis}}",
+                        "Which arterioLOsclerosis causes <b>severe malignant hypertension</b>, Vessels exhibit concentric laminated and Laminations are smooth muscle cells *(onion skin)* <br><br>{{c1::Hyperplastic ArterioLOsclerosis}}",
                         "",
                         "",
                         "",
@@ -22972,7 +23512,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "Manifested by hematuria\nprogressing to chronic renal failure, *associated with nerve deafness, lens dislocation, cataracts, and corneal dystrophy* with *basket-weave appearance*. <br><br>{{c1::Alport Syndrome}}",
+                        "What pathology is manifested by <b>hematuria</b>\nprogressing to chronic renal failure, associated with nerve deafness, lens dislocation, cataracts, and corneal dystrophy with <b>basket-weave appearance</b>?&nbsp;<br><br>{{c1::Alport Syndrome}}",
                         "",
                         "",
                         "",
@@ -23156,8 +23696,8 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "Characterized by tubulointerstitial inflammation, renal scarring, and dilated, deformed calyces. *Reflux nephropathy* is the most common. <br><br>{{c1::Chronic Pyelonephritis}}",
-                        "",
+                        "What <u>pathology</u> is characterized by <b>tubulointerstitial</b> <b>inflammation</b>, renal scarring, and dilated, deformed calyces?<br><br>{{c1::Chronic Pyelonephritis}}",
+                        "Reflux nephropathy is the most common.&nbsp;<div><img src=\"Screen Shot 2019-09-17 at 8.33.18 AM.png\"><br></div>",
                         "",
                         "",
                         "",
@@ -23171,7 +23711,8 @@
                     "guid": "DmpyJX~Oa^",
                     "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
                     "tags": [
-                        "Robbins::Chapter_20::The_Kidney",
+                        "Robbins::Chapter_14::The_Kidney",
+                        "Term4::RC_module::week6::Pathology::lecture11",
                         "^Banki"
                     ]
                 },
@@ -23195,7 +23736,7 @@
                     "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
                     "tags": [
                         "Robbins::Chapter_20::The_Kidney",
-                        "Term4::RC_module::RedbullFries::week6::Pathology::lecture13",
+                        "Term4::RC_module::week6::Pathology::lecture13",
                         "^Banki"
                     ]
                 },
@@ -23219,7 +23760,7 @@
                     "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
                     "tags": [
                         "Robbins::Chapter_20::The_Kidney",
-                        "Term4::RC_module::RedbullFries::week6::Pathology::lecture13",
+                        "Term4::RC_module::week6::Pathology::lecture13",
                         "^Banki"
                     ]
                 },
@@ -32158,9 +32699,9 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "What Syndrome is caused by *deficiency of complement regulatory proteins* that damage *endothelial cells? __ <br><br>{{c1::Hemolytic Uremic Syndrome}}",
+                        "What syndrome is caused by <i>deficiency</i> of complement <b>regulatory proteins</b>&nbsp;that damage endothelial cells?&nbsp;<br><br>{{c1::Hemolytic Uremic Syndrome}}",
                         "",
-                        "",
+                        "<img src=\"paste-e6c4e43174fa010cbbce72cb07b944e55c4858d2.png\">",
                         "",
                         "",
                         "",
@@ -32174,6 +32715,7 @@
                     "note_model_uuid": "5f9b3202-c8c2-11e9-b2a8-dca9046e43a6",
                     "tags": [
                         "Robbins::Chapter_14",
+                        "Term4::RC_module::week6::Pathology::lecture13",
                         "^Banki",
                         "^Pimp"
                     ]
@@ -36883,7 +37425,7 @@
                     "__type__": "Note",
                     "data": "",
                     "fields": [
-                        "Thrombin converts fibrinogen to ___ <br.<br>{{c1::fibrin}}",
+                        "Thrombin converts fibrinogen to <br.<br>{{c1::fibrin}}</br.<br>",
                         "",
                         "",
                         "",
@@ -39501,7 +40043,7 @@
                     7
                 ],
                 "order": 1,
-                "perDay": 150,
+                "perDay": 175,
                 "retirementActions": {
                     "delete": false,
                     "move": false,
@@ -39581,7 +40123,7 @@
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "acb98e58-c098-11e9-81dc-acde48001122",
-            "css": "/* Profile: Ultrazanki FA || Satus: Saved */ \n\nhtml { overflow: scroll; overflow-x: hidden; }\n/* CONTAINER FOR YOUR CARDS */\n#kard {\n    padding: 0px 0px;\n    max-width: 950px; /* CHANGE CARD SIZE HERE */\n    margin: 0 auto; /* CENTERS THE CARD IN THE MIDDLE OF THE WINDOW */\n    word-wrap: break-word; /* BREAKS UP LONG WORKS */\n}\n\n\n/* APPLIES TO THE WHOLE CARD */\n.card {\n    font-family: Vernada;\n    font-size: 28px; /* FONT SIZE */\n    text-align: center; /* ALIGN TEXT */\n    color: black; /* FONT COLOR */\n    line-height: 1.2em;\n    background-color: #FEFCF9; /* BACKGROUND COLOR Orange FDFBF6 blue/white FAFAFA  */\n}\n/* STYLE FOR CLOZE DELETIONS */\n.cloze, .cloze b, .cloze u, .cloze i { font-weight: bold; color: #993330 !important;}\n\n.night_mode .cloze  { font-weight: bold; color: MediumSeaGreen !important;}\n.night_mode .cloze b { font-weight: bold; color: MediumSeaGreen !important;}\n.night_mode .cloze u { font-weight: bold; color: MediumSeaGreen !important;}\n.night_mode .cloze i { font-weight: bold; color: MediumSeaGreen !important;}\n\n\n/* STYLE FOR EXTRA PORTION ON BACK OF CARD */\n#extra { font-size: 26px; color: black; font-style: italic;  }\n#extra i { font-size: 26px; color: black; font-style: italic;  }\n\n.night_mode #extra { font-size: 26px; color: white !important; font-style: italic; }\n.night_mode #extra i { font-size: 26px; color: white !important; font-style: italic; }\n\n/* STYLE TAGS TO APPEAR WHEN HOVERING OVER TOP OF CARD */\n.tags { \n    color: #A6ABB9;\n    opacity: 0;\n    font-size: 10px; \n    width: 100%;\n    text-align: left;\n    text-transform: uppercase; \n    position: fixed; \n    padding: 0; \n    bottom:0;  \n    right: 0;}\n.tags:hover { opacity: 1; position: fixed;}\n\n\n/* IMAGE STYLE */\nimg { display: block; max-width: 100%; max-height: 650px; margin-center: auto; margin: 10px auto 0 auto;\nbox-shadow: 3px 6px 15px 1px rgba(0, 0, 0, 0.2), 3px 1px 20px 1px rgba(0, 0, 0, 0.19)\n}\nimg:active { width: 100%; }\ntr {font-size: 12px; }\n\n\n/* COLOR ACCENTS FOR BOLD-ITALICS-UNDERLINE */\nb {color: #306299; !important; } /* BOLD STYLE */\nu { text-decoration: none; color: #D18835 ;} /* UNDERLINE STYLE */\ni  { color: #309699; } /* ITALICS STYLE */\na { color: LightGray !important; text-decoration: none; font-size: 10px; font-style: normal; } /* LINK STYLE */\n\n.night_mode b { color: #C695C6; !important; } /* BOLD STYLE */\n.night_mode u { text-decoration: none !important; color: #5EB3B3; !important;} /* UNDERLINE STYLE */\n.night_mode i  { color: IndianRed !important; } /* ITALICS STYLE */\n.night_mode a { color: LightGray !important; text-decoration: none; font-size: 10px; font-style: normal; }\n\n\n\n.hint {  \nfont-family: Vernada;\n    font-size: 22px; /* FONT SIZE */\n    text-align: center; /* ALIGN TEXT */\n    color: black; /* FONT COLOR */\n}\n.night_mode .hint {  \nfont-family: Vernada;\n    font-size: 22px; /* FONT SIZE */\n    text-align: center; /* ALIGN TEXT */\n    color: black; /* FONT COLOR */\n}\n/* ADJUSTMENT FOR MOBILE DEVICES */\n.mobile .card { color: black; background-color: #FDFBF6; } \n.mobile .tags:hover { opacity: 1; position: fixed;}\n.mobile .card img:active { width: inherit; max-height: none;}\n",
+            "css": "/* Profile: Ultrazanki FA || Satus: Saved */ \n\nhtml { overflow: scroll; overflow-x: hidden; }\n/* CONTAINER FOR YOUR CARDS */\n#kard {\n    padding: 0px 0px;\n    max-width: 950px; /* CHANGE CARD SIZE HERE */\n    margin: 0 auto; /* CENTERS THE CARD IN THE MIDDLE OF THE WINDOW */\n    word-wrap: break-word; /* BREAKS UP LONG WORKS */\n}\n\n\n/* APPLIES TO THE WHOLE CARD */\n.card {\n    font-family: Vernada;\n    font-size: 28px; /* FONT SIZE */\n    text-align: center; /* ALIGN TEXT */\n    color: black; /* FONT COLOR */\n    line-height: 1.2em;\n    background-color: #FEFCF9; /* BACKGROUND COLOR Orange FDFBF6 blue/white FAFAFA  */\n}\n/* STYLE FOR CLOZE DELETIONS */\n.cloze, .cloze b, .cloze u, .cloze i { font-weight: bold; color: #993330 !important;}\n\n.night_mode .cloze  { font-weight: bold; color: MediumSeaGreen !important;}\n.night_mode .cloze b { font-weight: bold; color: MediumSeaGreen !important;}\n.night_mode .cloze u { font-weight: bold; color: MediumSeaGreen !important;}\n.night_mode .cloze i { font-weight: bold; color: MediumSeaGreen !important;}\n\n\n/* STYLE FOR EXTRA PORTION ON BACK OF CARD */\n#extra { font-size: 26px; color: black; font-style: italic;  }\n#extra i { font-size: 26px; color: black; font-style: italic;  }\n\n.night_mode #extra { font-size: 26px; color: white !important; font-style: italic; }\n.night_mode #extra i { font-size: 26px; color: white !important; font-style: italic; }\n\n/* STYLE TAGS TO APPEAR WHEN HOVERING OVER TOP OF CARD */\n.tags { \n    color: #A6ABB9;\n    opacity: 0;\n    font-size: 10px; \n    width: 100%;\n    text-align: left;\n    text-transform: uppercase; \n    position: fixed; \n    padding: 0; \n    bottom:0;  \n    right: 0;}\n.tags:hover { opacity: 1; position: fixed;}\n\n\n/* IMAGE STYLE */\nimg { display: block; max-width: 100%; max-height: 650px; margin-center: auto; margin: 10px auto 0 auto;\nbox-shadow: 3px 6px 15px 1px rgba(0, 0, 0, 0.2), 3px 1px 20px 1px rgba(0, 0, 0, 0.19)\n}\nimg:active { width: 100%; }\ntr {font-size: 12px; }\n\n\n/* COLOR ACCENTS FOR BOLD-ITALICS-UNDERLINE */\nb {color: #306299; !important; } /* BOLD STYLE */\nu { text-decoration: none; color: #D18835 ;} /* UNDERLINE STYLE */\ni  { color: #309699; } /* ITALICS STYLE */\na { color: LightGray !important; text-decoration: none; font-size: 10px; font-style: normal; } /* LINK STYLE */\n\n.night_mode b { color: #C695C6; !important; } /* BOLD STYLE */\n.night_mode u { text-decoration: none !important; color: #5EB3B3; !important;} /* UNDERLINE STYLE */\n.night_mode i  { color: IndianRed !important; } /* ITALICS STYLE */\n.night_mode a { color: LightGray !important; text-decoration: none; font-size: 10px; font-style: normal; }\n\n\n\n.hint {  \nfont-family: Vernada;\n    font-size: 22px; /* FONT SIZE */\n    text-align: center; /* ALIGN TEXT */\n    color: black; /* FONT COLOR */\n}\n.night_mode .hint {  \nfont-family: Vernada;\n    font-size: 22px; /* FONT SIZE */\n    text-align: center; /* ALIGN TEXT */\n    color: black; /* FONT COLOR */\n}\n/* ADJUSTMENT FOR MOBILE DEVICES */\n.mobile .card { color: black; background-color: #FDFBF6; } \n.mobile .card img:active { width: inherit; max-height: none;}\n",
             "flds": [
                 {
                     "font": "Helvetica",
@@ -39890,7 +40432,7 @@
             "name": "Cloze-E-z-A-Pathology",
             "sortf": 0,
             "tags": [
-                "Term4::RC_module::week5::Pharmacology::lecture8",
+                "Term4::RC_module::week6::Pathology::lecture13",
                 "^Banki"
             ],
             "tmpls": [
